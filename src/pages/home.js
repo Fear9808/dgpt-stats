@@ -1,7 +1,19 @@
 import React, {useEffect, useState} from 'react';
+import PlayerPickerComponent from '../components/PlayerPickerComponent';
 
 const Home = () => {
     const [data, setData] = useState();
+    const [player, setPlayer] = useState('');
+
+    const handlePlayerSelect = (selectedPlayer) =>{
+        // Passed state from PlayerPickerComponent
+        if(selectedPlayer){
+            setPlayer(selectedPlayer);
+        }else{
+            alert("Could not get selected player")
+        }
+        
+    };
 
     /* const getDataFromApi = async(e)=>{
         e.preventDefault();
@@ -26,10 +38,13 @@ const Home = () => {
     return (
         <div>
             <h1>Home Page</h1>
+            <PlayerPickerComponent data={data} handlePlayerSelect={handlePlayerSelect}/>
             <p>This is home page</p>
-            {console.log(data? data: "no data loaded...")}
+            <p>{player}</p>
         </div>
     );
+
+    
 };
 
 export default Home;
