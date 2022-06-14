@@ -1,9 +1,11 @@
 import React, {useEffect, useState} from 'react';
+import DisplayAllPlayerData from '../components/DisplayAllPlayerData';
 import PlayerPickerComponent from '../components/PlayerPickerComponent';
 
 const Home = () => {
-    const [data, setData] = useState();
+    const [data, setData] = useState([]);
     const [player, setPlayer] = useState('');
+    const [playerData, setPlayerData] = useState({});
 
     const handlePlayerSelect = (selectedPlayer) =>{
         // Passed state from PlayerPickerComponent
@@ -12,18 +14,22 @@ const Home = () => {
         }else{
             alert("Could not get selected player")
         }
-        
     };
 
-    /* const getDataFromApi = async(e)=>{
-        e.preventDefault();
-        const data = await fetch(`../api/testFunction?query=${query}`);
-        const json = await data.json();
-        console.log(json);
-        if (json[0].name){
-        setMessage(json[0]['score']['par']);
+    const getPlayerDataByName = (player) => {
+        if(data && player){
+            let found = data.find((object) =>{
+                return object.name === player;
+            })
+            if(found){
+                setPlayerData(found)
+            }else{
+                alert('Player data not found')
+            }
         }
-    }; */
+    }
+
+    // Runs on first render
     useEffect(() => {
         fetch('../api/testFunction')
         .then((response) => response.json())
@@ -35,12 +41,22 @@ const Home = () => {
         });
     },[]);
 
+    // Runs when player state updates
+    useEffect(()=>{
+        getPlayerDataByName(player)
+    },[player])
+
+
+
+    const displayPlayerData = (playerData) => {
+        
+    }
+
     return (
         <div>
             <h1>Home Page</h1>
             <PlayerPickerComponent data={data} handlePlayerSelect={handlePlayerSelect}/>
-            <p>This is home page</p>
-            <p>{player}</p>
+            <DisplayAllPlayerData playerData={playerData}/>
         </div>
     );
 

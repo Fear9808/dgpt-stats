@@ -1,16 +1,9 @@
-const jsonFindAllByKey = (obj, key) => {
-    const arr = obj['prop'];
-    if(arr.length){
-       const result = arr.filter(el => {
-          return el['key'] === key;
-       });
-       if(result && result.length){
-          return result[0].value;
-       }
-       else{
-          return '';
-       }
-    }
+const getPlayerNamesFromCompetition = (data) => {
+   var playerNames = [];
+   for (var i = 0; i < data.length; i++){
+      playerNames.push(data[i].name)
+   }
+   return playerNames;
  }
 
- export default {jsonFindAllByKey};
+ export default {getPlayerNamesFromCompetition};

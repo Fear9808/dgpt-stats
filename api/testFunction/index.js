@@ -24,7 +24,7 @@ module.exports = async function (context, req) {
     
     const collection  = connection.db.collection("test");
     let response = await collection.find(query).toArray();
-    console.log(response);
+    //console.log(response);
 
     context.res = {
         // status: 200, /* Defaults to 200 */
