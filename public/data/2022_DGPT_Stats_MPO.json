@@ -1,0 +1,4881 @@
+{
+    "tourName": "2022 DGPT Stats",
+    "tourYear": 2022,
+    "MPO/FPO": "MPO",
+    "numberOfPlayers": 202,
+    "updatedDate": "2022-06-18 15:09",
+    "averagePlayer": {
+        "playerName": "player_average",
+        "playerPosition": 0,
+        "score": {
+            "ace": 0.018,
+            "eagle": 0.164,
+            "birdie": 27.656,
+            "par": 51.614,
+            "bogey": 16.035,
+            "doubleBogey": 3.587,
+            "tripleBogey": 0.927
+        },
+        "stats": {
+            "fairwayHits": 66.198,
+            "parked": 7.564,
+            "circle1Reg": 29.53,
+            "circle2Reg": 51.381,
+            "scramble": 39.856,
+            "circle1Putting": 76.257,
+            "circle2Putting": 20.426,
+            "throwIn": 0.006,
+            "ob": 0.119
+        }
+    },
+    "players": [
+        {
+            "playerName": "Calvin Heimburg",
+            "playerPosition": 1,
+            "score": {
+                "ace": 0,
+                "eagle": 0.979,
+                "birdie": 44.372,
+                "par": 42.578,
+                "bogey": 10.93,
+                "doubleBogey": 0.816,
+                "tripleBogey": 0.326
+            },
+            "stats": {
+                "fairwayHits": 76,
+                "parked": 12,
+                "circle1Reg": 44,
+                "circle2Reg": 68,
+                "scramble": 54,
+                "circle1Putting": 84,
+                "circle2Putting": 26,
+                "throwIn": 0.005,
+                "ob": 0.093
+            }
+        },
+        {
+            "playerName": "Ricky Wysocki",
+            "playerPosition": 2,
+            "score": {
+                "ace": 0,
+                "eagle": 0.823,
+                "birdie": 45.885,
+                "par": 43.004,
+                "bogey": 9.465,
+                "doubleBogey": 0.823,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 16,
+                "circle1Reg": 47,
+                "circle2Reg": 67,
+                "scramble": 65,
+                "circle1Putting": 86,
+                "circle2Putting": 22,
+                "throwIn": 0.008,
+                "ob": 0.078
+            }
+        },
+        {
+            "playerName": "Gannon Buhr",
+            "playerPosition": 3,
+            "score": {
+                "ace": 0,
+                "eagle": 0.414,
+                "birdie": 41.437,
+                "par": 49.033,
+                "bogey": 7.597,
+                "doubleBogey": 1.243,
+                "tripleBogey": 0.276
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 10,
+                "circle1Reg": 38,
+                "circle2Reg": 65,
+                "scramble": 65,
+                "circle1Putting": 87,
+                "circle2Putting": 32,
+                "throwIn": 0.007,
+                "ob": 0.077
+            }
+        },
+        {
+            "playerName": "Chris Dickerson",
+            "playerPosition": 4,
+            "score": {
+                "ace": 0,
+                "eagle": 0.206,
+                "birdie": 45.473,
+                "par": 46.296,
+                "bogey": 6.79,
+                "doubleBogey": 1.029,
+                "tripleBogey": 0.206
+            },
+            "stats": {
+                "fairwayHits": 80,
+                "parked": 13,
+                "circle1Reg": 48,
+                "circle2Reg": 72,
+                "scramble": 59,
+                "circle1Putting": 83,
+                "circle2Putting": 18,
+                "throwIn": 0.004,
+                "ob": 0.074
+            }
+        },
+        {
+            "playerName": "Paul McBeth",
+            "playerPosition": 5,
+            "score": {
+                "ace": 0,
+                "eagle": 0.867,
+                "birdie": 42.981,
+                "par": 43.847,
+                "bogey": 9.359,
+                "doubleBogey": 2.253,
+                "tripleBogey": 0.693
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 11,
+                "circle1Reg": 39,
+                "circle2Reg": 63,
+                "scramble": 55,
+                "circle1Putting": 88,
+                "circle2Putting": 29,
+                "throwIn": 0.017,
+                "ob": 0.105
+            }
+        },
+        {
+            "playerName": "Joel Freeman",
+            "playerPosition": 6,
+            "score": {
+                "ace": 0.154,
+                "eagle": 0.154,
+                "birdie": 37.5,
+                "par": 51.697,
+                "bogey": 9.105,
+                "doubleBogey": 1.235,
+                "tripleBogey": 0.154
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 10,
+                "circle1Reg": 38,
+                "circle2Reg": 63,
+                "scramble": 56,
+                "circle1Putting": 84,
+                "circle2Putting": 24,
+                "throwIn": 0.011,
+                "ob": 0.093
+            }
+        },
+        {
+            "playerName": "James Conrad",
+            "playerPosition": 7,
+            "score": {
+                "ace": 0,
+                "eagle": 0.327,
+                "birdie": 39.706,
+                "par": 49.183,
+                "bogey": 9.15,
+                "doubleBogey": 1.307,
+                "tripleBogey": 0.327
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 12,
+                "circle1Reg": 41,
+                "circle2Reg": 64,
+                "scramble": 57,
+                "circle1Putting": 85,
+                "circle2Putting": 21,
+                "throwIn": 0.007,
+                "ob": 0.104
+            }
+        },
+        {
+            "playerName": "Simon Lizotte",
+            "playerPosition": 8,
+            "score": {
+                "ace": 0,
+                "eagle": 1.058,
+                "birdie": 40.476,
+                "par": 46.296,
+                "bogey": 9.259,
+                "doubleBogey": 2.381,
+                "tripleBogey": 0.529
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 15,
+                "circle1Reg": 42,
+                "circle2Reg": 64,
+                "scramble": 59,
+                "circle1Putting": 82,
+                "circle2Putting": 22,
+                "throwIn": 0.003,
+                "ob": 0.103
+            }
+        },
+        {
+            "playerName": "Kevin Jones",
+            "playerPosition": 9,
+            "score": {
+                "ace": 0,
+                "eagle": 0.556,
+                "birdie": 38.056,
+                "par": 48.194,
+                "bogey": 10.833,
+                "doubleBogey": 1.528,
+                "tripleBogey": 0.833
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 12,
+                "circle1Reg": 37,
+                "circle2Reg": 61,
+                "scramble": 53,
+                "circle1Putting": 85,
+                "circle2Putting": 26,
+                "throwIn": 0.011,
+                "ob": 0.118
+            }
+        },
+        {
+            "playerName": "Aaron Gossage",
+            "playerPosition": 10,
+            "score": {
+                "ace": 0.142,
+                "eagle": 0.712,
+                "birdie": 37.607,
+                "par": 45.584,
+                "bogey": 13.248,
+                "doubleBogey": 2.279,
+                "tripleBogey": 0.427
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 11,
+                "circle1Reg": 41,
+                "circle2Reg": 61,
+                "scramble": 56,
+                "circle1Putting": 77,
+                "circle2Putting": 24,
+                "throwIn": 0.009,
+                "ob": 0.106
+            }
+        },
+        {
+            "playerName": "Drew Gibson",
+            "playerPosition": 11,
+            "score": {
+                "ace": 0,
+                "eagle": 0.441,
+                "birdie": 42.731,
+                "par": 40.969,
+                "bogey": 13.436,
+                "doubleBogey": 2.423,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 12,
+                "circle1Reg": 41,
+                "circle2Reg": 64,
+                "scramble": 47,
+                "circle1Putting": 84,
+                "circle2Putting": 33,
+                "throwIn": 0.007,
+                "ob": 0.158
+            }
+        },
+        {
+            "playerName": "Corey Ellis",
+            "playerPosition": 12,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 40.451,
+                "par": 43.924,
+                "bogey": 11.979,
+                "doubleBogey": 2.431,
+                "tripleBogey": 1.215
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 9,
+                "circle1Reg": 34,
+                "circle2Reg": 59,
+                "scramble": 55,
+                "circle1Putting": 84,
+                "circle2Putting": 38,
+                "throwIn": 0.003,
+                "ob": 0.131
+            }
+        },
+        {
+            "playerName": "Ezra Aderhold",
+            "playerPosition": 13,
+            "score": {
+                "ace": 0,
+                "eagle": 1.111,
+                "birdie": 38.889,
+                "par": 44.028,
+                "bogey": 12.361,
+                "doubleBogey": 2.778,
+                "tripleBogey": 0.833
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 11,
+                "circle1Reg": 43,
+                "circle2Reg": 65,
+                "scramble": 44,
+                "circle1Putting": 74,
+                "circle2Putting": 28,
+                "throwIn": 0.009,
+                "ob": 0.108
+            }
+        },
+        {
+            "playerName": "Chris Clemons",
+            "playerPosition": 14,
+            "score": {
+                "ace": 0,
+                "eagle": 0.427,
+                "birdie": 33.048,
+                "par": 54.558,
+                "bogey": 10.969,
+                "doubleBogey": 0.855,
+                "tripleBogey": 0.142
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 57,
+                "scramble": 49,
+                "circle1Putting": 86,
+                "circle2Putting": 27,
+                "throwIn": 0,
+                "ob": 0.082
+            }
+        },
+        {
+            "playerName": "Mason Ford",
+            "playerPosition": 15,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.155,
+                "par": 55.219,
+                "bogey": 11.448,
+                "doubleBogey": 1.178,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 9,
+                "circle1Reg": 33,
+                "circle2Reg": 55,
+                "scramble": 51,
+                "circle1Putting": 85,
+                "circle2Putting": 17,
+                "throwIn": 0,
+                "ob": 0.091
+            }
+        },
+        {
+            "playerName": "Nikko Locastro",
+            "playerPosition": 16,
+            "score": {
+                "ace": 0,
+                "eagle": 0.694,
+                "birdie": 38.194,
+                "par": 51.91,
+                "bogey": 7.812,
+                "doubleBogey": 1.215,
+                "tripleBogey": 0.174
+            },
+            "stats": {
+                "fairwayHits": 75,
+                "parked": 11,
+                "circle1Reg": 41,
+                "circle2Reg": 67,
+                "scramble": 58,
+                "circle1Putting": 78,
+                "circle2Putting": 23,
+                "throwIn": 0.008,
+                "ob": 0.072
+            }
+        },
+        {
+            "playerName": "Kyle Klein",
+            "playerPosition": 17,
+            "score": {
+                "ace": 0,
+                "eagle": 0.15,
+                "birdie": 40.39,
+                "par": 45.495,
+                "bogey": 11.111,
+                "doubleBogey": 2.402,
+                "tripleBogey": 0.45
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 12,
+                "circle1Reg": 40,
+                "circle2Reg": 62,
+                "scramble": 49,
+                "circle1Putting": 84,
+                "circle2Putting": 27,
+                "throwIn": 0.008,
+                "ob": 0.111
+            }
+        },
+        {
+            "playerName": "Matthew Orum",
+            "playerPosition": 18,
+            "score": {
+                "ace": 0,
+                "eagle": 0.265,
+                "birdie": 41.534,
+                "par": 49.206,
+                "bogey": 7.407,
+                "doubleBogey": 1.587,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 12,
+                "circle1Reg": 39,
+                "circle2Reg": 62,
+                "scramble": 60,
+                "circle1Putting": 86,
+                "circle2Putting": 33,
+                "throwIn": 0.003,
+                "ob": 0.066
+            }
+        },
+        {
+            "playerName": "Emerson Keith",
+            "playerPosition": 19,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 35.238,
+                "par": 50.159,
+                "bogey": 11.746,
+                "doubleBogey": 2.222,
+                "tripleBogey": 0.635
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 10,
+                "circle1Reg": 39,
+                "circle2Reg": 59,
+                "scramble": 47,
+                "circle1Putting": 78,
+                "circle2Putting": 21,
+                "throwIn": 0.003,
+                "ob": 0.102
+            }
+        },
+        {
+            "playerName": "Garrett Gurthie",
+            "playerPosition": 20,
+            "score": {
+                "ace": 0,
+                "eagle": 0.309,
+                "birdie": 35.494,
+                "par": 50.772,
+                "bogey": 12.191,
+                "doubleBogey": 1.08,
+                "tripleBogey": 0.154
+            },
+            "stats": {
+                "fairwayHits": 75,
+                "parked": 12,
+                "circle1Reg": 39,
+                "circle2Reg": 64,
+                "scramble": 43,
+                "circle1Putting": 78,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.102
+            }
+        },
+        {
+            "playerName": "Thomas Gilbert",
+            "playerPosition": 21,
+            "score": {
+                "ace": 0,
+                "eagle": 0.45,
+                "birdie": 37.087,
+                "par": 46.246,
+                "bogey": 13.514,
+                "doubleBogey": 2.252,
+                "tripleBogey": 0.45
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 9,
+                "circle1Reg": 36,
+                "circle2Reg": 58,
+                "scramble": 48,
+                "circle1Putting": 85,
+                "circle2Putting": 31,
+                "throwIn": 0.003,
+                "ob": 0.116
+            }
+        },
+        {
+            "playerName": "Luke Humphries",
+            "playerPosition": 22,
+            "score": {
+                "ace": 0,
+                "eagle": 0.427,
+                "birdie": 35.897,
+                "par": 47.436,
+                "bogey": 13.39,
+                "doubleBogey": 2.279,
+                "tripleBogey": 0.57
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 10,
+                "circle1Reg": 35,
+                "circle2Reg": 55,
+                "scramble": 50,
+                "circle1Putting": 83,
+                "circle2Putting": 31,
+                "throwIn": 0.01,
+                "ob": 0.104
+            }
+        },
+        {
+            "playerName": "Adam Hammes",
+            "playerPosition": 23,
+            "score": {
+                "ace": 0,
+                "eagle": 0.154,
+                "birdie": 40.278,
+                "par": 45.216,
+                "bogey": 11.728,
+                "doubleBogey": 1.698,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 11,
+                "circle1Reg": 38,
+                "circle2Reg": 59,
+                "scramble": 48,
+                "circle1Putting": 86,
+                "circle2Putting": 31,
+                "throwIn": 0.003,
+                "ob": 0.092
+            }
+        },
+        {
+            "playerName": "Albert Tamm",
+            "playerPosition": 24,
+            "score": {
+                "ace": 0,
+                "eagle": 0.427,
+                "birdie": 36.895,
+                "par": 47.151,
+                "bogey": 12.678,
+                "doubleBogey": 2.279,
+                "tripleBogey": 0.57
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 12,
+                "circle1Reg": 44,
+                "circle2Reg": 67,
+                "scramble": 40,
+                "circle1Putting": 72,
+                "circle2Putting": 13,
+                "throwIn": 0.003,
+                "ob": 0.12
+            }
+        },
+        {
+            "playerName": "Alden Harris",
+            "playerPosition": 25,
+            "score": {
+                "ace": 0,
+                "eagle": 0.136,
+                "birdie": 32.114,
+                "par": 54.742,
+                "bogey": 10.84,
+                "doubleBogey": 1.762,
+                "tripleBogey": 0.407
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 11,
+                "circle1Reg": 31,
+                "circle2Reg": 57,
+                "scramble": 50,
+                "circle1Putting": 84,
+                "circle2Putting": 23,
+                "throwIn": 0.004,
+                "ob": 0.087
+            }
+        },
+        {
+            "playerName": "Chandler Fry",
+            "playerPosition": 26,
+            "score": {
+                "ace": 0.15,
+                "eagle": 0.3,
+                "birdie": 34.084,
+                "par": 50,
+                "bogey": 12.162,
+                "doubleBogey": 2.402,
+                "tripleBogey": 0.901
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 8,
+                "circle1Reg": 32,
+                "circle2Reg": 55,
+                "scramble": 47,
+                "circle1Putting": 83,
+                "circle2Putting": 29,
+                "throwIn": 0.005,
+                "ob": 0.108
+            }
+        },
+        {
+            "playerName": "Anthony Barela",
+            "playerPosition": 27,
+            "score": {
+                "ace": 0,
+                "eagle": 0.926,
+                "birdie": 38.194,
+                "par": 46.296,
+                "bogey": 10.417,
+                "doubleBogey": 3.935,
+                "tripleBogey": 0.231
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 9,
+                "circle1Reg": 40,
+                "circle2Reg": 64,
+                "scramble": 51,
+                "circle1Putting": 81,
+                "circle2Putting": 25,
+                "throwIn": 0,
+                "ob": 0.16
+            }
+        },
+        {
+            "playerName": "Isaac Robinson",
+            "playerPosition": 28,
+            "score": {
+                "ace": 0,
+                "eagle": 0.98,
+                "birdie": 40.523,
+                "par": 46.078,
+                "bogey": 10.131,
+                "doubleBogey": 1.961,
+                "tripleBogey": 0.327
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 10,
+                "circle1Reg": 38,
+                "circle2Reg": 60,
+                "scramble": 58,
+                "circle1Putting": 90,
+                "circle2Putting": 27,
+                "throwIn": 0.01,
+                "ob": 0.078
+            }
+        },
+        {
+            "playerName": "Casey White",
+            "playerPosition": 29,
+            "score": {
+                "ace": 0,
+                "eagle": 0.168,
+                "birdie": 33.838,
+                "par": 49.327,
+                "bogey": 14.141,
+                "doubleBogey": 2.357,
+                "tripleBogey": 0.168
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 8,
+                "circle1Reg": 34,
+                "circle2Reg": 58,
+                "scramble": 39,
+                "circle1Putting": 76,
+                "circle2Putting": 27,
+                "throwIn": 0.007,
+                "ob": 0.099
+            }
+        },
+        {
+            "playerName": "Gavin Babcock",
+            "playerPosition": 30,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.656,
+                "par": 50.813,
+                "bogey": 12.331,
+                "doubleBogey": 3.659,
+                "tripleBogey": 0.542
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 9,
+                "circle1Reg": 30,
+                "circle2Reg": 55,
+                "scramble": 45,
+                "circle1Putting": 81,
+                "circle2Putting": 29,
+                "throwIn": 0.007,
+                "ob": 0.114
+            }
+        },
+        {
+            "playerName": "Luke Samson",
+            "playerPosition": 31,
+            "score": {
+                "ace": 0,
+                "eagle": 0.129,
+                "birdie": 32.429,
+                "par": 52.326,
+                "bogey": 13.437,
+                "doubleBogey": 1.292,
+                "tripleBogey": 0.388
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 9,
+                "circle1Reg": 34,
+                "circle2Reg": 58,
+                "scramble": 36,
+                "circle1Putting": 78,
+                "circle2Putting": 24,
+                "throwIn": 0.004,
+                "ob": 0.101
+            }
+        },
+        {
+            "playerName": "Jeremy Koling",
+            "playerPosition": 32,
+            "score": {
+                "ace": 0.174,
+                "eagle": 0.174,
+                "birdie": 32.639,
+                "par": 50.694,
+                "bogey": 14.062,
+                "doubleBogey": 1.736,
+                "tripleBogey": 0.521
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 11,
+                "circle1Reg": 35,
+                "circle2Reg": 52,
+                "scramble": 52,
+                "circle1Putting": 81,
+                "circle2Putting": 22,
+                "throwIn": 0.007,
+                "ob": 0.141
+            }
+        },
+        {
+            "playerName": "Bradley Williams",
+            "playerPosition": 33,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.848,
+                "par": 54.045,
+                "bogey": 11.165,
+                "doubleBogey": 1.618,
+                "tripleBogey": 0.324
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 9,
+                "circle1Reg": 35,
+                "circle2Reg": 57,
+                "scramble": 49,
+                "circle1Putting": 80,
+                "circle2Putting": 17,
+                "throwIn": 0.003,
+                "ob": 0.112
+            }
+        },
+        {
+            "playerName": "Nate Sexton",
+            "playerPosition": 34,
+            "score": {
+                "ace": 0,
+                "eagle": 0.265,
+                "birdie": 29.63,
+                "par": 57.937,
+                "bogey": 11.376,
+                "doubleBogey": 0.794,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 8,
+                "circle1Reg": 34,
+                "circle2Reg": 56,
+                "scramble": 48,
+                "circle1Putting": 80,
+                "circle2Putting": 18,
+                "throwIn": 0,
+                "ob": 0.103
+            }
+        },
+        {
+            "playerName": "Brodie Smith",
+            "playerPosition": 35,
+            "score": {
+                "ace": 0,
+                "eagle": 0.833,
+                "birdie": 35.417,
+                "par": 46.528,
+                "bogey": 13.194,
+                "doubleBogey": 3.611,
+                "tripleBogey": 0.417
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 10,
+                "circle1Reg": 37,
+                "circle2Reg": 58,
+                "scramble": 45,
+                "circle1Putting": 75,
+                "circle2Putting": 30,
+                "throwIn": 0.003,
+                "ob": 0.111
+            }
+        },
+        {
+            "playerName": "Connor O'Reilly",
+            "playerPosition": 36,
+            "score": {
+                "ace": 0,
+                "eagle": 0.146,
+                "birdie": 32.164,
+                "par": 51.023,
+                "bogey": 14.181,
+                "doubleBogey": 1.901,
+                "tripleBogey": 0.585
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 7,
+                "circle1Reg": 34,
+                "circle2Reg": 57,
+                "scramble": 43,
+                "circle1Putting": 81,
+                "circle2Putting": 20,
+                "throwIn": 0.009,
+                "ob": 0.11
+            }
+        },
+        {
+            "playerName": "Linus Carlsson",
+            "playerPosition": 37,
+            "score": {
+                "ace": 0,
+                "eagle": 0.57,
+                "birdie": 31.482,
+                "par": 53.561,
+                "bogey": 13.105,
+                "doubleBogey": 0.855,
+                "tripleBogey": 0.427
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 9,
+                "circle1Reg": 32,
+                "circle2Reg": 55,
+                "scramble": 46,
+                "circle1Putting": 85,
+                "circle2Putting": 25,
+                "throwIn": 0.003,
+                "ob": 0.1
+            }
+        },
+        {
+            "playerName": "Lauri Lehtinen",
+            "playerPosition": 38,
+            "score": {
+                "ace": 0,
+                "eagle": 0.397,
+                "birdie": 32.738,
+                "par": 52.778,
+                "bogey": 12.5,
+                "doubleBogey": 0.992,
+                "tripleBogey": 0.595
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 11,
+                "circle1Reg": 34,
+                "circle2Reg": 57,
+                "scramble": 53,
+                "circle1Putting": 81,
+                "circle2Putting": 17,
+                "throwIn": 0.002,
+                "ob": 0.085
+            }
+        },
+        {
+            "playerName": "Austin Hannum",
+            "playerPosition": 39,
+            "score": {
+                "ace": 0,
+                "eagle": 0.476,
+                "birdie": 34.286,
+                "par": 46.825,
+                "bogey": 14.921,
+                "doubleBogey": 2.54,
+                "tripleBogey": 0.952
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 11,
+                "circle1Reg": 36,
+                "circle2Reg": 56,
+                "scramble": 42,
+                "circle1Putting": 75,
+                "circle2Putting": 23,
+                "throwIn": 0.003,
+                "ob": 0.106
+            }
+        },
+        {
+            "playerName": "Gregg Barsby",
+            "playerPosition": 40,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 37.407,
+                "par": 45.556,
+                "bogey": 15.185,
+                "doubleBogey": 0.741,
+                "tripleBogey": 1.111
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 12,
+                "circle1Reg": 36,
+                "circle2Reg": 60,
+                "scramble": 50,
+                "circle1Putting": 78,
+                "circle2Putting": 30,
+                "throwIn": 0.011,
+                "ob": 0.126
+            }
+        },
+        {
+            "playerName": "Cole Redalen",
+            "playerPosition": 41,
+            "score": {
+                "ace": 0,
+                "eagle": 0.185,
+                "birdie": 40.926,
+                "par": 42.593,
+                "bogey": 12.407,
+                "doubleBogey": 3.148,
+                "tripleBogey": 0.741
+            },
+            "stats": {
+                "fairwayHits": 75,
+                "parked": 10,
+                "circle1Reg": 42,
+                "circle2Reg": 65,
+                "scramble": 46,
+                "circle1Putting": 76,
+                "circle2Putting": 26,
+                "throwIn": 0.004,
+                "ob": 0.106
+            }
+        },
+        {
+            "playerName": "Alex Russell",
+            "playerPosition": 42,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.035,
+                "par": 55.364,
+                "bogey": 12.069,
+                "doubleBogey": 1.533,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 10,
+                "circle1Reg": 32,
+                "circle2Reg": 51,
+                "scramble": 47,
+                "circle1Putting": 83,
+                "circle2Putting": 25,
+                "throwIn": 0.006,
+                "ob": 0.06
+            }
+        },
+        {
+            "playerName": "Cale Leiviska",
+            "playerPosition": 43,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 36.111,
+                "par": 54.861,
+                "bogey": 7.639,
+                "doubleBogey": 1.389,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 7,
+                "circle1Reg": 40,
+                "circle2Reg": 63,
+                "scramble": 60,
+                "circle1Putting": 80,
+                "circle2Putting": 20,
+                "throwIn": 0.007,
+                "ob": 0.059
+            }
+        },
+        {
+            "playerName": "Jake Hebenheimer",
+            "playerPosition": 44,
+            "score": {
+                "ace": 0,
+                "eagle": 0.347,
+                "birdie": 35.069,
+                "par": 47.569,
+                "bogey": 15.625,
+                "doubleBogey": 1.042,
+                "tripleBogey": 0.347
+            },
+            "stats": {
+                "fairwayHits": 76,
+                "parked": 12,
+                "circle1Reg": 41,
+                "circle2Reg": 63,
+                "scramble": 45,
+                "circle1Putting": 72,
+                "circle2Putting": 16,
+                "throwIn": 0,
+                "ob": 0.111
+            }
+        },
+        {
+            "playerName": "GT Hancock",
+            "playerPosition": 45,
+            "score": {
+                "ace": 0,
+                "eagle": 0.292,
+                "birdie": 34.503,
+                "par": 45.614,
+                "bogey": 13.743,
+                "doubleBogey": 5.556,
+                "tripleBogey": 0.292
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 10,
+                "circle1Reg": 37,
+                "circle2Reg": 57,
+                "scramble": 32,
+                "circle1Putting": 74,
+                "circle2Putting": 31,
+                "throwIn": 0.003,
+                "ob": 0.101
+            }
+        },
+        {
+            "playerName": "Scott Withers",
+            "playerPosition": 46,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 33.333,
+                "par": 53.086,
+                "bogey": 11.934,
+                "doubleBogey": 1.235,
+                "tripleBogey": 0.412
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 8,
+                "circle1Reg": 33,
+                "circle2Reg": 54,
+                "scramble": 55,
+                "circle1Putting": 83,
+                "circle2Putting": 23,
+                "throwIn": 0.006,
+                "ob": 0.075
+            }
+        },
+        {
+            "playerName": "Andrew Presnell",
+            "playerPosition": 47,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.746,
+                "par": 52.579,
+                "bogey": 14.286,
+                "doubleBogey": 1.389,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 10,
+                "circle1Reg": 33,
+                "circle2Reg": 58,
+                "scramble": 43,
+                "circle1Putting": 84,
+                "circle2Putting": 13,
+                "throwIn": 0.006,
+                "ob": 0.091
+            }
+        },
+        {
+            "playerName": "Niklas Anttila",
+            "playerPosition": 48,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 35.948,
+                "par": 41.83,
+                "bogey": 18.301,
+                "doubleBogey": 3.268,
+                "tripleBogey": 0.654
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 11,
+                "circle1Reg": 37,
+                "circle2Reg": 58,
+                "scramble": 41,
+                "circle1Putting": 78,
+                "circle2Putting": 17,
+                "throwIn": 0,
+                "ob": 0.114
+            }
+        },
+        {
+            "playerName": "Väinö Mäkelä",
+            "playerPosition": 49,
+            "score": {
+                "ace": 0,
+                "eagle": 0.259,
+                "birdie": 30.311,
+                "par": 53.109,
+                "bogey": 14.508,
+                "doubleBogey": 1.813,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 9,
+                "circle1Reg": 31,
+                "circle2Reg": 54,
+                "scramble": 50,
+                "circle1Putting": 81,
+                "circle2Putting": 20,
+                "throwIn": 0.003,
+                "ob": 0.088
+            }
+        },
+        {
+            "playerName": "Tristan Tanner",
+            "playerPosition": 50,
+            "score": {
+                "ace": 0,
+                "eagle": 0.2,
+                "birdie": 37.876,
+                "par": 41.483,
+                "bogey": 16.433,
+                "doubleBogey": 3.006,
+                "tripleBogey": 1.002
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 9,
+                "circle1Reg": 36,
+                "circle2Reg": 61,
+                "scramble": 41,
+                "circle1Putting": 81,
+                "circle2Putting": 28,
+                "throwIn": 0.006,
+                "ob": 0.11
+            }
+        },
+        {
+            "playerName": "Ezra Robinson",
+            "playerPosition": 51,
+            "score": {
+                "ace": 0,
+                "eagle": 0.855,
+                "birdie": 36.325,
+                "par": 48.291,
+                "bogey": 12.393,
+                "doubleBogey": 1.709,
+                "tripleBogey": 0.427
+            },
+            "stats": {
+                "fairwayHits": 77,
+                "parked": 11,
+                "circle1Reg": 38,
+                "circle2Reg": 68,
+                "scramble": 53,
+                "circle1Putting": 83,
+                "circle2Putting": 15,
+                "throwIn": 0.009,
+                "ob": 0.051
+            }
+        },
+        {
+            "playerName": "Ben Callaway",
+            "playerPosition": 52,
+            "score": {
+                "ace": 0,
+                "eagle": 0.868,
+                "birdie": 34.896,
+                "par": 46.875,
+                "bogey": 14.757,
+                "doubleBogey": 2.083,
+                "tripleBogey": 0.521
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 10,
+                "circle1Reg": 34,
+                "circle2Reg": 59,
+                "scramble": 40,
+                "circle1Putting": 82,
+                "circle2Putting": 22,
+                "throwIn": 0.004,
+                "ob": 0.092
+            }
+        },
+        {
+            "playerName": "Andrew Marwede",
+            "playerPosition": 53,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 34.156,
+                "par": 53.91,
+                "bogey": 10.494,
+                "doubleBogey": 0.823,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 7,
+                "circle1Reg": 30,
+                "circle2Reg": 53,
+                "scramble": 63,
+                "circle1Putting": 89,
+                "circle2Putting": 33,
+                "throwIn": 0.008,
+                "ob": 0.088
+            }
+        },
+        {
+            "playerName": "Eric Oakley",
+            "playerPosition": 54,
+            "score": {
+                "ace": 0,
+                "eagle": 0.242,
+                "birdie": 29.469,
+                "par": 52.416,
+                "bogey": 15.459,
+                "doubleBogey": 1.932,
+                "tripleBogey": 0.483
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 7,
+                "circle1Reg": 30,
+                "circle2Reg": 52,
+                "scramble": 50,
+                "circle1Putting": 85,
+                "circle2Putting": 20,
+                "throwIn": 0.002,
+                "ob": 0.104
+            }
+        },
+        {
+            "playerName": "Eagle McMahon",
+            "playerPosition": 55,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 47.568,
+                "par": 41.081,
+                "bogey": 10.27,
+                "doubleBogey": 0.541,
+                "tripleBogey": 0.541
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 11,
+                "circle1Reg": 43,
+                "circle2Reg": 70,
+                "scramble": 63,
+                "circle1Putting": 89,
+                "circle2Putting": 33,
+                "throwIn": 0,
+                "ob": 0.097
+            }
+        },
+        {
+            "playerName": "Colten Montgomery",
+            "playerPosition": 56,
+            "score": {
+                "ace": 0,
+                "eagle": 0.476,
+                "birdie": 31.27,
+                "par": 52.222,
+                "bogey": 12.54,
+                "doubleBogey": 2.54,
+                "tripleBogey": 0.952
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 57,
+                "scramble": 39,
+                "circle1Putting": 86,
+                "circle2Putting": 15,
+                "throwIn": 0.005,
+                "ob": 0.084
+            }
+        },
+        {
+            "playerName": "Matt Bell",
+            "playerPosition": 57,
+            "score": {
+                "ace": 0,
+                "eagle": 0.488,
+                "birdie": 29.512,
+                "par": 56.342,
+                "bogey": 11.22,
+                "doubleBogey": 1.951,
+                "tripleBogey": 0.488
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 9,
+                "circle1Reg": 30,
+                "circle2Reg": 54,
+                "scramble": 52,
+                "circle1Putting": 83,
+                "circle2Putting": 28,
+                "throwIn": 0.013,
+                "ob": 0.134
+            }
+        },
+        {
+            "playerName": "Zackeriath Johnson",
+            "playerPosition": 58,
+            "score": {
+                "ace": 0.168,
+                "eagle": 0.168,
+                "birdie": 30.808,
+                "par": 53.367,
+                "bogey": 12.963,
+                "doubleBogey": 1.683,
+                "tripleBogey": 0.842
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 9,
+                "circle1Reg": 35,
+                "circle2Reg": 58,
+                "scramble": 42,
+                "circle1Putting": 72,
+                "circle2Putting": 17,
+                "throwIn": 0.007,
+                "ob": 0.09
+            }
+        },
+        {
+            "playerName": "AJ Carey",
+            "playerPosition": 59,
+            "score": {
+                "ace": 0,
+                "eagle": 0.309,
+                "birdie": 28.549,
+                "par": 52.315,
+                "bogey": 15.586,
+                "doubleBogey": 2.623,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 7,
+                "circle1Reg": 31,
+                "circle2Reg": 52,
+                "scramble": 52,
+                "circle1Putting": 80,
+                "circle2Putting": 21,
+                "throwIn": 0.005,
+                "ob": 0.121
+            }
+        },
+        {
+            "playerName": "John Willis",
+            "playerPosition": 60,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.701,
+                "par": 48.077,
+                "bogey": 15.598,
+                "doubleBogey": 5.128,
+                "tripleBogey": 1.496
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 7,
+                "circle1Reg": 30,
+                "circle2Reg": 52,
+                "scramble": 36,
+                "circle1Putting": 85,
+                "circle2Putting": 21,
+                "throwIn": 0.01,
+                "ob": 0.143
+            }
+        },
+        {
+            "playerName": "Ty Love",
+            "playerPosition": 61,
+            "score": {
+                "ace": 0,
+                "eagle": 0.397,
+                "birdie": 37.698,
+                "par": 42.857,
+                "bogey": 12.698,
+                "doubleBogey": 5.159,
+                "tripleBogey": 1.19
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 14,
+                "circle1Reg": 35,
+                "circle2Reg": 59,
+                "scramble": 27,
+                "circle1Putting": 75,
+                "circle2Putting": 26,
+                "throwIn": 0.013,
+                "ob": 0.115
+            }
+        },
+        {
+            "playerName": "Chandler Kramer",
+            "playerPosition": 62,
+            "score": {
+                "ace": 0.159,
+                "eagle": 0,
+                "birdie": 28.889,
+                "par": 54.286,
+                "bogey": 11.746,
+                "doubleBogey": 3.968,
+                "tripleBogey": 0.952
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 7,
+                "circle1Reg": 31,
+                "circle2Reg": 54,
+                "scramble": 51,
+                "circle1Putting": 71,
+                "circle2Putting": 25,
+                "throwIn": 0.01,
+                "ob": 0.107
+            }
+        },
+        {
+            "playerName": "Knut Valen Håland",
+            "playerPosition": 63,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.885,
+                "par": 51.341,
+                "bogey": 16.092,
+                "doubleBogey": 2.49,
+                "tripleBogey": 0.192
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 8,
+                "circle1Reg": 33,
+                "circle2Reg": 55,
+                "scramble": 48,
+                "circle1Putting": 75,
+                "circle2Putting": 21,
+                "throwIn": 0.006,
+                "ob": 0.107
+            }
+        },
+        {
+            "playerName": "Logan Harpool",
+            "playerPosition": 64,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.923,
+                "par": 54.273,
+                "bogey": 16.239,
+                "doubleBogey": 1.709,
+                "tripleBogey": 0.855
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 6,
+                "circle1Reg": 26,
+                "circle2Reg": 53,
+                "scramble": 24,
+                "circle1Putting": 80,
+                "circle2Putting": 23,
+                "throwIn": 0,
+                "ob": 0.132
+            }
+        },
+        {
+            "playerName": "Kevin Kiefer",
+            "playerPosition": 65,
+            "score": {
+                "ace": 0,
+                "eagle": 0.383,
+                "birdie": 31.418,
+                "par": 51.341,
+                "bogey": 10.919,
+                "doubleBogey": 4.215,
+                "tripleBogey": 1.724
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 9,
+                "circle1Reg": 32,
+                "circle2Reg": 58,
+                "scramble": 45,
+                "circle1Putting": 78,
+                "circle2Putting": 24,
+                "throwIn": 0.004,
+                "ob": 0.123
+            }
+        },
+        {
+            "playerName": "James Proctor",
+            "playerPosition": 66,
+            "score": {
+                "ace": 0.265,
+                "eagle": 0.265,
+                "birdie": 35.45,
+                "par": 46.561,
+                "bogey": 15.079,
+                "doubleBogey": 2.116,
+                "tripleBogey": 0.265
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 9,
+                "circle1Reg": 36,
+                "circle2Reg": 53,
+                "scramble": 44,
+                "circle1Putting": 87,
+                "circle2Putting": 25,
+                "throwIn": 0.008,
+                "ob": 0.131
+            }
+        },
+        {
+            "playerName": "Noah Meintsma",
+            "playerPosition": 67,
+            "score": {
+                "ace": 0,
+                "eagle": 0.323,
+                "birdie": 28.387,
+                "par": 49.677,
+                "bogey": 18.064,
+                "doubleBogey": 3.065,
+                "tripleBogey": 0.484
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 9,
+                "circle1Reg": 28,
+                "circle2Reg": 49,
+                "scramble": 42,
+                "circle1Putting": 78,
+                "circle2Putting": 30,
+                "throwIn": 0.007,
+                "ob": 0.125
+            }
+        },
+        {
+            "playerName": "Max Regitnig",
+            "playerPosition": 68,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.841,
+                "par": 48.889,
+                "bogey": 17.619,
+                "doubleBogey": 3.175,
+                "tripleBogey": 0.476
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 7,
+                "circle1Reg": 33,
+                "circle2Reg": 52,
+                "scramble": 36,
+                "circle1Putting": 77,
+                "circle2Putting": 17,
+                "throwIn": 0.002,
+                "ob": 0.108
+            }
+        },
+        {
+            "playerName": "Nathan Queen",
+            "playerPosition": 69,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.515,
+                "par": 54.563,
+                "bogey": 12.039,
+                "doubleBogey": 3.301,
+                "tripleBogey": 0.583
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 6,
+                "circle1Reg": 29,
+                "circle2Reg": 51,
+                "scramble": 48,
+                "circle1Putting": 85,
+                "circle2Putting": 23,
+                "throwIn": 0.008,
+                "ob": 0.105
+            }
+        },
+        {
+            "playerName": "Charles Moore",
+            "playerPosition": 70,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 27.16,
+                "par": 52.778,
+                "bogey": 14.815,
+                "doubleBogey": 4.321,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 10,
+                "circle1Reg": 32,
+                "circle2Reg": 53,
+                "scramble": 44,
+                "circle1Putting": 78,
+                "circle2Putting": 13,
+                "throwIn": 0,
+                "ob": 0.139
+            }
+        },
+        {
+            "playerName": "Evan Scott",
+            "playerPosition": 71,
+            "score": {
+                "ace": 0,
+                "eagle": 0.214,
+                "birdie": 30.128,
+                "par": 52.992,
+                "bogey": 13.889,
+                "doubleBogey": 2.137,
+                "tripleBogey": 0.641
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 7,
+                "circle1Reg": 31,
+                "circle2Reg": 53,
+                "scramble": 45,
+                "circle1Putting": 73,
+                "circle2Putting": 26,
+                "throwIn": 0.009,
+                "ob": 0.062
+            }
+        },
+        {
+            "playerName": "Clay Edwards",
+            "playerPosition": 72,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 30.556,
+                "par": 51.587,
+                "bogey": 15.476,
+                "doubleBogey": 1.984,
+                "tripleBogey": 0.397
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 52,
+                "scramble": 42,
+                "circle1Putting": 80,
+                "circle2Putting": 24,
+                "throwIn": 0.002,
+                "ob": 0.093
+            }
+        },
+        {
+            "playerName": "Bartosz Kowalewski",
+            "playerPosition": 73,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 30.556,
+                "par": 53.333,
+                "bogey": 11.667,
+                "doubleBogey": 4.444,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 7,
+                "circle1Reg": 34,
+                "circle2Reg": 52,
+                "scramble": 47,
+                "circle1Putting": 72,
+                "circle2Putting": 21,
+                "throwIn": 0.006,
+                "ob": 0.144
+            }
+        },
+        {
+            "playerName": "Terry Rothlisberger",
+            "playerPosition": 74,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 34.259,
+                "par": 50.463,
+                "bogey": 12.963,
+                "doubleBogey": 2.315,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 10,
+                "circle1Reg": 39,
+                "circle2Reg": 61,
+                "scramble": 39,
+                "circle1Putting": 74,
+                "circle2Putting": 12,
+                "throwIn": 0.009,
+                "ob": 0.056
+            }
+        },
+        {
+            "playerName": "Blær Örn",
+            "playerPosition": 75,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 33.142,
+                "par": 45.019,
+                "bogey": 17.625,
+                "doubleBogey": 3.448,
+                "tripleBogey": 0.766
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 10,
+                "circle1Reg": 32,
+                "circle2Reg": 53,
+                "scramble": 38,
+                "circle1Putting": 78,
+                "circle2Putting": 24,
+                "throwIn": 0.006,
+                "ob": 0.117
+            }
+        },
+        {
+            "playerName": "Paul Oman",
+            "playerPosition": 76,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 28.395,
+                "par": 61.111,
+                "bogey": 9.877,
+                "doubleBogey": 0.617,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 10,
+                "circle1Reg": 30,
+                "circle2Reg": 51,
+                "scramble": 76,
+                "circle1Putting": 79,
+                "circle2Putting": 33,
+                "throwIn": 0,
+                "ob": 0.069
+            }
+        },
+        {
+            "playerName": "Justin Rosak",
+            "playerPosition": 77,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.54,
+                "par": 44.841,
+                "bogey": 18.254,
+                "doubleBogey": 3.175,
+                "tripleBogey": 1.19
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 13,
+                "circle1Reg": 34,
+                "circle2Reg": 52,
+                "scramble": 45,
+                "circle1Putting": 76,
+                "circle2Putting": 26,
+                "throwIn": 0.012,
+                "ob": 0.141
+            }
+        },
+        {
+            "playerName": "Dustin Keegan",
+            "playerPosition": 79,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.63,
+                "par": 52.469,
+                "bogey": 14.815,
+                "doubleBogey": 2.469,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 8,
+                "circle1Reg": 32,
+                "circle2Reg": 53,
+                "scramble": 38,
+                "circle1Putting": 74,
+                "circle2Putting": 23,
+                "throwIn": 0.009,
+                "ob": 0.103
+            }
+        },
+        {
+            "playerName": "Andrew Fish",
+            "playerPosition": 81,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.111,
+                "par": 56.111,
+                "bogey": 11.111,
+                "doubleBogey": 1.667,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 5,
+                "circle1Reg": 32,
+                "circle2Reg": 56,
+                "scramble": 66,
+                "circle1Putting": 86,
+                "circle2Putting": 18,
+                "throwIn": 0.006,
+                "ob": 0.045
+            }
+        },
+        {
+            "playerName": "Jonathan Nicholson",
+            "playerPosition": 82,
+            "score": {
+                "ace": 0,
+                "eagle": 0.292,
+                "birdie": 30.409,
+                "par": 52.339,
+                "bogey": 12.281,
+                "doubleBogey": 3.801,
+                "tripleBogey": 0.877
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 9,
+                "circle1Reg": 33,
+                "circle2Reg": 52,
+                "scramble": 47,
+                "circle1Putting": 82,
+                "circle2Putting": 18,
+                "throwIn": 0.006,
+                "ob": 0.12
+            }
+        },
+        {
+            "playerName": "Cameron Colglazier",
+            "playerPosition": 83,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.407,
+                "par": 52.778,
+                "bogey": 12.963,
+                "doubleBogey": 1.852,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 11,
+                "circle1Reg": 31,
+                "circle2Reg": 57,
+                "scramble": 59,
+                "circle1Putting": 70,
+                "circle2Putting": 29,
+                "throwIn": 0.009,
+                "ob": 0.046
+            }
+        },
+        {
+            "playerName": "Isaac Marrs",
+            "playerPosition": 85,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.407,
+                "par": 50,
+                "bogey": 13.426,
+                "doubleBogey": 3.241,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 10,
+                "circle1Reg": 37,
+                "circle2Reg": 57,
+                "scramble": 16,
+                "circle1Putting": 68,
+                "circle2Putting": 19,
+                "throwIn": 0.016,
+                "ob": 0.068
+            }
+        },
+        {
+            "playerName": "Mikael Häme",
+            "playerPosition": 86,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 30.247,
+                "par": 55.556,
+                "bogey": 12.346,
+                "doubleBogey": 1.852,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 11,
+                "circle1Reg": 40,
+                "circle2Reg": 58,
+                "scramble": 48,
+                "circle1Putting": 69,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.052
+            }
+        },
+        {
+            "playerName": "Kade Filimoehala",
+            "playerPosition": 89,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.292,
+                "par": 42.708,
+                "bogey": 15.625,
+                "doubleBogey": 6.597,
+                "tripleBogey": 2.778
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 9,
+                "circle1Reg": 36,
+                "circle2Reg": 63,
+                "scramble": 38,
+                "circle1Putting": 63,
+                "circle2Putting": 20,
+                "throwIn": 0.003,
+                "ob": 0.163
+            }
+        },
+        {
+            "playerName": "Alan Wagner",
+            "playerPosition": 90,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 20.94,
+                "par": 58.761,
+                "bogey": 17.949,
+                "doubleBogey": 2.137,
+                "tripleBogey": 0.214
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 3,
+                "circle1Reg": 18,
+                "circle2Reg": 37,
+                "scramble": 51,
+                "circle1Putting": 87,
+                "circle2Putting": 29,
+                "throwIn": 0.004,
+                "ob": 0.09
+            }
+        },
+        {
+            "playerName": "Chris Nelson",
+            "playerPosition": 91,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.778,
+                "par": 52.222,
+                "bogey": 12.778,
+                "doubleBogey": 2.222,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 8,
+                "circle1Reg": 32,
+                "circle2Reg": 58,
+                "scramble": 46,
+                "circle1Putting": 85,
+                "circle2Putting": 26,
+                "throwIn": 0.006,
+                "ob": 0.117
+            }
+        },
+        {
+            "playerName": "Jordan Castro",
+            "playerPosition": 92,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25.397,
+                "par": 54.365,
+                "bogey": 16.27,
+                "doubleBogey": 3.968,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 7,
+                "circle1Reg": 32,
+                "circle2Reg": 54,
+                "scramble": 30,
+                "circle1Putting": 73,
+                "circle2Putting": 13,
+                "throwIn": 0.004,
+                "ob": 0.179
+            }
+        },
+        {
+            "playerName": "Noah Fiveash",
+            "playerPosition": 93,
+            "score": {
+                "ace": 0,
+                "eagle": 0.15,
+                "birdie": 26.126,
+                "par": 51.051,
+                "bogey": 18.318,
+                "doubleBogey": 3.604,
+                "tripleBogey": 0.751
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 7,
+                "circle1Reg": 33,
+                "circle2Reg": 56,
+                "scramble": 38,
+                "circle1Putting": 71,
+                "circle2Putting": 15,
+                "throwIn": 0.002,
+                "ob": 0.124
+            }
+        },
+        {
+            "playerName": "Nate Perkins",
+            "playerPosition": 94,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.923,
+                "par": 54.06,
+                "bogey": 16.239,
+                "doubleBogey": 2.35,
+                "tripleBogey": 0.427
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 10,
+                "circle1Reg": 28,
+                "circle2Reg": 47,
+                "scramble": 48,
+                "circle1Putting": 74,
+                "circle2Putting": 23,
+                "throwIn": 0.002,
+                "ob": 0.069
+            }
+        },
+        {
+            "playerName": "Scott Stokely",
+            "playerPosition": 95,
+            "score": {
+                "ace": 0,
+                "eagle": 0.198,
+                "birdie": 23.214,
+                "par": 55.556,
+                "bogey": 16.27,
+                "doubleBogey": 3.571,
+                "tripleBogey": 1.19
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 7,
+                "circle1Reg": 24,
+                "circle2Reg": 51,
+                "scramble": 39,
+                "circle1Putting": 76,
+                "circle2Putting": 13,
+                "throwIn": 0.006,
+                "ob": 0.143
+            }
+        },
+        {
+            "playerName": "Zach Melton",
+            "playerPosition": 96,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.469,
+                "par": 53.14,
+                "bogey": 13.527,
+                "doubleBogey": 2.899,
+                "tripleBogey": 0.966
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 8,
+                "circle1Reg": 32,
+                "circle2Reg": 52,
+                "scramble": 48,
+                "circle1Putting": 76,
+                "circle2Putting": 20,
+                "throwIn": 0.007,
+                "ob": 0.116
+            }
+        },
+        {
+            "playerName": "Vincent Polidori",
+            "playerPosition": 97,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.482,
+                "par": 55.556,
+                "bogey": 11.111,
+                "doubleBogey": 1.852,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 9,
+                "circle1Reg": 33,
+                "circle2Reg": 50,
+                "scramble": 56,
+                "circle1Putting": 81,
+                "circle2Putting": 14,
+                "throwIn": 0.028,
+                "ob": 0.056
+            }
+        },
+        {
+            "playerName": "Josh Anthon",
+            "playerPosition": 99,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.667,
+                "par": 52.222,
+                "bogey": 14.444,
+                "doubleBogey": 1.111,
+                "tripleBogey": 0.556
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 7,
+                "circle1Reg": 23,
+                "circle2Reg": 50,
+                "scramble": 64,
+                "circle1Putting": 87,
+                "circle2Putting": 38,
+                "throwIn": 0.028,
+                "ob": 0.072
+            }
+        },
+        {
+            "playerName": "Levi Hancock",
+            "playerPosition": 100,
+            "score": {
+                "ace": 0,
+                "eagle": 0.265,
+                "birdie": 26.984,
+                "par": 51.323,
+                "bogey": 18.518,
+                "doubleBogey": 2.381,
+                "tripleBogey": 0.529
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 53,
+                "scramble": 32,
+                "circle1Putting": 74,
+                "circle2Putting": 11,
+                "throwIn": 0.008,
+                "ob": 0.142
+            }
+        },
+        {
+            "playerName": "Randon Latta",
+            "playerPosition": 101,
+            "score": {
+                "ace": 0,
+                "eagle": 0.444,
+                "birdie": 29.111,
+                "par": 48,
+                "bogey": 15.556,
+                "doubleBogey": 5.778,
+                "tripleBogey": 1.111
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 9,
+                "circle1Reg": 34,
+                "circle2Reg": 56,
+                "scramble": 45,
+                "circle1Putting": 72,
+                "circle2Putting": 19,
+                "throwIn": 0.002,
+                "ob": 0.128
+            }
+        },
+        {
+            "playerName": "Silas Schultz",
+            "playerPosition": 102,
+            "score": {
+                "ace": 0,
+                "eagle": 0.505,
+                "birdie": 29.293,
+                "par": 45.707,
+                "bogey": 16.667,
+                "doubleBogey": 6.313,
+                "tripleBogey": 1.515
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 12,
+                "circle1Reg": 39,
+                "circle2Reg": 62,
+                "scramble": 40,
+                "circle1Putting": 54,
+                "circle2Putting": 15,
+                "throwIn": 0.008,
+                "ob": 0.112
+            }
+        },
+        {
+            "playerName": "Andrew Miranda",
+            "playerPosition": 103,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.63,
+                "par": 52.315,
+                "bogey": 13.426,
+                "doubleBogey": 4.167,
+                "tripleBogey": 0.463
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 6,
+                "circle1Reg": 36,
+                "circle2Reg": 55,
+                "scramble": 42,
+                "circle1Putting": 73,
+                "circle2Putting": 15,
+                "throwIn": 0.009,
+                "ob": 0.088
+            }
+        },
+        {
+            "playerName": "Elijah Bickel",
+            "playerPosition": 104,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.917,
+                "par": 51.389,
+                "bogey": 17.708,
+                "doubleBogey": 5.903,
+                "tripleBogey": 2.083
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 6,
+                "circle1Reg": 27,
+                "circle2Reg": 49,
+                "scramble": 32,
+                "circle1Putting": 63,
+                "circle2Putting": 18,
+                "throwIn": 0.007,
+                "ob": 0.144
+            }
+        },
+        {
+            "playerName": "Eli Swansen",
+            "playerPosition": 107,
+            "score": {
+                "ace": 0.265,
+                "eagle": 0,
+                "birdie": 26.72,
+                "par": 54.233,
+                "bogey": 13.227,
+                "doubleBogey": 3.439,
+                "tripleBogey": 2.116
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 5,
+                "circle1Reg": 22,
+                "circle2Reg": 50,
+                "scramble": 42,
+                "circle1Putting": 86,
+                "circle2Putting": 29,
+                "throwIn": 0.011,
+                "ob": 0.13
+            }
+        },
+        {
+            "playerName": "Fredy Meza",
+            "playerPosition": 108,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25,
+                "par": 52.315,
+                "bogey": 17.13,
+                "doubleBogey": 4.167,
+                "tripleBogey": 1.389
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 9,
+                "circle1Reg": 30,
+                "circle2Reg": 52,
+                "scramble": 35,
+                "circle1Putting": 69,
+                "circle2Putting": 19,
+                "throwIn": 0.014,
+                "ob": 0.153
+            }
+        },
+        {
+            "playerName": "Jake Monn",
+            "playerPosition": 108,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 30.247,
+                "par": 51.852,
+                "bogey": 16.667,
+                "doubleBogey": 0.617,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 6,
+                "circle1Reg": 29,
+                "circle2Reg": 54,
+                "scramble": 38,
+                "circle1Putting": 85,
+                "circle2Putting": 22,
+                "throwIn": 0,
+                "ob": 0.068
+            }
+        },
+        {
+            "playerName": "Tuomas Hyytiäinen",
+            "playerPosition": 110,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25.121,
+                "par": 51.691,
+                "bogey": 17.15,
+                "doubleBogey": 4.348,
+                "tripleBogey": 1.691
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 6,
+                "circle1Reg": 30,
+                "circle2Reg": 52,
+                "scramble": 41,
+                "circle1Putting": 72,
+                "circle2Putting": 17,
+                "throwIn": 0,
+                "ob": 0.126
+            }
+        },
+        {
+            "playerName": "Ian Burchett",
+            "playerPosition": 111,
+            "score": {
+                "ace": 0,
+                "eagle": 0.485,
+                "birdie": 29.369,
+                "par": 48.058,
+                "bogey": 17.718,
+                "doubleBogey": 4.126,
+                "tripleBogey": 0.243
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 8,
+                "circle1Reg": 36,
+                "circle2Reg": 57,
+                "scramble": 41,
+                "circle1Putting": 65,
+                "circle2Putting": 19,
+                "throwIn": 0.003,
+                "ob": 0.111
+            }
+        },
+        {
+            "playerName": "Michael Johansen",
+            "playerPosition": 113,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.619,
+                "par": 63.492,
+                "bogey": 11.508,
+                "doubleBogey": 1.587,
+                "tripleBogey": 0.794
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 8,
+                "circle1Reg": 25,
+                "circle2Reg": 50,
+                "scramble": 64,
+                "circle1Putting": 72,
+                "circle2Putting": 20,
+                "throwIn": 0.013,
+                "ob": 0.026
+            }
+        },
+        {
+            "playerName": "Jacob Courtis",
+            "playerPosition": 114,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.716,
+                "par": 48.148,
+                "bogey": 14.197,
+                "doubleBogey": 3.086,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 74,
+                "parked": 5,
+                "circle1Reg": 36,
+                "circle2Reg": 68,
+                "scramble": 31,
+                "circle1Putting": 80,
+                "circle2Putting": 18,
+                "throwIn": 0,
+                "ob": 0.195
+            }
+        },
+        {
+            "playerName": "Trevon Crowe",
+            "playerPosition": 115,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 20.899,
+                "par": 55.556,
+                "bogey": 16.402,
+                "doubleBogey": 5.556,
+                "tripleBogey": 1.587
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 4,
+                "circle1Reg": 20,
+                "circle2Reg": 44,
+                "scramble": 34,
+                "circle1Putting": 77,
+                "circle2Putting": 22,
+                "throwIn": 0.005,
+                "ob": 0.13
+            }
+        },
+        {
+            "playerName": "Lance Brown",
+            "playerPosition": 116,
+            "score": {
+                "ace": 0,
+                "eagle": 0.179,
+                "birdie": 23.118,
+                "par": 48.029,
+                "bogey": 21.147,
+                "doubleBogey": 5.556,
+                "tripleBogey": 1.971
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 5,
+                "circle1Reg": 21,
+                "circle2Reg": 41,
+                "scramble": 37,
+                "circle1Putting": 81,
+                "circle2Putting": 20,
+                "throwIn": 0.004,
+                "ob": 0.16
+            }
+        },
+        {
+            "playerName": "Sullivan Tipton",
+            "playerPosition": 118,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.136,
+                "par": 61.728,
+                "bogey": 15.432,
+                "doubleBogey": 2.469,
+                "tripleBogey": 1.235
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 8,
+                "circle1Reg": 30,
+                "circle2Reg": 49,
+                "scramble": 48,
+                "circle1Putting": 68,
+                "circle2Putting": 9,
+                "throwIn": 0.007,
+                "ob": 0.081
+            }
+        },
+        {
+            "playerName": "Parker Welck",
+            "playerPosition": 119,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.667,
+                "par": 52.222,
+                "bogey": 12.222,
+                "doubleBogey": 3.889,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 6,
+                "circle1Reg": 35,
+                "circle2Reg": 54,
+                "scramble": 45,
+                "circle1Putting": 81,
+                "circle2Putting": 27,
+                "throwIn": 0.019,
+                "ob": 0.191
+            }
+        },
+        {
+            "playerName": "Thunder Schultz",
+            "playerPosition": 120,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 21.296,
+                "par": 65.741,
+                "bogey": 12.037,
+                "doubleBogey": 0.926,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 57,
+                "parked": 9,
+                "circle1Reg": 22,
+                "circle2Reg": 47,
+                "scramble": 64,
+                "circle1Putting": 80,
+                "circle2Putting": 12,
+                "throwIn": 0,
+                "ob": 0.028
+            }
+        },
+        {
+            "playerName": "Austin Turner",
+            "playerPosition": 121,
+            "score": {
+                "ace": 0.463,
+                "eagle": 0,
+                "birdie": 28.704,
+                "par": 50,
+                "bogey": 17.593,
+                "doubleBogey": 2.778,
+                "tripleBogey": 0.463
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 5,
+                "circle1Reg": 27,
+                "circle2Reg": 56,
+                "scramble": 36,
+                "circle1Putting": 70,
+                "circle2Putting": 24,
+                "throwIn": 0.009,
+                "ob": 0.102
+            }
+        },
+        {
+            "playerName": "Paul Ulibarri",
+            "playerPosition": 122,
+            "score": {
+                "ace": 0,
+                "eagle": 0.352,
+                "birdie": 28.169,
+                "par": 48.944,
+                "bogey": 19.718,
+                "doubleBogey": 2.113,
+                "tripleBogey": 0.704
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 8,
+                "circle1Reg": 32,
+                "circle2Reg": 55,
+                "scramble": 42,
+                "circle1Putting": 76,
+                "circle2Putting": 15,
+                "throwIn": 0.011,
+                "ob": 0.162
+            }
+        },
+        {
+            "playerName": "Cody Kirkland",
+            "playerPosition": 123,
+            "score": {
+                "ace": 0,
+                "eagle": 0.855,
+                "birdie": 27.778,
+                "par": 52.564,
+                "bogey": 13.248,
+                "doubleBogey": 5.128,
+                "tripleBogey": 0.427
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 9,
+                "circle1Reg": 35,
+                "circle2Reg": 59,
+                "scramble": 33,
+                "circle1Putting": 72,
+                "circle2Putting": 23,
+                "throwIn": 0.005,
+                "ob": 0.153
+            }
+        },
+        {
+            "playerName": "Randy Dueck",
+            "playerPosition": 124,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 31.018,
+                "par": 49.074,
+                "bogey": 15.741,
+                "doubleBogey": 3.241,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 11,
+                "circle1Reg": 35,
+                "circle2Reg": 56,
+                "scramble": 38,
+                "circle1Putting": 69,
+                "circle2Putting": 18,
+                "throwIn": 0,
+                "ob": 0.037
+            }
+        },
+        {
+            "playerName": "Kristo Raik",
+            "playerPosition": 125,
+            "score": {
+                "ace": 0.265,
+                "eagle": 0,
+                "birdie": 20.37,
+                "par": 50.794,
+                "bogey": 22.487,
+                "doubleBogey": 4.497,
+                "tripleBogey": 1.587
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 6,
+                "circle1Reg": 24,
+                "circle2Reg": 42,
+                "scramble": 25,
+                "circle1Putting": 60,
+                "circle2Putting": 18,
+                "throwIn": 0.007,
+                "ob": 0.146
+            }
+        },
+        {
+            "playerName": "Thomas Tomaselli",
+            "playerPosition": 126,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 20.988,
+                "par": 61.728,
+                "bogey": 16.049,
+                "doubleBogey": 1.235,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 1,
+                "circle1Reg": 15,
+                "circle2Reg": 42,
+                "scramble": 20,
+                "circle1Putting": 87,
+                "circle2Putting": 28,
+                "throwIn": 0,
+                "ob": 0.043
+            }
+        },
+        {
+            "playerName": "Luukas Rokkanen",
+            "playerPosition": 126,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.192,
+                "par": 55.05,
+                "bogey": 19.192,
+                "doubleBogey": 5.051,
+                "tripleBogey": 1.515
+            },
+            "stats": {
+                "fairwayHits": 59,
+                "parked": 3,
+                "circle1Reg": 21,
+                "circle2Reg": 39,
+                "scramble": 39,
+                "circle1Putting": 82,
+                "circle2Putting": 20,
+                "throwIn": 0,
+                "ob": 0.151
+            }
+        },
+        {
+            "playerName": "Peter Lunde",
+            "playerPosition": 128,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 29.532,
+                "par": 49.123,
+                "bogey": 16.667,
+                "doubleBogey": 2.924,
+                "tripleBogey": 1.754
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 12,
+                "circle1Reg": 36,
+                "circle2Reg": 58,
+                "scramble": 33,
+                "circle1Putting": 58,
+                "circle2Putting": 21,
+                "throwIn": 0,
+                "ob": 0.094
+            }
+        },
+        {
+            "playerName": "Justin Gilbert",
+            "playerPosition": 129,
+            "score": {
+                "ace": 0.463,
+                "eagle": 0,
+                "birdie": 26.389,
+                "par": 49.074,
+                "bogey": 19.907,
+                "doubleBogey": 3.241,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 10,
+                "circle1Reg": 35,
+                "circle2Reg": 59,
+                "scramble": 41,
+                "circle1Putting": 66,
+                "circle2Putting": 11,
+                "throwIn": 0.009,
+                "ob": 0.106
+            }
+        },
+        {
+            "playerName": "Philo Brathwaite",
+            "playerPosition": 131,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 27.778,
+                "par": 50,
+                "bogey": 15.152,
+                "doubleBogey": 6.061,
+                "tripleBogey": 1.01
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 10,
+                "circle1Reg": 31,
+                "circle2Reg": 49,
+                "scramble": 19,
+                "circle1Putting": 74,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.116
+            }
+        },
+        {
+            "playerName": "Casey Hanemayer",
+            "playerPosition": 134,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.222,
+                "par": 52.222,
+                "bogey": 19.63,
+                "doubleBogey": 5.185,
+                "tripleBogey": 0.741
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 3,
+                "circle1Reg": 19,
+                "circle2Reg": 39,
+                "scramble": 25,
+                "circle1Putting": 79,
+                "circle2Putting": 28,
+                "throwIn": 0.007,
+                "ob": 0.174
+            }
+        },
+        {
+            "playerName": "Tim Barham",
+            "playerPosition": 135,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 23.958,
+                "par": 58.681,
+                "bogey": 13.194,
+                "doubleBogey": 3.125,
+                "tripleBogey": 1.042
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 6,
+                "circle1Reg": 29,
+                "circle2Reg": 51,
+                "scramble": 52,
+                "circle1Putting": 70,
+                "circle2Putting": 18,
+                "throwIn": 0,
+                "ob": 0.091
+            }
+        },
+        {
+            "playerName": "Caleb Bruce",
+            "playerPosition": 136,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 24.603,
+                "par": 48.413,
+                "bogey": 19.841,
+                "doubleBogey": 3.968,
+                "tripleBogey": 3.175
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 9,
+                "circle1Reg": 29,
+                "circle2Reg": 44,
+                "scramble": 32,
+                "circle1Putting": 72,
+                "circle2Putting": 21,
+                "throwIn": 0,
+                "ob": 0.198
+            }
+        },
+        {
+            "playerName": "Silver Lätt",
+            "playerPosition": 137,
+            "score": {
+                "ace": 0,
+                "eagle": 0.253,
+                "birdie": 26.263,
+                "par": 48.232,
+                "bogey": 18.687,
+                "doubleBogey": 6.061,
+                "tripleBogey": 0.505
+            },
+            "stats": {
+                "fairwayHits": 59,
+                "parked": 9,
+                "circle1Reg": 32,
+                "circle2Reg": 48,
+                "scramble": 42,
+                "circle1Putting": 72,
+                "circle2Putting": 11,
+                "throwIn": 0.011,
+                "ob": 0.152
+            }
+        },
+        {
+            "playerName": "Sias Elmore",
+            "playerPosition": 138,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.803,
+                "par": 60.684,
+                "bogey": 17.949,
+                "doubleBogey": 1.709,
+                "tripleBogey": 0.855
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 5,
+                "circle1Reg": 15,
+                "circle2Reg": 35,
+                "scramble": 28,
+                "circle1Putting": 89,
+                "circle2Putting": 18,
+                "throwIn": 0,
+                "ob": 0.111
+            }
+        },
+        {
+            "playerName": "Robert Burridge",
+            "playerPosition": 138,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.191,
+                "par": 57.937,
+                "bogey": 11.905,
+                "doubleBogey": 3.175,
+                "tripleBogey": 0.794
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 4,
+                "circle1Reg": 25,
+                "circle2Reg": 54,
+                "scramble": 53,
+                "circle1Putting": 73,
+                "circle2Putting": 26,
+                "throwIn": 0,
+                "ob": 0.056
+            }
+        },
+        {
+            "playerName": "E. Lucas Pierce",
+            "playerPosition": 141,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.852,
+                "par": 50,
+                "bogey": 19.444,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 9,
+                "circle1Reg": 36,
+                "circle2Reg": 53,
+                "scramble": 32,
+                "circle1Putting": 66,
+                "circle2Putting": 13,
+                "throwIn": 0,
+                "ob": 0.074
+            }
+        },
+        {
+            "playerName": "Nicholas Carl",
+            "playerPosition": 142,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.042,
+                "par": 56.25,
+                "bogey": 14.583,
+                "doubleBogey": 2.431,
+                "tripleBogey": 0.694
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 6,
+                "circle1Reg": 27,
+                "circle2Reg": 49,
+                "scramble": 48,
+                "circle1Putting": 82,
+                "circle2Putting": 23,
+                "throwIn": 0.008,
+                "ob": 0.064
+            }
+        },
+        {
+            "playerName": "Mark Chapalonis",
+            "playerPosition": 143,
+            "score": {
+                "ace": 0.529,
+                "eagle": 0,
+                "birdie": 19.312,
+                "par": 54.497,
+                "bogey": 20.899,
+                "doubleBogey": 3.968,
+                "tripleBogey": 0.794
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 4,
+                "circle1Reg": 19,
+                "circle2Reg": 41,
+                "scramble": 23,
+                "circle1Putting": 82,
+                "circle2Putting": 19,
+                "throwIn": 0.014,
+                "ob": 0.134
+            }
+        },
+        {
+            "playerName": "Sam Lee",
+            "playerPosition": 145,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 20.988,
+                "par": 51.235,
+                "bogey": 19.136,
+                "doubleBogey": 6.79,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 8,
+                "circle1Reg": 26,
+                "circle2Reg": 41,
+                "scramble": 23,
+                "circle1Putting": 81,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 0.215
+            }
+        },
+        {
+            "playerName": "Jake Brown",
+            "playerPosition": 147,
+            "score": {
+                "ace": 0,
+                "eagle": 0.926,
+                "birdie": 26.852,
+                "par": 58.333,
+                "bogey": 8.333,
+                "doubleBogey": 4.63,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 6,
+                "circle1Reg": 30,
+                "circle2Reg": 54,
+                "scramble": 54,
+                "circle1Putting": 80,
+                "circle2Putting": 15,
+                "throwIn": 0.019,
+                "ob": 0.046
+            }
+        },
+        {
+            "playerName": "Trevor Harbolt",
+            "playerPosition": 148,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.989,
+                "par": 58.73,
+                "bogey": 17.196,
+                "doubleBogey": 4.497,
+                "tripleBogey": 1.587
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 4,
+                "circle1Reg": 19,
+                "circle2Reg": 42,
+                "scramble": 19,
+                "circle1Putting": 75,
+                "circle2Putting": 23,
+                "throwIn": 0.011,
+                "ob": 0.151
+            }
+        },
+        {
+            "playerName": "D.W. Hass",
+            "playerPosition": 149,
+            "score": {
+                "ace": 0,
+                "eagle": 0.529,
+                "birdie": 22.222,
+                "par": 49.471,
+                "bogey": 20.37,
+                "doubleBogey": 6.878,
+                "tripleBogey": 0.529
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 3,
+                "circle1Reg": 26,
+                "circle2Reg": 50,
+                "scramble": 26,
+                "circle1Putting": 71,
+                "circle2Putting": 18,
+                "throwIn": 0.006,
+                "ob": 0.161
+            }
+        },
+        {
+            "playerName": "Tanner Girouard",
+            "playerPosition": 153,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.827,
+                "par": 45.679,
+                "bogey": 27.778,
+                "doubleBogey": 4.63,
+                "tripleBogey": 3.086
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 6,
+                "circle1Reg": 21,
+                "circle2Reg": 42,
+                "scramble": 26,
+                "circle1Putting": 76,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.231
+            }
+        },
+        {
+            "playerName": "Josh Coghill",
+            "playerPosition": 153,
+            "score": {
+                "ace": 0,
+                "eagle": 0.617,
+                "birdie": 29.63,
+                "par": 49.383,
+                "bogey": 14.815,
+                "doubleBogey": 4.321,
+                "tripleBogey": 1.235
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 6,
+                "circle1Reg": 40,
+                "circle2Reg": 59,
+                "scramble": 50,
+                "circle1Putting": 68,
+                "circle2Putting": 14,
+                "throwIn": 0.008,
+                "ob": 0.098
+            }
+        },
+        {
+            "playerName": "Niko Rättyä",
+            "playerPosition": 153,
+            "score": {
+                "ace": 0,
+                "eagle": 0.4,
+                "birdie": 12,
+                "par": 50.4,
+                "bogey": 25.6,
+                "doubleBogey": 9.2,
+                "tripleBogey": 2.4
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 6,
+                "circle1Reg": 20,
+                "circle2Reg": 38,
+                "scramble": 27,
+                "circle1Putting": 47,
+                "circle2Putting": 7,
+                "throwIn": 0.004,
+                "ob": 0.155
+            }
+        },
+        {
+            "playerName": "Nick Hanson",
+            "playerPosition": 156,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 28.704,
+                "par": 50,
+                "bogey": 19.444,
+                "doubleBogey": 1.389,
+                "tripleBogey": 0.463
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 8,
+                "circle1Reg": 34,
+                "circle2Reg": 56,
+                "scramble": 45,
+                "circle1Putting": 81,
+                "circle2Putting": 16,
+                "throwIn": 0,
+                "ob": 0.116
+            }
+        },
+        {
+            "playerName": "Rick Huber",
+            "playerPosition": 156,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 15.278,
+                "par": 55.556,
+                "bogey": 19.444,
+                "doubleBogey": 7.407,
+                "tripleBogey": 2.315
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 3,
+                "circle1Reg": 16,
+                "circle2Reg": 36,
+                "scramble": 34,
+                "circle1Putting": 68,
+                "circle2Putting": 13,
+                "throwIn": 0.019,
+                "ob": 0.148
+            }
+        },
+        {
+            "playerName": "Nate Metzler",
+            "playerPosition": 158,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 24.074,
+                "par": 42.593,
+                "bogey": 23.457,
+                "doubleBogey": 8.025,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 6,
+                "circle1Reg": 23,
+                "circle2Reg": 42,
+                "scramble": 21,
+                "circle1Putting": 86,
+                "circle2Putting": 18,
+                "throwIn": 0.007,
+                "ob": 0.234
+            }
+        },
+        {
+            "playerName": "Christian Camp",
+            "playerPosition": 158,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 35.185,
+                "par": 45.37,
+                "bogey": 16.667,
+                "doubleBogey": 2.778,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 6,
+                "circle1Reg": 32,
+                "circle2Reg": 59,
+                "scramble": 33,
+                "circle1Putting": 82,
+                "circle2Putting": 29,
+                "throwIn": 0,
+                "ob": 0.083
+            }
+        },
+        {
+            "playerName": "Scott Conway",
+            "playerPosition": 160,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 21.528,
+                "par": 55.208,
+                "bogey": 17.014,
+                "doubleBogey": 4.861,
+                "tripleBogey": 1.389
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 6,
+                "circle1Reg": 22,
+                "circle2Reg": 44,
+                "scramble": 38,
+                "circle1Putting": 75,
+                "circle2Putting": 25,
+                "throwIn": 0,
+                "ob": 0.052
+            }
+        },
+        {
+            "playerName": "Zachary Crist",
+            "playerPosition": 160,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 28.704,
+                "par": 46.296,
+                "bogey": 20.37,
+                "doubleBogey": 2.778,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 6,
+                "circle1Reg": 23,
+                "circle2Reg": 44,
+                "scramble": 30,
+                "circle1Putting": 89,
+                "circle2Putting": 26,
+                "throwIn": 0.009,
+                "ob": 0.176
+            }
+        },
+        {
+            "playerName": "David Konoplev",
+            "playerPosition": 160,
+            "score": {
+                "ace": 0,
+                "eagle": 0.926,
+                "birdie": 24.074,
+                "par": 52.778,
+                "bogey": 15.741,
+                "doubleBogey": 5.556,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 5,
+                "circle1Reg": 26,
+                "circle2Reg": 48,
+                "scramble": 51,
+                "circle1Putting": 72,
+                "circle2Putting": 24,
+                "throwIn": 0.037,
+                "ob": 0.241
+            }
+        },
+        {
+            "playerName": "Christopher Keseloff",
+            "playerPosition": 164,
+            "score": {
+                "ace": 0,
+                "eagle": 0.617,
+                "birdie": 20.37,
+                "par": 56.173,
+                "bogey": 16.667,
+                "doubleBogey": 5.556,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 56,
+                "parked": 4,
+                "circle1Reg": 18,
+                "circle2Reg": 38,
+                "scramble": 34,
+                "circle1Putting": 86,
+                "circle2Putting": 15,
+                "throwIn": 0.031,
+                "ob": 0.16
+            }
+        },
+        {
+            "playerName": "David Wiggins",
+            "playerPosition": 164,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 13.889,
+                "par": 59.259,
+                "bogey": 22.222,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 54,
+                "parked": 6,
+                "circle1Reg": 19,
+                "circle2Reg": 34,
+                "scramble": 43,
+                "circle1Putting": 69,
+                "circle2Putting": 12,
+                "throwIn": 0,
+                "ob": 0.194
+            }
+        },
+        {
+            "playerName": "Chris Zagone",
+            "playerPosition": 168,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 10.318,
+                "par": 52.645,
+                "bogey": 26.72,
+                "doubleBogey": 7.143,
+                "tripleBogey": 3.175
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 3,
+                "circle1Reg": 18,
+                "circle2Reg": 35,
+                "scramble": 16,
+                "circle1Putting": 60,
+                "circle2Putting": 5,
+                "throwIn": 0.006,
+                "ob": 0.143
+            }
+        },
+        {
+            "playerName": "Clint Calvin",
+            "playerPosition": 170,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 27.948,
+                "par": 47.598,
+                "bogey": 20.524,
+                "doubleBogey": 3.057,
+                "tripleBogey": 0.873
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 6,
+                "circle1Reg": 32,
+                "circle2Reg": 56,
+                "scramble": 25,
+                "circle1Putting": 82,
+                "circle2Putting": 12,
+                "throwIn": 0.009,
+                "ob": 0.166
+            }
+        },
+        {
+            "playerName": "Jared Stoll",
+            "playerPosition": 170,
+            "score": {
+                "ace": 0,
+                "eagle": 0.463,
+                "birdie": 22.685,
+                "par": 45.37,
+                "bogey": 19.907,
+                "doubleBogey": 8.333,
+                "tripleBogey": 3.241
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 11,
+                "circle1Reg": 29,
+                "circle2Reg": 50,
+                "scramble": 27,
+                "circle1Putting": 64,
+                "circle2Putting": 14,
+                "throwIn": 0.01,
+                "ob": 0.239
+            }
+        },
+        {
+            "playerName": "Benjamin Page",
+            "playerPosition": 172,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.518,
+                "par": 61.111,
+                "bogey": 16.667,
+                "doubleBogey": 2.778,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 3,
+                "circle1Reg": 19,
+                "circle2Reg": 40,
+                "scramble": 50,
+                "circle1Putting": 77,
+                "circle2Putting": 21,
+                "throwIn": 0,
+                "ob": 0.083
+            }
+        },
+        {
+            "playerName": "Carter Ahrens",
+            "playerPosition": 172,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 21.605,
+                "par": 45.062,
+                "bogey": 22.222,
+                "doubleBogey": 9.259,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 4,
+                "circle1Reg": 25,
+                "circle2Reg": 43,
+                "scramble": 13,
+                "circle1Putting": 63,
+                "circle2Putting": 19,
+                "throwIn": 0,
+                "ob": 0.235
+            }
+        },
+        {
+            "playerName": "Micah Groth",
+            "playerPosition": 175,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.573,
+                "par": 60.14,
+                "bogey": 12.587,
+                "doubleBogey": 0,
+                "tripleBogey": 0.699
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 7,
+                "circle1Reg": 24,
+                "circle2Reg": 52,
+                "scramble": 76,
+                "circle1Putting": 84,
+                "circle2Putting": 28,
+                "throwIn": 0,
+                "ob": 0.035
+            }
+        },
+        {
+            "playerName": "Martin Hendel",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0,
+                "eagle": 1.587,
+                "birdie": 29.365,
+                "par": 53.175,
+                "bogey": 14.286,
+                "doubleBogey": 1.587,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 8,
+                "circle1Reg": 34,
+                "circle2Reg": 61,
+                "scramble": 54,
+                "circle1Putting": 70,
+                "circle2Putting": 18,
+                "throwIn": 0.008,
+                "ob": 0.05
+            }
+        },
+        {
+            "playerName": "Alexander Krause",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0.463,
+                "eagle": 0,
+                "birdie": 23.148,
+                "par": 55.556,
+                "bogey": 14.352,
+                "doubleBogey": 6.019,
+                "tripleBogey": 0.463
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 7,
+                "circle1Reg": 27,
+                "circle2Reg": 46,
+                "scramble": 37,
+                "circle1Putting": 66,
+                "circle2Putting": 32,
+                "throwIn": 0.009,
+                "ob": 0.083
+            }
+        },
+        {
+            "playerName": "Brady Och",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.907,
+                "par": 52.315,
+                "bogey": 24.537,
+                "doubleBogey": 1.852,
+                "tripleBogey": 1.389
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 4,
+                "circle1Reg": 18,
+                "circle2Reg": 37,
+                "scramble": 29,
+                "circle1Putting": 85,
+                "circle2Putting": 26,
+                "throwIn": 0.005,
+                "ob": 0.118
+            }
+        },
+        {
+            "playerName": "Calvin Pettigrew",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25.926,
+                "par": 50.463,
+                "bogey": 17.593,
+                "doubleBogey": 5.093,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 7,
+                "circle1Reg": 33,
+                "circle2Reg": 61,
+                "scramble": 44,
+                "circle1Putting": 67,
+                "circle2Putting": 23,
+                "throwIn": 0,
+                "ob": 0.144
+            }
+        },
+        {
+            "playerName": "Tanner Dorner",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.056,
+                "par": 56.019,
+                "bogey": 18.982,
+                "doubleBogey": 5.556,
+                "tripleBogey": 1.389
+            },
+            "stats": {
+                "fairwayHits": 56,
+                "parked": 9,
+                "circle1Reg": 28,
+                "circle2Reg": 47,
+                "scramble": 29,
+                "circle1Putting": 51,
+                "circle2Putting": 19,
+                "throwIn": 0.005,
+                "ob": 0.141
+            }
+        },
+        {
+            "playerName": "Tyler Wozniak",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.907,
+                "par": 53.704,
+                "bogey": 18.518,
+                "doubleBogey": 6.481,
+                "tripleBogey": 1.389
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 5,
+                "circle1Reg": 28,
+                "circle2Reg": 44,
+                "scramble": 16,
+                "circle1Putting": 70,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 0.106
+            }
+        },
+        {
+            "playerName": "Brandon Hauer",
+            "playerPosition": 176,
+            "score": {
+                "ace": 0,
+                "eagle": 0.4,
+                "birdie": 14.8,
+                "par": 56.8,
+                "bogey": 22.4,
+                "doubleBogey": 3.6,
+                "tripleBogey": 2
+            },
+            "stats": {
+                "fairwayHits": 55,
+                "parked": 4,
+                "circle1Reg": 18,
+                "circle2Reg": 39,
+                "scramble": 31,
+                "circle1Putting": 63,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 0.11
+            }
+        },
+        {
+            "playerName": "Andrew Nava",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.876,
+                "par": 54.037,
+                "bogey": 21.739,
+                "doubleBogey": 4.348,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 6,
+                "circle1Reg": 18,
+                "circle2Reg": 39,
+                "scramble": 33,
+                "circle1Putting": 79,
+                "circle2Putting": 27,
+                "throwIn": 0,
+                "ob": 0.112
+            }
+        },
+        {
+            "playerName": "Tim Skellenger",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.284,
+                "par": 67.284,
+                "bogey": 13.58,
+                "doubleBogey": 0.617,
+                "tripleBogey": 1.235
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 7,
+                "circle1Reg": 26,
+                "circle2Reg": 51,
+                "scramble": 24,
+                "circle1Putting": 62,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 0.09
+            }
+        },
+        {
+            "playerName": "Alex Lyon",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 24.691,
+                "par": 46.296,
+                "bogey": 21.605,
+                "doubleBogey": 6.79,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 5,
+                "circle1Reg": 25,
+                "circle2Reg": 51,
+                "scramble": 27,
+                "circle1Putting": 70,
+                "circle2Putting": 17,
+                "throwIn": 0.019,
+                "ob": 0.177
+            }
+        },
+        {
+            "playerName": "Billy Engel",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 15.432,
+                "par": 51.235,
+                "bogey": 20.988,
+                "doubleBogey": 11.111,
+                "tripleBogey": 1.235
+            },
+            "stats": {
+                "fairwayHits": 53,
+                "parked": 3,
+                "circle1Reg": 20,
+                "circle2Reg": 36,
+                "scramble": 22,
+                "circle1Putting": 67,
+                "circle2Putting": 11,
+                "throwIn": 0.012,
+                "ob": 0.21
+            }
+        },
+        {
+            "playerName": "Neil Bishop",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 16.667,
+                "par": 48.765,
+                "bogey": 28.395,
+                "doubleBogey": 4.938,
+                "tripleBogey": 1.235
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 3,
+                "circle1Reg": 19,
+                "circle2Reg": 38,
+                "scramble": 30,
+                "circle1Putting": 69,
+                "circle2Putting": 17,
+                "throwIn": 0.019,
+                "ob": 0.117
+            }
+        },
+        {
+            "playerName": "Jaden Chezem",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 14.815,
+                "par": 53.704,
+                "bogey": 24.691,
+                "doubleBogey": 6.173,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 2,
+                "circle1Reg": 14,
+                "circle2Reg": 33,
+                "scramble": 17,
+                "circle1Putting": 74,
+                "circle2Putting": 20,
+                "throwIn": 0,
+                "ob": 0.148
+            }
+        },
+        {
+            "playerName": "Ezra Hapner",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.84,
+                "par": 52.469,
+                "bogey": 19.136,
+                "doubleBogey": 3.086,
+                "tripleBogey": 2.469
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 6,
+                "circle1Reg": 26,
+                "circle2Reg": 46,
+                "scramble": 11,
+                "circle1Putting": 71,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.167
+            }
+        },
+        {
+            "playerName": "Jake Spencer",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 21.605,
+                "par": 53.086,
+                "bogey": 16.049,
+                "doubleBogey": 6.79,
+                "tripleBogey": 2.469
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 5,
+                "circle1Reg": 25,
+                "circle2Reg": 51,
+                "scramble": 35,
+                "circle1Putting": 71,
+                "circle2Putting": 21,
+                "throwIn": 0,
+                "ob": 0.182
+            }
+        },
+        {
+            "playerName": "Matt Odenwelder",
+            "playerPosition": 183,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 11.728,
+                "par": 49.383,
+                "bogey": 28.395,
+                "doubleBogey": 8.025,
+                "tripleBogey": 2.469
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 4,
+                "circle1Reg": 13,
+                "circle2Reg": 30,
+                "scramble": 11,
+                "circle1Putting": 58,
+                "circle2Putting": 17,
+                "throwIn": 0.006,
+                "ob": 0.193
+            }
+        },
+        {
+            "playerName": "John Jones",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 16.667,
+                "par": 49.074,
+                "bogey": 25.926,
+                "doubleBogey": 7.407,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 4,
+                "circle1Reg": 24,
+                "circle2Reg": 44,
+                "scramble": 25,
+                "circle1Putting": 70,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 0.269
+            }
+        },
+        {
+            "playerName": "Mike Sale",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.705,
+                "par": 57.554,
+                "bogey": 20.863,
+                "doubleBogey": 2.878,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 5,
+                "circle1Reg": 24,
+                "circle2Reg": 50,
+                "scramble": 15,
+                "circle1Putting": 74,
+                "circle2Putting": 16,
+                "throwIn": 0,
+                "ob": 0.222
+            }
+        },
+        {
+            "playerName": "Chris Ozolins",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 14.815,
+                "par": 51.852,
+                "bogey": 25,
+                "doubleBogey": 5.556,
+                "tripleBogey": 2.778
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 4,
+                "circle1Reg": 17,
+                "circle2Reg": 35,
+                "scramble": 25,
+                "circle1Putting": 70,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 0.287
+            }
+        },
+        {
+            "playerName": "Justin Anderson",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 30.556,
+                "par": 54.63,
+                "bogey": 10.185,
+                "doubleBogey": 2.778,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 6,
+                "circle1Reg": 25,
+                "circle2Reg": 53,
+                "scramble": 42,
+                "circle1Putting": 89,
+                "circle2Putting": 18,
+                "throwIn": 0.009,
+                "ob": 0.139
+            }
+        },
+        {
+            "playerName": "Cameron Messerschmidt",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.222,
+                "par": 60.185,
+                "bogey": 12.037,
+                "doubleBogey": 3.704,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 5,
+                "circle1Reg": 22,
+                "circle2Reg": 38,
+                "scramble": 52,
+                "circle1Putting": 80,
+                "circle2Putting": 46,
+                "throwIn": 0.009,
+                "ob": 0.194
+            }
+        },
+        {
+            "playerName": "Brent Hannu",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 23.148,
+                "par": 50,
+                "bogey": 18.518,
+                "doubleBogey": 5.556,
+                "tripleBogey": 2.778
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 5,
+                "circle1Reg": 30,
+                "circle2Reg": 55,
+                "scramble": 38,
+                "circle1Putting": 71,
+                "circle2Putting": 12,
+                "throwIn": 0,
+                "ob": 0.176
+            }
+        },
+        {
+            "playerName": "Ryan Chesla",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25.926,
+                "par": 55.556,
+                "bogey": 15.741,
+                "doubleBogey": 1.852,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 5,
+                "circle1Reg": 22,
+                "circle2Reg": 45,
+                "scramble": 44,
+                "circle1Putting": 87,
+                "circle2Putting": 29,
+                "throwIn": 0,
+                "ob": 0.139
+            }
+        },
+        {
+            "playerName": "Joseph Haggard",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 15.741,
+                "par": 49.074,
+                "bogey": 25,
+                "doubleBogey": 7.407,
+                "tripleBogey": 2.778
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 5,
+                "circle1Reg": 15,
+                "circle2Reg": 35,
+                "scramble": 17,
+                "circle1Putting": 60,
+                "circle2Putting": 24,
+                "throwIn": 0,
+                "ob": 0.25
+            }
+        },
+        {
+            "playerName": "Jeffrey McCormick",
+            "playerPosition": 192,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 13.889,
+                "par": 59.722,
+                "bogey": 15.972,
+                "doubleBogey": 7.639,
+                "tripleBogey": 2.778
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 4,
+                "circle1Reg": 22,
+                "circle2Reg": 42,
+                "scramble": 23,
+                "circle1Putting": 60,
+                "circle2Putting": 3,
+                "throwIn": 0.007,
+                "ob": 0.139
+            }
+        },
+        {
+            "playerName": "Andy Wacha",
+            "playerPosition": 208,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.907,
+                "par": 51.852,
+                "bogey": 18.982,
+                "doubleBogey": 8.796,
+                "tripleBogey": 0.463
+            },
+            "stats": {
+                "fairwayHits": 52,
+                "parked": 5,
+                "circle1Reg": 21,
+                "circle2Reg": 41,
+                "scramble": 29,
+                "circle1Putting": 69,
+                "circle2Putting": 19,
+                "throwIn": 0.005,
+                "ob": 0.144
+            }
+        },
+        {
+            "playerName": "Justin Workman",
+            "playerPosition": 208,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.46,
+                "par": 57.143,
+                "bogey": 16.667,
+                "doubleBogey": 7.143,
+                "tripleBogey": 1.587
+            },
+            "stats": {
+                "fairwayHits": 51,
+                "parked": 1,
+                "circle1Reg": 22,
+                "circle2Reg": 38,
+                "scramble": 48,
+                "circle1Putting": 77,
+                "circle2Putting": 23,
+                "throwIn": 0,
+                "ob": 0.056
+            }
+        },
+        {
+            "playerName": "Maximus Meyer",
+            "playerPosition": 210,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 26.768,
+                "par": 50.505,
+                "bogey": 16.667,
+                "doubleBogey": 6.061,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 7,
+                "circle1Reg": 29,
+                "circle2Reg": 47,
+                "scramble": 36,
+                "circle1Putting": 75,
+                "circle2Putting": 12,
+                "throwIn": 0,
+                "ob": 0.105
+            }
+        },
+        {
+            "playerName": "Patrick Brown",
+            "playerPosition": 212,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25.926,
+                "par": 53.086,
+                "bogey": 17.284,
+                "doubleBogey": 3.086,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 13,
+                "circle1Reg": 33,
+                "circle2Reg": 59,
+                "scramble": 26,
+                "circle1Putting": 64,
+                "circle2Putting": 9,
+                "throwIn": 0,
+                "ob": 0.062
+            }
+        },
+        {
+            "playerName": "Sean Martin",
+            "playerPosition": 212,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 23.457,
+                "par": 51.852,
+                "bogey": 20.37,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0.617
+            },
+            "stats": {
+                "fairwayHits": 54,
+                "parked": 7,
+                "circle1Reg": 25,
+                "circle2Reg": 39,
+                "scramble": 23,
+                "circle1Putting": 73,
+                "circle2Putting": 31,
+                "throwIn": 0.008,
+                "ob": 0.103
+            }
+        },
+        {
+            "playerName": "Joe Bishop",
+            "playerPosition": 212,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 6.173,
+                "par": 48.765,
+                "bogey": 29.63,
+                "doubleBogey": 9.259,
+                "tripleBogey": 6.173
+            },
+            "stats": {
+                "fairwayHits": 54,
+                "parked": 1,
+                "circle1Reg": 11,
+                "circle2Reg": 31,
+                "scramble": 19,
+                "circle1Putting": 57,
+                "circle2Putting": 8,
+                "throwIn": 0,
+                "ob": 0.173
+            }
+        },
+        {
+            "playerName": "Samuel Aldrich",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.593,
+                "par": 59.259,
+                "bogey": 18.518,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 4,
+                "circle1Reg": 21,
+                "circle2Reg": 40,
+                "scramble": 25,
+                "circle1Putting": 68,
+                "circle2Putting": 21,
+                "throwIn": 0.009,
+                "ob": 0.102
+            }
+        },
+        {
+            "playerName": "D.J. Herrington",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.407,
+                "par": 47.222,
+                "bogey": 14.815,
+                "doubleBogey": 3.704,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 49,
+                "scramble": 50,
+                "circle1Putting": 82,
+                "circle2Putting": 19,
+                "throwIn": 0,
+                "ob": 0.111
+            }
+        },
+        {
+            "playerName": "Kirby Snyder",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.222,
+                "par": 60.185,
+                "bogey": 13.889,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 7,
+                "circle1Reg": 25,
+                "circle2Reg": 52,
+                "scramble": 19,
+                "circle1Putting": 80,
+                "circle2Putting": 16,
+                "throwIn": 0.009,
+                "ob": 0.083
+            }
+        },
+        {
+            "playerName": "Jonathan Fletcher",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 32.407,
+                "par": 41.667,
+                "bogey": 17.593,
+                "doubleBogey": 7.407,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 81,
+                "parked": 9,
+                "circle1Reg": 35,
+                "circle2Reg": 67,
+                "scramble": 24,
+                "circle1Putting": 67,
+                "circle2Putting": 9,
+                "throwIn": 0.009,
+                "ob": 0.102
+            }
+        },
+        {
+            "playerName": "Loren J Lewis",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 20.37,
+                "par": 47.222,
+                "bogey": 25.926,
+                "doubleBogey": 5.556,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 4,
+                "circle1Reg": 20,
+                "circle2Reg": 37,
+                "scramble": 14,
+                "circle1Putting": 66,
+                "circle2Putting": 21,
+                "throwIn": 0.009,
+                "ob": 0.148
+            }
+        },
+        {
+            "playerName": "Erik Olden",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.222,
+                "par": 53.704,
+                "bogey": 19.444,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 8,
+                "circle1Reg": 28,
+                "circle2Reg": 43,
+                "scramble": 32,
+                "circle1Putting": 83,
+                "circle2Putting": 7,
+                "throwIn": 0,
+                "ob": 0.056
+            }
+        },
+        {
+            "playerName": "Kevin Sheehan Jr.",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 20.37,
+                "par": 56.481,
+                "bogey": 19.444,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 46,
+                "parked": 2,
+                "circle1Reg": 19,
+                "circle2Reg": 40,
+                "scramble": 38,
+                "circle1Putting": 86,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.13
+            }
+        },
+        {
+            "playerName": "Edward Florance",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.444,
+                "par": 51.852,
+                "bogey": 22.222,
+                "doubleBogey": 5.556,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 59,
+                "parked": 5,
+                "circle1Reg": 18,
+                "circle2Reg": 37,
+                "scramble": 24,
+                "circle1Putting": 70,
+                "circle2Putting": 21,
+                "throwIn": 0.009,
+                "ob": 0.074
+            }
+        },
+        {
+            "playerName": "Ethan Enos",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 12.963,
+                "par": 56.481,
+                "bogey": 23.148,
+                "doubleBogey": 7.407,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 53,
+                "parked": 6,
+                "circle1Reg": 20,
+                "circle2Reg": 37,
+                "scramble": 40,
+                "circle1Putting": 66,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.13
+            }
+        },
+        {
+            "playerName": "Alexander Eketrapp",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.222,
+                "par": 47.222,
+                "bogey": 22.222,
+                "doubleBogey": 8.333,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 5,
+                "circle1Reg": 22,
+                "circle2Reg": 41,
+                "scramble": 24,
+                "circle1Putting": 71,
+                "circle2Putting": 23,
+                "throwIn": 0,
+                "ob": 0.083
+            }
+        },
+        {
+            "playerName": "Chase Estep",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 22.222,
+                "par": 52.778,
+                "bogey": 19.444,
+                "doubleBogey": 3.704,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 5,
+                "circle1Reg": 19,
+                "circle2Reg": 44,
+                "scramble": 30,
+                "circle1Putting": 83,
+                "circle2Putting": 28,
+                "throwIn": 0,
+                "ob": 0.13
+            }
+        },
+        {
+            "playerName": "Ruben Alaniz",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 12.963,
+                "par": 60.185,
+                "bogey": 21.296,
+                "doubleBogey": 1.852,
+                "tripleBogey": 3.704
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 6,
+                "circle1Reg": 16,
+                "circle2Reg": 33,
+                "scramble": 5,
+                "circle1Putting": 82,
+                "circle2Putting": 3,
+                "throwIn": 0,
+                "ob": 0.13
+            }
+        },
+        {
+            "playerName": "Justin Freeman",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 12.037,
+                "par": 62.037,
+                "bogey": 23.148,
+                "doubleBogey": 2.778,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 56,
+                "parked": 3,
+                "circle1Reg": 20,
+                "circle2Reg": 38,
+                "scramble": 29,
+                "circle1Putting": 59,
+                "circle2Putting": 17,
+                "throwIn": 0,
+                "ob": 0.028
+            }
+        },
+        {
+            "playerName": "Alex Carrell",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.593,
+                "par": 52.778,
+                "bogey": 18.518,
+                "doubleBogey": 7.407,
+                "tripleBogey": 3.704
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 5,
+                "circle1Reg": 19,
+                "circle2Reg": 47,
+                "scramble": 19,
+                "circle1Putting": 79,
+                "circle2Putting": 21,
+                "throwIn": 0,
+                "ob": 0.222
+            }
+        },
+        {
+            "playerName": "Dallas Wrinkle",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.518,
+                "par": 53.704,
+                "bogey": 20.37,
+                "doubleBogey": 5.556,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 5,
+                "circle1Reg": 19,
+                "circle2Reg": 39,
+                "scramble": 32,
+                "circle1Putting": 75,
+                "circle2Putting": 26,
+                "throwIn": 0,
+                "ob": 0.157
+            }
+        },
+        {
+            "playerName": "Ian Blake",
+            "playerPosition": 223,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.593,
+                "par": 48.148,
+                "bogey": 25.926,
+                "doubleBogey": 7.407,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 53,
+                "parked": 7,
+                "circle1Reg": 17,
+                "circle2Reg": 31,
+                "scramble": 19,
+                "circle1Putting": 76,
+                "circle2Putting": 25,
+                "throwIn": 0.019,
+                "ob": 0.222
+            }
+        },
+        {
+            "playerName": "Jaden Rye",
+            "playerPosition": 351,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 25.926,
+                "par": 55.556,
+                "bogey": 11.111,
+                "doubleBogey": 5.556,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 7,
+                "circle1Reg": 32,
+                "circle2Reg": 56,
+                "scramble": 33,
+                "circle1Putting": 73,
+                "circle2Putting": 16,
+                "throwIn": 0,
+                "ob": 0.139
+            }
+        },
+        {
+            "playerName": "Woody Hass",
+            "playerPosition": 352,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 17.593,
+                "par": 57.407,
+                "bogey": 21.296,
+                "doubleBogey": 3.704,
+                "tripleBogey": 0
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 5,
+                "circle1Reg": 21,
+                "circle2Reg": 34,
+                "scramble": 30,
+                "circle1Putting": 84,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 0.102
+            }
+        },
+        {
+            "playerName": "Robert Lockwood",
+            "playerPosition": 353,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.518,
+                "par": 56.481,
+                "bogey": 23.148,
+                "doubleBogey": 0.926,
+                "tripleBogey": 0.926
+            },
+            "stats": {
+                "fairwayHits": 43,
+                "parked": 4,
+                "circle1Reg": 22,
+                "circle2Reg": 39,
+                "scramble": 45,
+                "circle1Putting": 78,
+                "circle2Putting": 15,
+                "throwIn": 0.009,
+                "ob": 0.074
+            }
+        },
+        {
+            "playerName": "James Burgess",
+            "playerPosition": 353,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 21.296,
+                "par": 52.778,
+                "bogey": 18.518,
+                "doubleBogey": 5.556,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 72,
+                "parked": 5,
+                "circle1Reg": 24,
+                "circle2Reg": 51,
+                "scramble": 29,
+                "circle1Putting": 83,
+                "circle2Putting": 3,
+                "throwIn": 0,
+                "ob": 0.12
+            }
+        }
+    ]
+}

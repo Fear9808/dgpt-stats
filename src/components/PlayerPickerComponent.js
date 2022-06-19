@@ -10,27 +10,28 @@ const PlayerPickerComponent = props => {
     useEffect(() => {
         if(props.data){
             setPlayers(utils.getPlayerNamesFromCompetition(props.data));
-
-            // loading the first player in the players list to display the data. This fix is a bit janky but it works.
-            if(isFirstRender && players[0]){
-                onSelectPlayer(players[0]? players[0] : '');
-                isFirstRender = false;
-            }
         }
     },[props.data]);
 
-   /*  useEffect(() => {
-        const initialPlayer = players? players[0] : '';
-        onSelectPlayer(initialPlayer);
-    }, []); */
+    useEffect(() => {
+        // loading the first player in the players list to display the data. This fix is a bit janky but it works.
+        if(isFirstRender && players[0]){
+            console.log("First render");
+            onSelectPlayer(players[0]? players[0] : '');
+            isFirstRender = false;
+        }
+        
+    },[players]);
 
     let playerOptions = players.map((player) =>{
+        //console.log(players);
         return (
             <option key={player} value={player}>{player}</option>
         )
     }, this);
 
     const onSelectPlayer = (selectedPlayer) =>{
+        console.log(selectedPlayer);
         //setSelectedplayer(selectedPlayer);
         props.handlePlayerSelect(selectedPlayer);
         setSelectedplayer(selectedPlayer);

@@ -16,20 +16,21 @@ const DisplayAllPlayerData = props => {
         <div>
             <h1>Player Data</h1>
             <div>
-                <p>Name: {playerData.name}</p>
+                <p>Name: {playerData?.name}</p>
+                <p>Position: {playerData?.playerPosition}</p>
                 <div>
                     <h3>PUTTING</h3>
-                    <p>Circle 1 putting: {playerData?.circle_1_putting}</p>
-                    <p>Circle 2 putting: {playerData?.circle_2_putting}</p>
+                    <p>Circle 1 putting: {playerData.stats?.circle1Putting}</p>
+                    <p>Circle 2 putting: {playerData.stats?.circle2Putting}</p>
                     <h3>REGULATION</h3>
-                    <p>Circle 1 regulation: {playerData?.circle_1_reg}</p>
-                    <p>Circle 2 regulation: {playerData?.circle_2_reg}</p>
+                    <p>Circle 1 regulation: {playerData.stats?.circle1Reg}</p>
+                    <p>Circle 2 regulation: {playerData.stats?.circle2Reg}</p>
                     <h3>OTHER</h3>
-                    <p>Fairway Hits: {playerData?.fairway_hits}</p>
-                    <p>OB: {playerData?.ob}</p>
-                    <p>Parked: {playerData?.parked}</p>
-                    <p>Scramble: {playerData?.scramble}</p>
-                    <p>Throw-in: {playerData?.throw_in}</p>
+                    <p>Fairway Hits: {playerData.stats?.fairwayHits}</p>
+                    <p>OB: {playerData.stats?.ob}</p>
+                    <p>Parked: {playerData.stats?.parked}</p>
+                    <p>Scramble: {playerData.stats?.scramble}</p>
+                    <p>Throw-in: {playerData.stats?.throwIn}</p>
                 </div>
                 <div>
                     <h3>SCORE</h3>
@@ -38,8 +39,8 @@ const DisplayAllPlayerData = props => {
                     <p>Birdie: {playerData.score?.birdie}</p>
                     <p>Par: {playerData.score?.par}</p>
                     <p>Bogey: {playerData.score?.bogey}</p>
-                    <p>Double Bogey: {playerData.score?.double_bogey}</p>
-                    <p>Triple Bogey: {playerData.score?.triple_bogey}</p>
+                    <p>Double Bogey: {playerData.score?.doubleBogey}</p>
+                    <p>Triple Bogey: {playerData.score?.tripleBogey}</p>
                 </div>
             </div>
             
