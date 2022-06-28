@@ -2,6 +2,10 @@ import React, {useEffect, useState} from 'react';
 import DisplayAllPlayerData from '../components/DisplayAllPlayerData';
 import MaleFemalePickerComponent from '../components/MaleFemalePickerComponent';
 import PlayerPickerComponent from '../components/PlayerPickerComponent';
+import YearPickerComponent from '../components/YearPickerComponent';
+import BarStatComponent from '../components/BarStatComponent'
+
+import styles from '../style/HomePageStyle.module.css'
 
 const Home = () => {
     const [tourData, setData] = useState({});
@@ -13,8 +17,11 @@ const Home = () => {
 
     const handlePlayerSelect = (selectedPlayer) =>{
         // Passed state from PlayerPickerComponent
-        if(selectedPlayer){
+        if(selectedPlayer !== player){
+            console.log(selectedPlayer);
             setPlayer(selectedPlayer);
+        }else if (selectedPlayer === player){
+            getPlayerDataByName(player);
         }else{
             alert("Could not get selected player")
         }
@@ -23,6 +30,14 @@ const Home = () => {
         // Passed state from PlayerPickerComponent
         if(selected){
             setTourMaleFemale(selected);
+        }else{
+            alert("Could not get selected value")
+        }
+    };
+    const handleYearSelect = (selected) =>{
+        // Passed state from PlayerPickerComponent
+        if(selected){
+            setTourYear(selected);
         }else{
             alert("Could not get selected value")
         }
@@ -61,7 +76,7 @@ const Home = () => {
     // Runs when player state updates
     useEffect(()=>{
         getPlayerDataByName(player)
-    },[player])
+    },[player, tourYear])
 
     useEffect(()=>{
         getTourDataByName(tourYear, tourMaleFemale)
@@ -71,10 +86,10 @@ const Home = () => {
         fetch(`./data/${tourYear}_DGPT_Stats_${mpoFpo}.json`)
         .then((response) => response.json())
         .then((responseJson) => {
-            console.log(responseJson.players[0]);
+            //console.log(responseJson.players[0]);
             setData(responseJson)
             setPlayers(responseJson.players)
-            console.log(responseJson.players[0].playerName);
+            //console.log(responseJson.players[0].playerName);
             //setPlayer(responseJson.players[0].playerName)
         })
         .catch((error) => {
@@ -88,10 +103,12 @@ const Home = () => {
     }
 
     return (
-        <div>
+        <div className={styles.background}>
             <h1>Home Page</h1>
             <PlayerPickerComponent data={players} player={player} handlePlayerSelect={handlePlayerSelect}/>
+            <YearPickerComponent handleYearSelect={handleYearSelect}/>
             <MaleFemalePickerComponent mpo_fpo={tourMaleFemale} handleMpoFpoSelect={handleMpoFpoSelect}/>
+            <BarStatComponent statName={'C1 Putting '} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
             <DisplayAllPlayerData playerData={playerData}/>
         </div>
     );
