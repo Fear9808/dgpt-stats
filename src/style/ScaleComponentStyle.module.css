@@ -6,3 +6,10 @@
     margin-right: 0%;
     width: 100%;
 }
+
+.line{
+    position: absolute;
+    width: 68%;
+    margin-left: 15%;
+    margin-top: -4%;
+}

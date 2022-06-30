@@ -3,7 +3,7 @@
     "tourYear": 2020,
     "MPO/FPO": "FPO",
     "numberOfPlayers": 22,
-    "updatedDate": "2022-06-19 14:42",
+    "updatedDate": "2022-06-30 20:56",
     "averagePlayer": {
         "playerName": "player_average",
         "playerPosition": 0,
@@ -24,8 +24,8 @@
             "scramble": 32.909,
             "circle1Putting": 66.318,
             "circle2Putting": 11.273,
-            "throwIn": 0.002,
-            "ob": 0.101
+            "throwIn": 0.227,
+            "ob": 10.055
         }
     },
     "players": [
@@ -49,8 +49,8 @@
                 "scramble": 45,
                 "circle1Putting": 78,
                 "circle2Putting": 21,
-                "throwIn": 0.007,
-                "ob": 0.111
+                "throwIn": 0.7,
+                "ob": 11.1
             }
         },
         {
@@ -74,7 +74,7 @@
                 "circle1Putting": 59,
                 "circle2Putting": 13,
                 "throwIn": 0,
-                "ob": 0.103
+                "ob": 10.3
             }
         },
         {
@@ -98,7 +98,7 @@
                 "circle1Putting": 70,
                 "circle2Putting": 10,
                 "throwIn": 0,
-                "ob": 0.048
+                "ob": 4.8
             }
         },
         {
@@ -121,8 +121,8 @@
                 "scramble": 46,
                 "circle1Putting": 78,
                 "circle2Putting": 18,
-                "throwIn": 0.006,
-                "ob": 0.107
+                "throwIn": 0.6,
+                "ob": 10.7
             }
         },
         {
@@ -146,7 +146,7 @@
                 "circle1Putting": 73,
                 "circle2Putting": 11,
                 "throwIn": 0,
-                "ob": 0.084
+                "ob": 8.4
             }
         },
         {
@@ -170,7 +170,7 @@
                 "circle1Putting": 59,
                 "circle2Putting": 5,
                 "throwIn": 0,
-                "ob": 0.097
+                "ob": 9.7
             }
         },
         {
@@ -194,7 +194,7 @@
                 "circle1Putting": 61,
                 "circle2Putting": 3,
                 "throwIn": 0,
-                "ob": 0.12
+                "ob": 12.0
             }
         },
         {
@@ -218,7 +218,7 @@
                 "circle1Putting": 81,
                 "circle2Putting": 21,
                 "throwIn": 0,
-                "ob": 0.072
+                "ob": 7.2
             }
         },
         {
@@ -241,8 +241,8 @@
                 "scramble": 26,
                 "circle1Putting": 68,
                 "circle2Putting": 18,
-                "throwIn": 0.004,
-                "ob": 0.106
+                "throwIn": 0.4,
+                "ob": 10.6
             }
         },
         {
@@ -266,7 +266,7 @@
                 "circle1Putting": 65,
                 "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 0.113
+                "ob": 11.3
             }
         },
         {
@@ -289,8 +289,8 @@
                 "scramble": 48,
                 "circle1Putting": 73,
                 "circle2Putting": 18,
-                "throwIn": 0.003,
-                "ob": 0.058
+                "throwIn": 0.3,
+                "ob": 5.8
             }
         },
         {
@@ -313,8 +313,8 @@
                 "scramble": 45,
                 "circle1Putting": 77,
                 "circle2Putting": 17,
-                "throwIn": 0.002,
-                "ob": 0.079
+                "throwIn": 0.2,
+                "ob": 7.9
             }
         },
         {
@@ -337,8 +337,8 @@
                 "scramble": 33,
                 "circle1Putting": 65,
                 "circle2Putting": 7,
-                "throwIn": 0.003,
-                "ob": 0.119
+                "throwIn": 0.3,
+                "ob": 11.9
             }
         },
         {
@@ -362,7 +362,7 @@
                 "circle1Putting": 65,
                 "circle2Putting": 5,
                 "throwIn": 0,
-                "ob": 0.085
+                "ob": 8.5
             }
         },
         {
@@ -385,8 +385,8 @@
                 "scramble": 19,
                 "circle1Putting": 66,
                 "circle2Putting": 13,
-                "throwIn": 0.003,
-                "ob": 0.116
+                "throwIn": 0.3,
+                "ob": 11.6
             }
         },
         {
@@ -409,8 +409,8 @@
                 "scramble": 30,
                 "circle1Putting": 67,
                 "circle2Putting": 8,
-                "throwIn": 0.005,
-                "ob": 0.101
+                "throwIn": 0.5,
+                "ob": 10.1
             }
         },
         {
@@ -433,8 +433,8 @@
                 "scramble": 31,
                 "circle1Putting": 63,
                 "circle2Putting": 10,
-                "throwIn": 0.008,
-                "ob": 0.112
+                "throwIn": 0.8,
+                "ob": 11.2
             }
         },
         {
@@ -457,8 +457,8 @@
                 "scramble": 33,
                 "circle1Putting": 69,
                 "circle2Putting": 13,
-                "throwIn": 0.005,
-                "ob": 0.105
+                "throwIn": 0.5,
+                "ob": 10.5
             }
         },
         {
@@ -482,7 +482,7 @@
                 "circle1Putting": 41,
                 "circle2Putting": 0,
                 "throwIn": 0,
-                "ob": 0.082
+                "ob": 8.2
             }
         },
         {
@@ -506,7 +506,7 @@
                 "circle1Putting": 75,
                 "circle2Putting": 11,
                 "throwIn": 0,
-                "ob": 0.077
+                "ob": 7.7
             }
         },
         {
@@ -529,8 +529,8 @@
                 "scramble": 13,
                 "circle1Putting": 57,
                 "circle2Putting": 6,
-                "throwIn": 0.004,
-                "ob": 0.129
+                "throwIn": 0.4,
+                "ob": 12.9
             }
         },
         {
@@ -554,7 +554,7 @@
                 "circle1Putting": 49,
                 "circle2Putting": 13,
                 "throwIn": 0,
-                "ob": 0.188
+                "ob": 18.8
             }
         }
     ]

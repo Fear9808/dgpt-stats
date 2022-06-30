@@ -3,7 +3,7 @@
     "tourYear": 2021,
     "MPO/FPO": "FPO",
     "numberOfPlayers": 80,
-    "updatedDate": "2022-06-19 14:41",
+    "updatedDate": "2022-06-30 20:54",
     "averagePlayer": {
         "playerName": "player_average",
         "playerPosition": 0,
@@ -24,8 +24,8 @@
             "scramble": 26.95,
             "circle1Putting": 60.075,
             "circle2Putting": 8.725,
-            "throwIn": 0.003,
-            "ob": 0.128
+            "throwIn": 0.259,
+            "ob": 12.799
         }
     },
     "players": [
@@ -49,8 +49,8 @@
                 "scramble": 39,
                 "circle1Putting": 76,
                 "circle2Putting": 16,
-                "throwIn": 0.006,
-                "ob": 0.12
+                "throwIn": 0.6,
+                "ob": 12.0
             }
         },
         {
@@ -74,7 +74,7 @@
                 "circle1Putting": 63,
                 "circle2Putting": 16,
                 "throwIn": 0,
-                "ob": 0.062
+                "ob": 6.2
             }
         },
         {
@@ -97,8 +97,8 @@
                 "scramble": 34,
                 "circle1Putting": 77,
                 "circle2Putting": 15,
-                "throwIn": 0.002,
-                "ob": 0.08
+                "throwIn": 0.2,
+                "ob": 8.0
             }
         },
         {
@@ -121,8 +121,8 @@
                 "scramble": 43,
                 "circle1Putting": 70,
                 "circle2Putting": 9,
-                "throwIn": 0.001,
-                "ob": 0.059
+                "throwIn": 0.1,
+                "ob": 5.9
             }
         },
         {
@@ -145,8 +145,8 @@
                 "scramble": 35,
                 "circle1Putting": 69,
                 "circle2Putting": 19,
-                "throwIn": 0.009,
-                "ob": 0.124
+                "throwIn": 0.9,
+                "ob": 12.4
             }
         },
         {
@@ -169,8 +169,8 @@
                 "scramble": 39,
                 "circle1Putting": 57,
                 "circle2Putting": 8,
-                "throwIn": 0.007,
-                "ob": 0.092
+                "throwIn": 0.7,
+                "ob": 9.2
             }
         },
         {
@@ -193,8 +193,8 @@
                 "scramble": 33,
                 "circle1Putting": 53,
                 "circle2Putting": 4,
-                "throwIn": 0.002,
-                "ob": 0.079
+                "throwIn": 0.2,
+                "ob": 7.9
             }
         },
         {
@@ -217,8 +217,8 @@
                 "scramble": 38,
                 "circle1Putting": 68,
                 "circle2Putting": 9,
-                "throwIn": 0.002,
-                "ob": 0.091
+                "throwIn": 0.2,
+                "ob": 9.1
             }
         },
         {
@@ -241,8 +241,8 @@
                 "scramble": 50,
                 "circle1Putting": 81,
                 "circle2Putting": 20,
-                "throwIn": 0.003,
-                "ob": 0.054
+                "throwIn": 0.3,
+                "ob": 5.4
             }
         },
         {
@@ -265,8 +265,8 @@
                 "scramble": 27,
                 "circle1Putting": 67,
                 "circle2Putting": 11,
-                "throwIn": 0.002,
-                "ob": 0.104
+                "throwIn": 0.2,
+                "ob": 10.4
             }
         },
         {
@@ -289,8 +289,8 @@
                 "scramble": 31,
                 "circle1Putting": 48,
                 "circle2Putting": 11,
-                "throwIn": 0.003,
-                "ob": 0.103
+                "throwIn": 0.3,
+                "ob": 10.3
             }
         },
         {
@@ -313,8 +313,8 @@
                 "scramble": 36,
                 "circle1Putting": 81,
                 "circle2Putting": 16,
-                "throwIn": 0.005,
-                "ob": 0.099
+                "throwIn": 0.5,
+                "ob": 9.9
             }
         },
         {
@@ -338,7 +338,7 @@
                 "circle1Putting": 51,
                 "circle2Putting": 5,
                 "throwIn": 0,
-                "ob": 0.093
+                "ob": 9.3
             }
         },
         {
@@ -361,8 +361,8 @@
                 "scramble": 28,
                 "circle1Putting": 69,
                 "circle2Putting": 11,
-                "throwIn": 0.004,
-                "ob": 0.131
+                "throwIn": 0.4,
+                "ob": 13.1
             }
         },
         {
@@ -385,8 +385,8 @@
                 "scramble": 29,
                 "circle1Putting": 63,
                 "circle2Putting": 14,
-                "throwIn": 0.003,
-                "ob": 0.111
+                "throwIn": 0.3,
+                "ob": 11.1
             }
         },
         {
@@ -409,8 +409,8 @@
                 "scramble": 33,
                 "circle1Putting": 69,
                 "circle2Putting": 11,
-                "throwIn": 0.005,
-                "ob": 0.118
+                "throwIn": 0.5,
+                "ob": 11.8
             }
         },
         {
@@ -433,8 +433,8 @@
                 "scramble": 38,
                 "circle1Putting": 67,
                 "circle2Putting": 14,
-                "throwIn": 0.002,
-                "ob": 0.107
+                "throwIn": 0.2,
+                "ob": 10.7
             }
         },
         {
@@ -457,8 +457,8 @@
                 "scramble": 38,
                 "circle1Putting": 76,
                 "circle2Putting": 14,
-                "throwIn": 0.007,
-                "ob": 0.112
+                "throwIn": 0.7,
+                "ob": 11.2
             }
         },
         {
@@ -481,8 +481,8 @@
                 "scramble": 27,
                 "circle1Putting": 66,
                 "circle2Putting": 7,
-                "throwIn": 0.002,
-                "ob": 0.136
+                "throwIn": 0.2,
+                "ob": 13.6
             }
         },
         {
@@ -505,8 +505,8 @@
                 "scramble": 33,
                 "circle1Putting": 61,
                 "circle2Putting": 9,
-                "throwIn": 0.002,
-                "ob": 0.098
+                "throwIn": 0.2,
+                "ob": 9.8
             }
         },
         {
@@ -530,7 +530,7 @@
                 "circle1Putting": 65,
                 "circle2Putting": 22,
                 "throwIn": 0,
-                "ob": 0.051
+                "ob": 5.1
             }
         },
         {
@@ -554,7 +554,7 @@
                 "circle1Putting": 64,
                 "circle2Putting": 8,
                 "throwIn": 0,
-                "ob": 0.102
+                "ob": 10.2
             }
         },
         {
@@ -577,8 +577,8 @@
                 "scramble": 28,
                 "circle1Putting": 56,
                 "circle2Putting": 6,
-                "throwIn": 0.004,
-                "ob": 0.104
+                "throwIn": 0.4,
+                "ob": 10.4
             }
         },
         {
@@ -601,8 +601,8 @@
                 "scramble": 24,
                 "circle1Putting": 59,
                 "circle2Putting": 8,
-                "throwIn": 0.01,
-                "ob": 0.182
+                "throwIn": 1.0,
+                "ob": 18.2
             }
         },
         {
@@ -625,8 +625,8 @@
                 "scramble": 25,
                 "circle1Putting": 65,
                 "circle2Putting": 15,
-                "throwIn": 0.009,
-                "ob": 0.132
+                "throwIn": 0.9,
+                "ob": 13.2
             }
         },
         {
@@ -649,8 +649,8 @@
                 "scramble": 28,
                 "circle1Putting": 73,
                 "circle2Putting": 16,
-                "throwIn": 0.012,
-                "ob": 0.123
+                "throwIn": 1.2,
+                "ob": 12.3
             }
         },
         {
@@ -673,8 +673,8 @@
                 "scramble": 34,
                 "circle1Putting": 71,
                 "circle2Putting": 13,
-                "throwIn": 0.002,
-                "ob": 0.104
+                "throwIn": 0.2,
+                "ob": 10.4
             }
         },
         {
@@ -698,7 +698,7 @@
                 "circle1Putting": 67,
                 "circle2Putting": 9,
                 "throwIn": 0,
-                "ob": 0.161
+                "ob": 16.1
             }
         },
         {
@@ -722,7 +722,7 @@
                 "circle1Putting": 70,
                 "circle2Putting": 8,
                 "throwIn": 0,
-                "ob": 0.085
+                "ob": 8.5
             }
         },
         {
@@ -746,7 +746,7 @@
                 "circle1Putting": 62,
                 "circle2Putting": 6,
                 "throwIn": 0,
-                "ob": 0.151
+                "ob": 15.1
             }
         },
         {
@@ -769,8 +769,8 @@
                 "scramble": 26,
                 "circle1Putting": 59,
                 "circle2Putting": 6,
-                "throwIn": 0.003,
-                "ob": 0.114
+                "throwIn": 0.3,
+                "ob": 11.4
             }
         },
         {
@@ -793,8 +793,8 @@
                 "scramble": 28,
                 "circle1Putting": 54,
                 "circle2Putting": 8,
-                "throwIn": 0.009,
-                "ob": 0.12
+                "throwIn": 0.9,
+                "ob": 12.0
             }
         },
         {
@@ -818,7 +818,7 @@
                 "circle1Putting": 63,
                 "circle2Putting": 8,
                 "throwIn": 0,
-                "ob": 0.131
+                "ob": 13.1
             }
         },
         {
@@ -842,7 +842,7 @@
                 "circle1Putting": 71,
                 "circle2Putting": 14,
                 "throwIn": 0,
-                "ob": 0.115
+                "ob": 11.5
             }
         },
         {
@@ -865,8 +865,8 @@
                 "scramble": 32,
                 "circle1Putting": 76,
                 "circle2Putting": 9,
-                "throwIn": 0.004,
-                "ob": 0.162
+                "throwIn": 0.4,
+                "ob": 16.2
             }
         },
         {
@@ -890,7 +890,7 @@
                 "circle1Putting": 58,
                 "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 0.114
+                "ob": 11.4
             }
         },
         {
@@ -914,7 +914,7 @@
                 "circle1Putting": 60,
                 "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 0.139
+                "ob": 13.9
             }
         },
         {
@@ -938,7 +938,7 @@
                 "circle1Putting": 61,
                 "circle2Putting": 10,
                 "throwIn": 0,
-                "ob": 0.208
+                "ob": 20.8
             }
         },
         {
@@ -962,7 +962,7 @@
                 "circle1Putting": 82,
                 "circle2Putting": 18,
                 "throwIn": 0,
-                "ob": 0.093
+                "ob": 9.3
             }
         },
         {
@@ -985,8 +985,8 @@
                 "scramble": 18,
                 "circle1Putting": 50,
                 "circle2Putting": 5,
-                "throwIn": 0.005,
-                "ob": 0.213
+                "throwIn": 0.5,
+                "ob": 21.3
             }
         },
         {
@@ -1009,8 +1009,8 @@
                 "scramble": 36,
                 "circle1Putting": 65,
                 "circle2Putting": 4,
-                "throwIn": 0.006,
-                "ob": 0.094
+                "throwIn": 0.6,
+                "ob": 9.4
             }
         },
         {
@@ -1034,7 +1034,7 @@
                 "circle1Putting": 69,
                 "circle2Putting": 11,
                 "throwIn": 0,
-                "ob": 0.156
+                "ob": 15.6
             }
         },
         {
@@ -1058,7 +1058,7 @@
                 "circle1Putting": 54,
                 "circle2Putting": 9,
                 "throwIn": 0,
-                "ob": 0.144
+                "ob": 14.4
             }
         },
         {
@@ -1081,8 +1081,8 @@
                 "scramble": 16,
                 "circle1Putting": 60,
                 "circle2Putting": 6,
-                "throwIn": 0.003,
-                "ob": 0.204
+                "throwIn": 0.3,
+                "ob": 20.4
             }
         },
         {
@@ -1106,7 +1106,7 @@
                 "circle1Putting": 63,
                 "circle2Putting": 8,
                 "throwIn": 0,
-                "ob": 0.12
+                "ob": 12.0
             }
         },
         {
@@ -1129,8 +1129,8 @@
                 "scramble": 38,
                 "circle1Putting": 73,
                 "circle2Putting": 5,
-                "throwIn": 0.006,
-                "ob": 0.1
+                "throwIn": 0.6,
+                "ob": 10.0
             }
         },
         {
@@ -1154,7 +1154,7 @@
                 "circle1Putting": 27,
                 "circle2Putting": 2,
                 "throwIn": 0,
-                "ob": 0.096
+                "ob": 9.6
             }
         },
         {
@@ -1177,8 +1177,8 @@
                 "scramble": 6,
                 "circle1Putting": 59,
                 "circle2Putting": 10,
-                "throwIn": 0.005,
-                "ob": 0.153
+                "throwIn": 0.5,
+                "ob": 15.3
             }
         },
         {
@@ -1202,7 +1202,7 @@
                 "circle1Putting": 63,
                 "circle2Putting": 19,
                 "throwIn": 0,
-                "ob": 0.167
+                "ob": 16.7
             }
         },
         {
@@ -1225,8 +1225,8 @@
                 "scramble": 45,
                 "circle1Putting": 75,
                 "circle2Putting": 10,
-                "throwIn": 0.008,
-                "ob": 0.079
+                "throwIn": 0.8,
+                "ob": 7.9
             }
         },
         {
@@ -1250,7 +1250,7 @@
                 "circle1Putting": 62,
                 "circle2Putting": 10,
                 "throwIn": 0,
-                "ob": 0.097
+                "ob": 9.7
             }
         },
         {
@@ -1273,8 +1273,8 @@
                 "scramble": 40,
                 "circle1Putting": 56,
                 "circle2Putting": 5,
-                "throwIn": 0.006,
-                "ob": 0.093
+                "throwIn": 0.6,
+                "ob": 9.3
             }
         },
         {
@@ -1298,7 +1298,7 @@
                 "circle1Putting": 45,
                 "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 0.074
+                "ob": 7.4
             }
         },
         {
@@ -1322,7 +1322,7 @@
                 "circle1Putting": 67,
                 "circle2Putting": 18,
                 "throwIn": 0,
-                "ob": 0.111
+                "ob": 11.1
             }
         },
         {
@@ -1346,7 +1346,7 @@
                 "circle1Putting": 51,
                 "circle2Putting": 3,
                 "throwIn": 0,
-                "ob": 0.175
+                "ob": 17.5
             }
         },
         {
@@ -1370,7 +1370,7 @@
                 "circle1Putting": 49,
                 "circle2Putting": 8,
                 "throwIn": 0,
-                "ob": 0.235
+                "ob": 23.5
             }
         },
         {
@@ -1394,7 +1394,7 @@
                 "circle1Putting": 64,
                 "circle2Putting": 5,
                 "throwIn": 0,
-                "ob": 0.105
+                "ob": 10.5
             }
         },
         {
@@ -1418,7 +1418,7 @@
                 "circle1Putting": 62,
                 "circle2Putting": 5,
                 "throwIn": 0,
-                "ob": 0.144
+                "ob": 14.4
             }
         },
         {
@@ -1442,7 +1442,7 @@
                 "circle1Putting": 55,
                 "circle2Putting": 4,
                 "throwIn": 0,
-                "ob": 0.139
+                "ob": 13.9
             }
         },
         {
@@ -1466,7 +1466,7 @@
                 "circle1Putting": 48,
                 "circle2Putting": 4,
                 "throwIn": 0,
-                "ob": 0.228
+                "ob": 22.8
             }
         },
         {
@@ -1489,8 +1489,8 @@
                 "scramble": 28,
                 "circle1Putting": 61,
                 "circle2Putting": 6,
-                "throwIn": 0.006,
-                "ob": 0.111
+                "throwIn": 0.6,
+                "ob": 11.1
             }
         },
         {
@@ -1513,8 +1513,8 @@
                 "scramble": 31,
                 "circle1Putting": 40,
                 "circle2Putting": 2,
-                "throwIn": 0.006,
-                "ob": 0.111
+                "throwIn": 0.6,
+                "ob": 11.1
             }
         },
         {
@@ -1537,8 +1537,8 @@
                 "scramble": 17,
                 "circle1Putting": 25,
                 "circle2Putting": 0,
-                "throwIn": 0.008,
-                "ob": 0.238
+                "throwIn": 0.8,
+                "ob": 23.8
             }
         },
         {
@@ -1562,7 +1562,7 @@
                 "circle1Putting": 60,
                 "circle2Putting": 0,
                 "throwIn": 0,
-                "ob": 0.12
+                "ob": 12.0
             }
         },
         {
@@ -1586,7 +1586,7 @@
                 "circle1Putting": 52,
                 "circle2Putting": 14,
                 "throwIn": 0,
-                "ob": 0.194
+                "ob": 19.4
             }
         },
         {
@@ -1610,7 +1610,7 @@
                 "circle1Putting": 47,
                 "circle2Putting": 11,
                 "throwIn": 0,
-                "ob": 0.102
+                "ob": 10.2
             }
         },
         {
@@ -1634,7 +1634,7 @@
                 "circle1Putting": 76,
                 "circle2Putting": 8,
                 "throwIn": 0,
-                "ob": 0.102
+                "ob": 10.2
             }
         },
         {
@@ -1658,7 +1658,7 @@
                 "circle1Putting": 58,
                 "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 0.087
+                "ob": 8.7
             }
         },
         {
@@ -1682,7 +1682,7 @@
                 "circle1Putting": 50,
                 "circle2Putting": 3,
                 "throwIn": 0,
-                "ob": 0.093
+                "ob": 9.3
             }
         },
         {
@@ -1706,7 +1706,7 @@
                 "circle1Putting": 44,
                 "circle2Putting": 3,
                 "throwIn": 0,
-                "ob": 0.064
+                "ob": 6.4
             }
         },
         {
@@ -1730,7 +1730,7 @@
                 "circle1Putting": 48,
                 "circle2Putting": 9,
                 "throwIn": 0,
-                "ob": 0.13
+                "ob": 13.0
             }
         },
         {
@@ -1754,7 +1754,7 @@
                 "circle1Putting": 64,
                 "circle2Putting": 3,
                 "throwIn": 0,
-                "ob": 0.296
+                "ob": 29.6
             }
         },
         {
@@ -1778,7 +1778,7 @@
                 "circle1Putting": 49,
                 "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 0.148
+                "ob": 14.8
             }
         },
         {
@@ -1802,7 +1802,7 @@
                 "circle1Putting": 55,
                 "circle2Putting": 0,
                 "throwIn": 0,
-                "ob": 0.083
+                "ob": 8.3
             }
         },
         {
@@ -1825,8 +1825,8 @@
                 "scramble": 16,
                 "circle1Putting": 61,
                 "circle2Putting": 6,
-                "throwIn": 0.009,
-                "ob": 0.157
+                "throwIn": 0.9,
+                "ob": 15.7
             }
         },
         {
@@ -1850,7 +1850,7 @@
                 "circle1Putting": 33,
                 "circle2Putting": 0,
                 "throwIn": 0,
-                "ob": 0.12
+                "ob": 12.0
             }
         },
         {
@@ -1873,8 +1873,8 @@
                 "scramble": 24,
                 "circle1Putting": 52,
                 "circle2Putting": 5,
-                "throwIn": 0.009,
-                "ob": 0.13
+                "throwIn": 0.9,
+                "ob": 13.0
             }
         },
         {
@@ -1897,8 +1897,8 @@
                 "scramble": 8,
                 "circle1Putting": 36,
                 "circle2Putting": 0,
-                "throwIn": 0.01,
-                "ob": 0.19
+                "throwIn": 1.0,
+                "ob": 19.0
             }
         },
         {
@@ -1922,7 +1922,7 @@
                 "circle1Putting": 71,
                 "circle2Putting": 6,
                 "throwIn": 0,
-                "ob": 0.213
+                "ob": 21.3
             }
         },
         {
@@ -1946,7 +1946,7 @@
                 "circle1Putting": 39,
                 "circle2Putting": 13,
                 "throwIn": 0,
-                "ob": 0.259
+                "ob": 25.9
             }
         }
     ]

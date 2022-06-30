@@ -3,7 +3,8 @@ import DisplayAllPlayerData from '../components/DisplayAllPlayerData';
 import MaleFemalePickerComponent from '../components/MaleFemalePickerComponent';
 import PlayerPickerComponent from '../components/PlayerPickerComponent';
 import YearPickerComponent from '../components/YearPickerComponent';
-import BarStatComponent from '../components/BarStatComponent'
+import BarStatComponent from '../components/BarStatComponent';
+import NumberStatComponent from '../components/NumberStatComponent';
 
 import styles from '../style/HomePageStyle.module.css'
 
@@ -109,6 +110,7 @@ const Home = () => {
             <YearPickerComponent handleYearSelect={handleYearSelect}/>
             <MaleFemalePickerComponent mpo_fpo={tourMaleFemale} handleMpoFpoSelect={handleMpoFpoSelect}/>
             <BarStatComponent statName={'C1 Putting '} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
+            <NumberStatComponent statName={'OB'} stat={'ob'} playerData={playerData} averageData={tourData.averagePlayer} goodDiff={'-'}/>
             <DisplayAllPlayerData playerData={playerData}/>
         </div>
     );

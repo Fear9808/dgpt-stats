@@ -1,10 +1,11 @@
 import React, {useEffect, useState} from 'react';
-import styles from '../style/BarStatComponentStyle.module.css'
+import styles from '../style/StatComponentStyle.module.css'
 import ScaleComponent from './ScaleComponent';
+import BarStatBar from './BarStatBar';
 
 import utils from '../utils.js'
 
-const PlayerPickerComponent = props => {
+const BarStatComponent = props => {
     const [playerName, setPlayerName] = useState('Name');
     const averageName = 'Average';
     const [playerData, setPlayerData] = useState(0);
@@ -14,7 +15,7 @@ const PlayerPickerComponent = props => {
         if(props.playerData.stats){
             setPlayerData(props.playerData.stats[props.stat]);
             setAverageData(props.averageData.stats[props.stat]);
-            setPlayerName(props.playerData.playerName);
+            setPlayerName(props.playerData.playerName.split(' ')[0]);
             //setAverageData(props.averageData);
         }
     },[props]);
@@ -45,14 +46,10 @@ const PlayerPickerComponent = props => {
                                 
                             </div>
                             <div className={styles.flex100}>
-                                <div style={{height: playerData+'%', width: '100%', backgroundColor: '#eb7134', display: 'inline-block', alignSelf: 'flex-end', zIndex: '0'}}>
-                                    <p className={styles.statText}>{playerData}</p>
-                                </div>
+                                <BarStatBar dataValue={playerData? playerData : 0} barColor={'#eb7134'}/>
                             </div>
                             <div className={styles.flex100}>
-                                <div style={{height: averageData+'%', width: '100%', backgroundColor: '#ebb134', display: 'inline-block', alignSelf: 'flex-end', zIndex: '0'}}>
-                                    <p className={styles.statText}>{averageData}</p>
-                                </div>
+                                <BarStatBar dataValue={averageData? averageData : 0} barColor={'#ebb134'}/>
                             </div>
                             <div className={styles.flex100}></div>
                         </div>
@@ -74,4 +71,4 @@ const PlayerPickerComponent = props => {
     );
 };
 
-export default PlayerPickerComponent;
+export default BarStatComponent;
