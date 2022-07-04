@@ -7,6 +7,7 @@ import BarStatComponent from '../components/BarStatComponent';
 import NumberStatComponent from '../components/NumberStatComponent';
 
 import styles from '../style/HomePageStyle.module.css'
+import StrokesComponent from '../components/StrokesComponent';
 
 const Home = () => {
     const [tourData, setData] = useState({});
@@ -109,6 +110,7 @@ const Home = () => {
             <PlayerPickerComponent data={players} player={player} handlePlayerSelect={handlePlayerSelect}/>
             <YearPickerComponent handleYearSelect={handleYearSelect}/>
             <MaleFemalePickerComponent mpo_fpo={tourMaleFemale} handleMpoFpoSelect={handleMpoFpoSelect}/>
+            <StrokesComponent statName={'C1 Putting '} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
             <BarStatComponent statName={'C1 Putting '} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
             <NumberStatComponent statName={'OB'} stat={'ob'} playerData={playerData} averageData={tourData.averagePlayer} goodDiff={'-'}/>
             <DisplayAllPlayerData playerData={playerData}/>

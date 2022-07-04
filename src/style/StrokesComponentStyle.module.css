@@ -1,0 +1,135 @@
+.componentSize{
+    display: block;
+    width: 30em;
+    height: 15em;
+}
+
+.background {
+    display: block;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.contentBox {
+    display: grid;
+    grid-template-rows: 20% 60% 20%;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    
+}
+
+.contentBoxNumbers {
+    display: grid;
+    grid-template-rows: 20% 55% 25%;
+    height: 100%;
+    
+}
+
+.threeColumns{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    column-gap: 0%;
+    position: relative;
+    margin-left: 10%;
+    bottom: 0;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.twoColumns{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    column-gap: 3%;
+    position: relative;
+    margin-top: 2.5%;
+    bottom: 0;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.twoRows{
+    display: grid;
+    grid-template-rows: 0% 50% 50%;
+    position: relative;
+    margin-top: 5%;
+    text-align: center;
+    width: 100%;
+    height: 90%;
+}
+
+.gridTwoColumns{
+    display: grid;
+    grid-template-columns: 15% 80%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+}
+
+.flex100{
+    display: flex;
+    height: 100%;
+}
+.blockMid100{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.block100{
+    display: grid;
+    /* grid-template-rows: 0% 16.66% 16.66% 16.66% 16.66% 16.66% 16.66% 0%; */
+    grid-template-rows: 0% 20% 20% 20% 20% 20% 20% 0%;
+}
+
+.block100Vertical{
+    display: grid;
+    /* grid-template-rows: 0% 16.66% 16.66% 16.66% 16.66% 16.66% 16.66% 0%; */
+    grid-template-columns: 0% 20% 20% 20% 20% 20% 20% 0%;
+    margin-left: -10%;
+    width: 100%;
+    height: 100%;
+}
+
+.gridRows{
+    display: grid;
+    grid-template-rows: 50% 50%;
+    margin-top: 32.5%;
+    grid-row-gap: 0%;
+}
+
+.barsPlacement{
+    display: grid;
+    grid-template-rows: 45% 45%;
+    margin-top: 0%;
+}
+
+.statText{
+    font-size: larger;
+    color: black;
+}
+
+.playerName{
+    font-size:large;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.scaleText{
+    font-size: small;
+    color: white;
+    margin: auto;
+    margin-top: -20%;
+}
+
+h2{
+    color: beige;
+}

@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import styles from '../style/StatComponentStyle.module.css'
+import * as Default from '../style/DefaultValues';
 //import ScaleComponent from './ScaleComponent';
 import BarStatBar from './BarStatBar';
 
@@ -45,15 +46,15 @@ const NumberStatComponent = props => {
                         <h2>{props.statName}</h2>
                     </div>
                     <div className={styles.numberStatThreeRows}>
-                        <p style={{fontSize: '350%', color: '#eb7134', fontWeight: 'bolder', margin: 'auto'}}>{playerData+'%'}</p>
+                        <p style={{fontSize: '350%', color: Default.PLAYER_COLOR, fontWeight: 'bolder', margin: 'auto'}}>{playerData+'%'}</p>
                         <p style={{color: goodDiff? diffColor() : 'green', fontSize: '100%', fontWeight: 'normal', margin: 'auto'}}>
                             {playerDataDiff >= 0? '(+ ' + Math.abs(playerDataDiff) + ')': '(- ' + Math.abs(playerDataDiff) + ')'}
                         </p>
-                        <p className={styles.playerName}>{playerName}</p>
+                        <p className={styles.playerName} style={{color: Default.PLAYER_COLOR}}>{playerName}</p>
                     </div>
                     <div className={styles.numberStatTwoRows}>
-                        <p style={{fontSize: '200%', color: '#ebb134', fontWeight: 'bolder', margin: 'auto'}}>{averageData+'%'}</p>
-                        <p className={styles.playerName}>{averageName}</p>
+                        <p style={{fontSize: '200%', color: Default.AVERAGE_COLOR, fontWeight: 'bolder', margin: 'auto'}}>{averageData+'%'}</p>
+                        <p className={styles.playerName} style={{color: Default.AVERAGE_COLOR}}>{averageName}</p>
                         
                     </div>
                 </div>

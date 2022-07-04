@@ -1,9 +1,11 @@
 import React, {useEffect, useState} from 'react';
 import styles from '../style/StatComponentStyle.module.css'
+import * as Default from '../style/DefaultValues';
 import ScaleComponent from './ScaleComponent';
 import BarStatBar from './BarStatBar';
 
 import utils from '../utils.js'
+import NameColorComponent from './NameColorComponent';
 
 const BarStatComponent = props => {
     const [playerName, setPlayerName] = useState('Name');
@@ -46,21 +48,19 @@ const BarStatComponent = props => {
                                 
                             </div>
                             <div className={styles.flex100}>
-                                <BarStatBar dataValue={playerData? playerData : 0} barColor={'#eb7134'}/>
+                                <BarStatBar dataValue={playerData? playerData : 0} barColor={Default.PLAYER_COLOR}/>
                             </div>
                             <div className={styles.flex100}>
-                                <BarStatBar dataValue={averageData? averageData : 0} barColor={'#ebb134'}/>
+                                <BarStatBar dataValue={averageData? averageData : 0} barColor={Default.AVERAGE_COLOR}/>
                             </div>
                             <div className={styles.flex100}></div>
                         </div>
                         
                     </div>
                     <div>
-                        <div className={styles.fourColumns}>
-                            <div></div>
-                            <p className={styles.playerName}>{playerName}</p>
-                            <p className={styles.playerName}>{averageName}</p>
-                            <div></div>
+                        <div className={styles.twoColumns}>
+                            <NameColorComponent text={playerName} boxColor={Default.PLAYER_COLOR}/>
+                            <NameColorComponent text={averageName} boxColor={Default.AVERAGE_COLOR}/>
                         </div>
                     </div>
                 </div>

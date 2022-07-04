@@ -13,3 +13,18 @@
     margin-left: 15%;
     margin-top: -4%;
 }
+
+.scaleText{
+    font-size: small;
+    color: white;
+    margin: auto;
+    margin-top: -20%;
+}
+
+.verticalLine{
+    position: absolute;
+    border-left: 1px solid white;
+    height: 98%;
+    margin-left: 10%;
+    margin-top: .5%;
+}

@@ -1,4 +1,7 @@
 .statText{
     font-size: larger;
     color: black;
+    text-align:center;
+    margin:auto;
+    padding-top: 0.5em;
 }
