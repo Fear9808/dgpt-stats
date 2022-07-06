@@ -12,3 +12,4 @@ export const DOUBLE_BOGEY_COLOR = '#f54f4c';
 export const TRIPLE_BOGEY_COLOR = '#b02020';
 
 export const DEFAULT_TEXT_COLOR = 'white';
+export const DEFAULT_CARD_NAME_COLOR = '#fce7bd';

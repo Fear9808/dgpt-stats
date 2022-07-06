@@ -10,7 +10,7 @@ const NameColorComponent = props => {
     const content = {  width: '100%', height: '100%',
                         display: 'flex', margin: 'auto', textAlign: 'center'};
 
-    const boxStyle = { display: 'inline-block', width: '1em', height: '1em',
+    const boxStyle = { display: 'inline-block', minWidth: '1em', minHeight: '1em',
      backgroundColor: boxColor, margin: 'auto', textAlign: 'center', marginRight: '5%'};
 
     const textStyle = { display: 'inline-block', fontSize: 'large',

@@ -12,13 +12,17 @@ const BarStatComponent = props => {
     const averageName = 'Average';
     const [playerData, setPlayerData] = useState(0);
     const [averageData, setAverageData] = useState(0);
+    const [nameColor, setNameColor] = useState(Default.DEFAULT_CARD_NAME_COLOR);
 
     useEffect(() => {
         if(props.playerData.stats){
-            setPlayerData(props.playerData.stats[props.stat]);
-            setAverageData(props.averageData.stats[props.stat]);
+            setPlayerData(props.score? props.playerData.score[props.stat] : props.playerData.stats[props.stat]);
+            setAverageData(props.score? props.averageData.score[props.stat] : props.averageData.stats[props.stat]);
             setPlayerName(props.playerData.playerName.split(' ')[0]);
             //setAverageData(props.averageData);
+        }
+        if(props.nameColor){
+            setNameColor(props.nameColor);
         }
     },[props]);
 
@@ -37,7 +41,7 @@ const BarStatComponent = props => {
             <div className={styles.background}>
                 <div className={styles.contentBox}>
                     <div>
-                        <h2>{props.statName}</h2>
+                        <h2 style={{color: nameColor}}>{props.statName}</h2>
                     </div>
                     <div>
                         <div className={styles.fourColumns}>

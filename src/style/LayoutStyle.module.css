@@ -1,0 +1,135 @@
+:root{
+    --main-bg-color: rgb(50, 50, 50);
+    --main-content-bg-color: rgb(39, 39, 39);
+
+    --default-column-gap: 1%;
+    --default-row-gap: 1%;
+    --default-margin: 1%;
+    --default-padding: 1%;
+
+    --content-margin: 2.5%;
+
+    --dev-grid-bg-color: white;
+}
+
+.background{
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--main-bg-color);
+}
+
+.homePageContent{
+    display: block;
+    margin: var(--content-margin) var(--content-margin) var(--content-margin) var(--content-margin);
+    width: 95%;
+    padding-top: var(--default-padding);
+    height: 95%;
+    background: var(--main-content-bg-color);
+}
+
+.homePageGridRows{
+    display: grid;
+    grid-template-rows: 19% 29% 48%;
+    row-gap: var(--default-row-gap);
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.homePageGridColumnHeader{
+    display: grid;
+    grid-template-columns: 59% 38%;
+    column-gap: var(--default-column-gap);
+    justify-content: center;
+    align-items: center;
+}
+
+.homePageGridColumnStrokes{
+    display: grid;
+    grid-template-columns: 38% 19% 19% 19%;
+    column-gap: var(--default-column-gap);
+    justify-content: center;
+    align-items: center;
+}
+
+.homePageGridColumnStats{
+    display: grid;
+    grid-template-columns: 38% 59%;
+    column-gap: var(--default-column-gap);
+    justify-content: center;
+    align-items: center;
+}
+
+.pictureGrid{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: var(--dev-grid-bg-color);
+}
+
+.nameGrid{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: var(--dev-grid-bg-color);
+}
+
+.infoGrid{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: var(--dev-grid-bg-color);
+}
+
+.strokesBox{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: var(--dev-grid-bg-color);
+}
+
+.strokeStatBox{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: var(--dev-grid-bg-color);
+}
+
+.playerMapBox{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: var(--dev-grid-bg-color);
+}
+
+.statsBox{
+    display: grid;
+    grid-template-rows: 49.5% 49.5%;
+    row-gap: var(--default-row-gap);
+    justify-items: center;
+    height: 100%;
+    width: 100%;
+    background: var(--dev-grid-bg-color);
+}
+
+.statsBoxRow{
+    display: grid;
+    grid-template-columns: 32.75% 32.5% 32.75% ;
+    column-gap: var(--default-column-gap);
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background: var(--dev-grid-bg-color);
+}
