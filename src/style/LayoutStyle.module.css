@@ -1,7 +1,11 @@
 :root{
     --main-bg-color: rgb(50, 50, 50);
     --main-content-bg-color: rgb(39, 39, 39);
+    --main-section-bg-color: rgb(115, 115, 115);
+    --main-section-border-color: rgb(77, 75, 75);
 
+    --default-content-column-width: 100%;
+    --default-content-column-height: 94%;
     --default-column-gap: 1%;
     --default-row-gap: 1%;
     --default-margin: 1%;
@@ -9,11 +13,16 @@
 
     --content-margin: 2.5%;
 
-    --dev-grid-bg-color: white;
+    --dev-grid-bg-color: none;
 }
 
 .background{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     position: fixed;
+    height: auto;
     padding: 0;
     margin: 0;
     top: 0;
@@ -24,45 +33,90 @@
 }
 
 .homePageContent{
-    display: block;
-    margin: var(--content-margin) var(--content-margin) var(--content-margin) var(--content-margin);
+    display: flex;
+    flex-direction: column;
+    margin: 20px var(--content-margin) 0 var(--content-margin);
     width: 95%;
-    padding-top: var(--default-padding);
+    max-width: 1720px;
+    min-width: 280px;
+    overflow:auto;
+    padding: var(--default-padding);
     height: 95%;
     background: var(--main-content-bg-color);
 }
 
 .homePageGridRows{
     display: grid;
-    grid-template-rows: 19% 29% 48%;
+    grid-template-rows: 15% 27% 54%;
     row-gap: var(--default-row-gap);
     height: 100%;
     width: 100%;
     margin: auto;
 }
 
-.homePageGridColumnHeader{
-    display: grid;
-    grid-template-columns: 59% 38%;
-    column-gap: var(--default-column-gap);
+.sectionBackground{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background: var(--main-section-bg-color);
+    border: 0 outset;
+    box-sizing: border-box;
+    box-shadow: inset 0 0 0 0.3rem var(--main-section-border-color);
     justify-content: center;
     align-items: center;
+}
+
+.sectionBackgroundRadar{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background: var(--main-section-bg-color);
+    border: 0 outset;
+    box-sizing: border-box;
+    box-shadow: inset 0 0 0 0.3rem var(--main-section-border-color);
+    justify-content: center;
+    align-items: center;
+}
+
+.statPickers{
+    display: block;
+    text-align: end;
+}
+
+.homePageGridRowHeader{
+    display: grid;
+    grid-template-rows: 59.5% 36.5%;
+    row-gap: var(--default-column-gap);
+}
+
+.headerDisplay{
+    display: flex;
 }
 
 .homePageGridColumnStrokes{
     display: grid;
-    grid-template-columns: 38% 19% 19% 19%;
+    grid-template-columns: 38% 14% 14% 14% 14%;
     column-gap: var(--default-column-gap);
+    width: var(--default-content-column-width);
+    height: var(--default-content-column-height);
     justify-content: center;
-    align-items: center;
 }
 
 .homePageGridColumnStats{
     display: grid;
-    grid-template-columns: 38% 59%;
+    grid-template-columns: 39.5% 59.5%;
     column-gap: var(--default-column-gap);
+    width: var(--default-content-column-width);
+    height: 100%;
+    margin: auto;
     justify-content: center;
     align-items: center;
+}
+
+.header{
+    font-size: 300%;
+    margin: 0;
+    width: 100%;
 }
 
 .pictureGrid{
@@ -74,18 +128,26 @@
 }
 
 .nameGrid{
-    display: block;
+    display: flex;
     height: 100%;
-    width: 100%;
-    margin: auto;
+    width: 50%;
+    text-align: start;
     background: var(--dev-grid-bg-color);
+}
+
+.positionDisplay{
+    font-size: 250%;
+    margin: auto;
+    margin-left: 3%;
+    margin-right: 0;
+    text-align: start;
 }
 
 .infoGrid{
     display: block;
-    height: 100%;
-    width: 100%;
-    margin: auto;
+    margin-right: 0;
+    margin-left: auto;
+    width: 80%;
     background: var(--dev-grid-bg-color);
 }
 
@@ -107,8 +169,8 @@
 
 .playerMapBox{
     display: block;
-    height: 100%;
-    width: 100%;
+    width: 96%;
+    height: var(--default-content-column-height);
     margin: auto;
     background: var(--dev-grid-bg-color);
 }
@@ -117,9 +179,8 @@
     display: grid;
     grid-template-rows: 49.5% 49.5%;
     row-gap: var(--default-row-gap);
-    justify-items: center;
-    height: 100%;
-    width: 100%;
+    width: 96%;
+    height: var(--default-content-column-height);
     background: var(--dev-grid-bg-color);
 }
 
@@ -132,4 +193,237 @@
     height: 100%;
     width: 100%;
     background: var(--dev-grid-bg-color);
+}
+
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(252, 239, 239)
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(252, 239, 239);
+    text-shadow: 0.2rem 0.2rem 0.2rem #000000;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(252, 239, 239);
+    text-shadow: 0.1rem 0.1rem 0.1rem #000000;
+}
+
+footer{
+    display: flex;
+    max-width: 1720px;
+    margin-top: 0;
+    gap: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(252, 239, 239)
+}
+
+@media only screen and (max-width: 1240px) {
+
+    h2{
+        font-size: large;
+    }
+}
+
+@media only screen and (max-width: 1000px), screen and (max-height: 1100px) {
+    .homePageContent{
+        display: flex;
+        margin-top: 10px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    .homePageGridRows{
+        display: inline;
+        margin: auto;
+    }
+
+    .sectionBackground{
+        display: flex;
+        height:860px;
+    }
+    .sectionBackgroundRadar{
+        display: flex;
+        height: auto;
+    }
+
+    .homePageGridRowHeader{
+        display: grid;
+        min-height: 200px;
+        justify-content: center;
+        align-items: center;
+        grid-template-rows: 59.5% 36.5%;
+        row-gap: var(--default-column-gap);
+    }
+
+    .headerDisplay{
+        display: inline-block;
+        margin: auto;
+    }
+    
+    .homePageGridColumnStrokes{
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        width: 96%;
+        height: 98%;
+    }
+
+    .homePageGridColumnStats{
+        display: inline-block;
+        width: var(--default-content-column-width);
+        height: 100%;
+        margin: auto;
+    }
+
+    .pictureGrid{
+        display: block;
+        height: 100%;
+        width: 100%;
+        margin: auto;
+        background: var(--dev-grid-bg-color);
+    }
+    
+    .nameGrid{
+        width: 400px;
+        margin: auto;
+        margin-left: 80px;
+    }
+
+    .positionDisplay{
+        width: 20%;
+        margin-left: 2%;
+    }
+
+    .statPickers{
+        display: block;
+        text-align: start;
+    }
+    
+    .infoGrid{
+        display: inline-block;
+        width: 100%;
+        margin: auto;
+        background: var(--dev-grid-bg-color);
+    }
+    
+    .strokesBox{
+        display: inline-block;
+        max-width: 98%;
+        height: 300px;
+        padding: var(--default-padding);
+        margin: auto;
+        background: var(--dev-grid-bg-color);
+    }
+    
+    .strokeStatBox{
+        display: inline-block;
+        max-width: 48%;
+        height: 250px;
+        min-height: 200px;
+        padding: var(--default-padding);
+        margin: auto;
+        background: var(--dev-grid-bg-color);
+    }
+    
+    .playerMapBox{
+        display: inline;
+        padding: 3%;
+        margin: auto;
+        background: var(--dev-grid-bg-color);
+    }
+    
+    .statsBox{
+        display: inline;
+        justify-items: center;
+        width: 96%;
+        height: var(--default-content-column-height);
+        background: var(--dev-grid-bg-color);
+    }
+    
+    .statsBoxRow{
+        display: inline;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        background: var(--dev-grid-bg-color);
+    }
+
+    p{
+        font-size:medium;
+    }
+    
+    h1{
+        font-size:medium;
+    }
+    
+    h2{
+        font-size:larger;
+    }
+
+    footer{
+        margin-top: 0%;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+
+    .positionDisplay{
+        display: none;
+    }
+
+    footer{
+        flex-direction: column;
+        gap: 5px;
+
+        
+    }
+
+    footer p{
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+
+    .nameGrid{
+        width: 100%;
+        margin: auto;
+    }
+
+    p{
+        font-size:small;
+    }
+    
+    h1{
+        font-size:medium;
+    }
+    
+    h2{
+        font-size:large;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .header{
+        font-size: 250%;
+    }
+
+    .homePageGridRowHeader{
+        display: grid;
+        min-height: 200px;
+        grid-template-rows: 60% 30%;
+        row-gap: var(--default-column-gap);
+    }
+}
+
+@media only screen and (max-width: 327px) {
+
+    .homePageGridRowHeader{
+        min-height: 240px;
+        grid-template-rows: 70% 20%;
+    }
 }

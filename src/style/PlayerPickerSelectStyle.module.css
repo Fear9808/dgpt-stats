@@ -1,0 +1,94 @@
+:root {
+    --radius: 2px;
+    
+    --accentFg: whitesmoke;
+    --baseBg: rgb(39, 39, 39);
+    --accentBg: rgb(115, 115, 115);
+    --baseFg: whitesmoke;
+
+    --fontWeight:bolder;
+    --fontSize: 100%;
+    --fontFamily: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    --iconWidth: 30%;
+    --iconHeight: 70%;
+
+    --line-height: 1;
+    --text-shadow: none;
+
+  }
+  
+  .themePink {
+    --radius: 0;
+    --baseFg: #c70062;
+    --baseBg: #ffe3f1;
+    --accentFg: #c70062;
+    --accentBg: #ffaad4;
+  }
+  
+  .theme-construction {
+    --radius: 0;
+    --baseFg: white;
+    --baseBg: black;
+    --accentFg: black;
+    --accentBg: orange;
+  }
+
+  .themePlayerPicker {
+    --radius: 0.1rem;
+    --baseFg: rgb(235, 113, 52);
+    --baseBg: rgb(39, 39, 39);
+    --accentFg: rgb(235, 113, 52);
+    --accentBg: rgb(26, 26, 26);
+    --fontSize: 180%;
+    --iconWidth: 10%;
+    --iconHeight: 60%;
+    --line-height: 1.5;
+    --text-shadow: 0.1rem 0.1rem 0.1rem #000000;
+  }
+  
+  select {
+    width: 100%;
+    height: 100%;
+    font-weight:var(--fontWeight);
+    font-size: var(--fontSize);
+    font-family: var(--fontFamily);
+    text-shadow: var(--text-shadow);
+    -webkit-appearance: none;
+    appearance: none;
+    color: var(--baseFg);
+    border: 1px solid var(--baseFg);
+    line-height: var(--line-height);
+    outline: 0;
+    padding: 0.2em 2em 0.2em 0.2em;
+    border-radius: var(--radius);
+    background-color: var(--baseBg);
+    background-image: linear-gradient(var(--baseFg), var(--baseFg)),
+      linear-gradient(-135deg, transparent 50%, var(--accentBg) 50%),
+      linear-gradient(-225deg, transparent 50%, var(--accentBg) 50%),
+      linear-gradient(var(--accentBg) 42%, var(--accentFg) 42%);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: 0.1rem 100%, var(--iconWidth) var(--iconHeight), var(--iconWidth) var(--iconHeight), var(--iconWidth) 100%;
+    background-position: right var(--iconWidth) center, right bottom, right bottom, right bottom;   
+  }
+  
+  select:hover {
+    background-image: linear-gradient(var(--accentFg), var(--accentFg)),
+      linear-gradient(-135deg, transparent 50%, var(--accentFg) 50%),
+      linear-gradient(-225deg, transparent 50%, var(--accentFg) 50%),
+      linear-gradient(var(--accentFg) 42%, var(--accentBg) 42%);
+  }
+  
+  select:active {
+    background-image: linear-gradient(var(--accentFg), var(--accentFg)),
+      linear-gradient(-135deg, transparent 50%, var(--accentFg) 50%),
+      linear-gradient(-225deg, transparent 50%, var(--accentFg) 50%),
+      linear-gradient(var(--accentFg) 42%, var(--accentBg) 42%);
+    border-color: var(--accentFg);
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .themePlayerPicker {
+      --fontSize: 150%;
+    }
+  }

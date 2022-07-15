@@ -5,10 +5,11 @@ import PlayerPickerComponent from '../components/PlayerPickerComponent';
 import YearPickerComponent from '../components/YearPickerComponent';
 import BarStatComponent from '../components/BarStatComponent';
 import NumberStatComponent from '../components/NumberStatComponent';
+import RadarChartComponent from '../components/RadarChartComponent';
 
-import styles from '../style/HomePageStyle.module.css'
+import styles from '../style/HomePageStyle.module.css';
 import * as Default from '../style/DefaultValues';
-import layoutStyle from '../style/LayoutStyle.module.css'
+import layoutStyle from '../style/LayoutStyle.module.css';
 import StrokesComponent from '../components/StrokesComponent';
 
 const Home = () => {
@@ -101,82 +102,90 @@ const Home = () => {
         });
     }
 
-
-    const displayPlayerData = (playerData) => {
-        
-    }
-
-    {/* <div className={styles.background}>
-            <h1>Home Page</h1>
-            <PlayerPickerComponent data={players} player={player} handlePlayerSelect={handlePlayerSelect}/>
-            <YearPickerComponent handleYearSelect={handleYearSelect}/>
-            <MaleFemalePickerComponent mpo_fpo={tourMaleFemale} handleMpoFpoSelect={handleMpoFpoSelect}/>
-            <StrokesComponent statName={'C1 Putting '} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
-            <BarStatComponent statName={'C1 Putting '} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
-            <NumberStatComponent statName={'OB'} stat={'ob'} playerData={playerData} averageData={tourData.averagePlayer} goodDiff={'-'}/>
-            <DisplayAllPlayerData playerData={playerData}/>
-        </div> */}
-
     return (
         <div className={layoutStyle.background}>
             <div className={layoutStyle.homePageContent}>
                 <div className={layoutStyle.homePageGridRows}>
-                    <div className={layoutStyle.homePageGridColumnHeader}>
+                    <div className={layoutStyle.homePageGridRowHeader}>
+                        <div className={layoutStyle.headerDisplay}>
+                            <h1 className={layoutStyle.header}>{'DGPT Average'}</h1>
+                            <div className={layoutStyle.infoGrid}>
+                                <div className={layoutStyle.statPickers}>
+                                    <YearPickerComponent handleYearSelect={handleYearSelect}/>
+                                    <MaleFemalePickerComponent mpo_fpo={tourMaleFemale} handleMpoFpoSelect={handleMpoFpoSelect}/>
+                                </div>
+                            </div>
+                        </div>
                         <div className={layoutStyle.nameGrid}>
                             <PlayerPickerComponent data={players} player={player} handlePlayerSelect={handlePlayerSelect}/>
+                            <h2 className={layoutStyle.positionDisplay} style={{color: Default.PLAYER_COLOR}}>{'# ' + playerData.playerPosition}</h2>
                         </div>
-                        <div className={layoutStyle.infoGrid}>
-                            <YearPickerComponent handleYearSelect={handleYearSelect}/>
-                            <MaleFemalePickerComponent mpo_fpo={tourMaleFemale} handleMpoFpoSelect={handleMpoFpoSelect}/>
-                        </div>
+                        
                     </div>
-                    <div className={layoutStyle.homePageGridColumnStrokes}>
-                        <div className={layoutStyle.strokesBox}>
-                            <StrokesComponent playerData={playerData} averageData={tourData.averagePlayer}/>
-                        </div>
-                        <div className={layoutStyle.strokeStatBox}>
-                            <BarStatComponent statName={'Birdie'} stat={'birdie'} nameColor={Default.BIRDIE_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
-                        </div>
-                        <div className={layoutStyle.strokeStatBox}>
-                            <BarStatComponent statName={'Par'} stat={'par'} nameColor={Default.PAR_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
-                        </div>
-                        <div className={layoutStyle.strokeStatBox}>
-                            <BarStatComponent statName={'Bogey'} stat={'bogey'} nameColor={Default.BOGEY_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
+                    <div className={layoutStyle.sectionBackground}>
+                        <div className={layoutStyle.homePageGridColumnStrokes}>
+                            <div className={layoutStyle.strokesBox}>
+                                <StrokesComponent statName={'Strokes'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                            </div>
+                            <div className={layoutStyle.strokeStatBox}>
+                                <BarStatComponent statName={'Birdie'} stat={'birdie'} nameColor={Default.BIRDIE_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
+                            </div>
+                            <div className={layoutStyle.strokeStatBox}>
+                                <BarStatComponent statName={'Par'} stat={'par'} nameColor={Default.PAR_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
+                            </div>
+                            <div className={layoutStyle.strokeStatBox}>
+                                <NumberStatComponent statName={'Bogey'} stat={'bogey'} goodDiff={'-'}  nameColor={Default.BOGEY_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
+                            </div>
+                            <div className={layoutStyle.strokeStatBox}>
+                                <NumberStatComponent statName={'Double Bogey'} stat={'doubleBogey'} goodDiff={'-'}  nameColor={Default.DOUBLE_BOGEY_COLOR} score={true} playerData={playerData} averageData={tourData.averagePlayer}/>
+                            </div>
                         </div>
                     </div>
                     <div className={layoutStyle.homePageGridColumnStats}>
-                        <div className={layoutStyle.playerMapBox}>
+                        <div className={layoutStyle.sectionBackgroundRadar}>
+                            <div className={layoutStyle.playerMapBox}>
+                                <RadarChartComponent playerData={playerData? playerData : {}} averageData={tourData.averagePlayer? tourData.averagePlayer : {}}/>
+                            </div>
                         </div>
-                        <div className={layoutStyle.statsBox}>
-                            <div className={layoutStyle.statsBoxRow}>
-                                <div className={layoutStyle.strokeStatBox}>
-                                    <BarStatComponent statName={'C1 Putting'} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                        <div className={layoutStyle.sectionBackground}>
+                            <div className={layoutStyle.statsBox}>
+                                <div className={layoutStyle.statsBoxRow}>
+                                    <div className={layoutStyle.strokeStatBox}>
+                                        <BarStatComponent statName={'C1 Putting'} stat={'circle1Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                                    </div>
+                                    <div className={layoutStyle.strokeStatBox}>
+                                        <BarStatComponent statName={'C1 Reg'} stat={'circle1Reg'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                                    </div>
+                                    <div className={layoutStyle.strokeStatBox}>
+                                        <BarStatComponent statName={'C2 Putting'} stat={'circle2Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                                    </div>
                                 </div>
-                                <div className={layoutStyle.strokeStatBox}>
-                                    <BarStatComponent statName={'C2 Putting'} stat={'circle2Putting'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                                <div className={layoutStyle.statsBoxRow}>
+                                    
+                                    <div className={layoutStyle.strokeStatBox}>
+                                        <BarStatComponent statName={'C2 Reg'} stat={'circle2Reg'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                                    </div>
+                                    <div className={layoutStyle.strokeStatBox}>
+                                        <NumberStatComponent statName={'OB'} stat={'ob'} goodDiff={'-'}  playerData={playerData} averageData={tourData.averagePlayer}/>
+                                    </div>
+                                    <div className={layoutStyle.strokeStatBox}>
+                                        <NumberStatComponent statName={'Parked'} stat={'parked'} goodDiff={'+'} playerData={playerData} averageData={tourData.averagePlayer}/>
+                                    </div>
                                 </div>
-                                <div className={layoutStyle.strokeStatBox}>
-                                    <BarStatComponent statName={'Fairway Hits'} stat={'fairwayHits'} playerData={playerData} averageData={tourData.averagePlayer}/>
-                                </div>
+                                
                             </div>
-                            <div className={layoutStyle.statsBoxRow}>
-                                <div className={layoutStyle.strokeStatBox}>
-                                    <BarStatComponent statName={'C1 Reg'} stat={'circle1Reg'} playerData={playerData} averageData={tourData.averagePlayer}/>
-                                </div>
-                                <div className={layoutStyle.strokeStatBox}>
-                                    <BarStatComponent statName={'C2 Reg'} stat={'circle2Reg'} playerData={playerData} averageData={tourData.averagePlayer}/>
-                                </div>
-                                <div className={layoutStyle.strokeStatBox}>
-                                    <BarStatComponent statName={'Scramble'} stat={'scramble'} playerData={playerData} averageData={tourData.averagePlayer}/>
-                                </div>
-                            </div>
-                            
                         </div>
                     </div>
                 </div>
-
+                
+                
             </div>
+            <footer>
+                <p>Contact: felix.arnestrand@gmail.com</p>
+                <p>{'Data Updated: ' + tourData.updatedDate.split(' ')[0]}</p>
+            </footer>
         </div>
+        
     );
 
     

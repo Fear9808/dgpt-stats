@@ -38,7 +38,7 @@ const StrokesComponent = props => {
             <div className={styles.background}>
                 <div className={styles.contentBox}>
                     <div>
-                        <h2>{props.statName}</h2>
+                        <h2 style={{color: Default.DEFAULT_CARD_NAME_COLOR}}>{props.statName}</h2>
                     </div>
                     <div className={styles.gridTwoColumns}>
                         <div className={styles.gridRows}>

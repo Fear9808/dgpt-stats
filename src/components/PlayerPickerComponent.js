@@ -1,4 +1,6 @@
 import React, {useEffect, useState} from 'react';
+import styles from '../style/PlayerPickerSelectStyle.module.css';
+import * as Default from '../style/DefaultValues';
 
 import utils from '../utils.js'
 
@@ -37,8 +39,7 @@ const PlayerPickerComponent = props => {
 
     return (
         <div>
-            <h1>Player Picker</h1>
-            <select id="players" name="players" value={selectedPlayer? selectedPlayer : players[0]} onChange={e => onSelectPlayer(e.target.value)}>
+            <select className={styles.themePlayerPicker} id="players" name="players" value={selectedPlayer? selectedPlayer : players[0]} onChange={e => onSelectPlayer(e.target.value)}>
                 {playerOptions}
             </select>
             {/* {console.log(props? props: "no data loaded...")}

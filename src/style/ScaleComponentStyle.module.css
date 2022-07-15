@@ -2,7 +2,7 @@
     font-size: small;
     color: white;
     margin: auto;
-    margin-top: -20%;
+    margin-top: -0.5rem;
     margin-right: 0%;
     width: 100%;
 }
@@ -11,14 +11,7 @@
     position: absolute;
     width: 68%;
     margin-left: 15%;
-    margin-top: -4%;
-}
-
-.scaleText{
-    font-size: small;
-    color: white;
-    margin: auto;
-    margin-top: -20%;
+    margin-top: -0.5rem;
 }
 
 .verticalLine{

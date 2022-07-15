@@ -4,11 +4,8 @@ const YearPickerComponent = props => {
     //const [maleFemale, setMaleFemale] = useState('');
     const options = ['2022','2021', '2020'];
 
-    /* useEffect(() => {
-        if(props.mpo_fpo){
-            setMaleFemale(props.mpo_fpo);
-        }
-    },[]); */
+    const content = {display: 'inline-flex', textAlign: 'center', margin: 'auto', paddingLeft: '10px',
+                    alignItems: 'center',justifyContent: 'center'};
 
     let pickerOptions = options.map((option) =>{
         return (
@@ -22,8 +19,8 @@ const YearPickerComponent = props => {
     }
 
     return (
-        <div>
-            <h1>Year</h1>
+        <div style={content}>
+            <h2 style={{paddingRight: '5px', textShadow: 'none'}}>Year:</h2>
             <select id="picker" name="yearPicker" onChange={e => onSelectYear(e.target.value)}>
                 {pickerOptions}
             </select>

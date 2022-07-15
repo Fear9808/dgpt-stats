@@ -6,7 +6,10 @@
 
 .background {
     display: block;
-    background-color: black;
+    background: rgb(85,85,85);
+    background: radial-gradient(circle, rgba(85,85,85,1) 0%, rgba(41,41,41,1) 57%, rgba(0,0,0,1) 100%);
+    border-radius: 0.4rem;
+    box-shadow: .1rem .1rem .2rem black;
     width: 100%;
     height: 100%;
     text-align: center;
@@ -21,7 +24,7 @@
 
 .contentBoxNumbers {
     display: grid;
-    grid-template-rows: 20% 55% 25%;
+    grid-template-rows: 20% 50% 25%;
     height: 100%;
     
 }
@@ -31,7 +34,7 @@
     grid-template-columns: 15% 30% 30% 15%;
     column-gap: 3%;
     position: relative;
-    margin-top: 2.5%;
+    margin:auto;
     bottom: 0;
     text-align: center;
     justify-content: center;
@@ -48,6 +51,7 @@
     text-align: center;
     justify-content: center;
     height: 100%;
+    overflow: hidden;
 }
 
 .numberStatThreeRows{
@@ -60,15 +64,23 @@
 
 .numberStatTwoRows{
     display: grid;
-    grid-template-rows: 60% 40% ;
+    grid-template-rows: 55% 30% ;
     text-align: center;
     margin: auto;
     width: 100%;
 }
 
+.numberStatText{
+    font-size: 350%;
+    font-weight: bolder; 
+    margin: auto;
+}
+
 .flex100{
     display: flex;
     height: 100%;
+    margin-bottom: 0%;
+    bottom: 0%;
 }
 .blockMid100{
     display: flex;
@@ -82,7 +94,7 @@
 .block100{
     display: grid;
     /* grid-template-rows: 0% 16.66% 16.66% 16.66% 16.66% 16.66% 16.66% 0%; */
-    grid-template-rows: 0% 20% 20% 20% 20% 20% 20% 0%;
+    grid-template-rows: 0% 20% 20% 20% 20% 20% 0% 0%;
 }
 
 .statText{
@@ -106,4 +118,33 @@
 
 h2{
     color: beige;
+}
+
+@media only screen and (max-width: 1240px) {
+    .numberStatText{
+        font-size: 300%;
+    }
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .componentSize{
+        display: inline;
+        width: 100%;
+        height: 100%;
+    }
+
+    .numberStatText{
+        font-size: 350%;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    
+}
+
+@media only screen and (max-width: 330px) {
+    .numberStatText{
+        font-size: 250%;
+    }
 }

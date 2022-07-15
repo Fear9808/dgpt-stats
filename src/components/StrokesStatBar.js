@@ -8,7 +8,7 @@ const StrokesStatBar = props => {
     const [strokes, setStrokesValue] = useState({});
     const [barColor, setBarColor] = useState('white')
 
-    const barStyle = {  display: 'flex', width: '100%', height: '70%', zIndex: '0', alignSelf: 'center'};
+    const barStyle = {  display: 'flex', transition: 'width 1s', width: '100%', height: '70%', zIndex: '0', alignSelf: 'center' ,boxShadow: '.1rem .1rem .2rem black'};
 
     
 
@@ -18,7 +18,6 @@ const StrokesStatBar = props => {
             setBarColor(props.barColor);
         }
     },[props]);
-    console.log(strokes);
 
     return (
         <div style={barStyle}>

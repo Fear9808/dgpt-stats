@@ -13,14 +13,18 @@ const NumberStatComponent = props => {
     const [averageData, setAverageData] = useState(0);
     const [playerDataDiff, setPlayerDataDiff] = useState(0);
     const [goodDiff, setGoodDiff] = useState('+');
+    const [nameColor, setNameColor] = useState(Default.DEFAULT_CARD_NAME_COLOR);
 
 
     useEffect(() => {
         if(props.playerData.stats){
-            setPlayerData(Math.round(props.playerData.stats[props.stat] *100)/100);
-            setAverageData(Math.round(props.averageData.stats[props.stat] *100)/100);
+            setPlayerData(props.score? Math.round(props.playerData.score[props.stat] *100)/100 : Math.round(props.playerData.stats[props.stat] *100)/100);
+            setAverageData(props.score? Math.round(props.averageData.score[props.stat] *100)/100 : Math.round(props.averageData.stats[props.stat] *100)/100);
             setPlayerName(props.playerData.playerName.split(' ')[0]);
             setGoodDiff(props.goodDiff);
+        }
+        if(props.nameColor){
+            setNameColor(props.nameColor);
         }
     },[props]);
 
@@ -30,11 +34,11 @@ const NumberStatComponent = props => {
 
     const diffColor = () =>{
         if (playerDataDiff >= 0 && goodDiff === '+'){
-            return '#48ff05'
+            return Default.BIRDIE_COLOR
         }else if (playerDataDiff <= 0 && goodDiff === '-'){
-            return '#48ff05'
+            return Default.BIRDIE_COLOR
         }else{
-            return '#ff0000'
+            return Default.DOUBLE_BOGEY_COLOR
         }
     }
 
@@ -43,17 +47,17 @@ const NumberStatComponent = props => {
             <div className={styles.background}>
                 <div className={styles.contentBoxNumbers}>
                     <div>
-                        <h2>{props.statName}</h2>
+                        <h2 style={{color: nameColor}}>{props.statName}</h2>
                     </div>
                     <div className={styles.numberStatThreeRows}>
-                        <p style={{fontSize: '350%', color: Default.PLAYER_COLOR, fontWeight: 'bolder', margin: 'auto'}}>{playerData+'%'}</p>
+                        <p className={styles.numberStatText} style={{color: Default.PLAYER_COLOR}}>{playerData}</p>
                         <p style={{color: goodDiff? diffColor() : 'green', fontSize: '100%', fontWeight: 'normal', margin: 'auto'}}>
-                            {playerDataDiff >= 0? '(+ ' + Math.abs(playerDataDiff) + ')': '(- ' + Math.abs(playerDataDiff) + ')'}
+                            <b>{playerDataDiff >= 0? '(+ ' + Math.abs(playerDataDiff) + ')': '(- ' + Math.abs(playerDataDiff) + ')'}</b>
                         </p>
                         <p className={styles.playerName} style={{color: Default.PLAYER_COLOR}}>{playerName}</p>
                     </div>
                     <div className={styles.numberStatTwoRows}>
-                        <p style={{fontSize: '200%', color: Default.AVERAGE_COLOR, fontWeight: 'bolder', margin: 'auto'}}>{averageData+'%'}</p>
+                        <p style={{fontSize: '200%', color: Default.AVERAGE_COLOR, fontWeight: 'bolder', margin: 'auto'}}>{averageData}</p>
                         <p className={styles.playerName} style={{color: Default.AVERAGE_COLOR}}>{averageName}</p>
                         
                     </div>

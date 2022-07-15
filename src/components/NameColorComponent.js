@@ -11,9 +11,9 @@ const NameColorComponent = props => {
                         display: 'flex', margin: 'auto', textAlign: 'center'};
 
     const boxStyle = { display: 'inline-block', minWidth: '1em', minHeight: '1em',
-     backgroundColor: boxColor, margin: 'auto', textAlign: 'center', marginRight: '5%'};
+     backgroundColor: boxColor, margin: 'auto', textAlign: 'center', marginRight: '5%', boxShadow: '.1rem .1rem .2rem black'};
 
-    const textStyle = { display: 'inline-block', fontSize: 'large',
+    const textStyle = { display: 'inline-block', overflow: 'hidden',
      color: Default.DEFAULT_TEXT_COLOR, margin: 'auto', textAlign: 'center', marginLeft: '5%'};
 
     useEffect(() => {

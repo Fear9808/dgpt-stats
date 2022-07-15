@@ -4,11 +4,8 @@ const MaleFemalePickerComponent = props => {
     //const [maleFemale, setMaleFemale] = useState('');
     const options = ['MPO','FPO'];
 
-    /* useEffect(() => {
-        if(props.mpo_fpo){
-            setMaleFemale(props.mpo_fpo);
-        }
-    },[]); */
+    const content = {display: 'inline-flex', textAlign: 'center', margin: 'auto', paddingLeft: '10px',
+                    alignItems: 'center',justifyContent: 'center'};
 
     let pickerOptions = options.map((option) =>{
         return (
@@ -22,8 +19,8 @@ const MaleFemalePickerComponent = props => {
     }
 
     return (
-        <div>
-            <h1>MPO/FPO</h1>
+        <div style={content}>
+            <h2 style={{paddingRight: '5px', textShadow: 'none'}}>MPO/FPO: </h2>
             <select id="picker" name="maleFemalePicker" onChange={e => onSelectMaleFemale(e.target.value)}>
                 {pickerOptions}
             </select>

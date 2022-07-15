@@ -12,3 +12,34 @@
     text-align:center;
     margin-top:-1em;
 }
+
+@media only screen and (max-width: 1240px) {
+
+    .statText{
+        font-size: small;
+    }
+    
+    .statTextOver{
+        font-size: small;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .statText{
+        font-size: large;
+    }
+    
+    .statTextOver{
+        font-size: large;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .statText{
+        font-size: smaller;
+    }
+    
+    .statTextOver{
+        font-size: smaller;
+    }
+}
