@@ -26,7 +26,6 @@ const RadarChartComponent = props => {
 
     useEffect(() => {
         if (props.playerData.score) {
-            console.log(props);
             setPlayerData(props.playerData? props.playerData : {});
             setAverageData(props.averageData? props.averageData : {});
             setPlayerName(props.playerData.playerName.split(' ')[0]);

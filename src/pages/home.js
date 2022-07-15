@@ -23,7 +23,6 @@ const Home = () => {
     const handlePlayerSelect = (selectedPlayer) =>{
         // Passed state from PlayerPickerComponent
         if(selectedPlayer !== player){
-            console.log(selectedPlayer);
             setPlayer(selectedPlayer);
         }else if (selectedPlayer === player){
             getPlayerDataByName(player);
@@ -50,9 +49,6 @@ const Home = () => {
 
     const getPlayerDataByName = (playerName) => {
         if(players && player){
-            console.log(players);
-            console.log(player);
-            console.log(playerName);
             let found = players.find((object) =>{
                 return object.playerName === playerName;
             })
@@ -181,8 +177,8 @@ const Home = () => {
                 
             </div>
             <footer>
+                <p>{`Updated: ${tourData.updatedDate?.split(' ')[0]}`}</p>
                 <p>Contact: felix.arnestrand@gmail.com</p>
-                <p>{'Data Updated: ' + tourData.updatedDate.split(' ')[0]}</p>
             </footer>
         </div>
         
