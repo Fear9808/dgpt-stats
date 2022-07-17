@@ -3,14 +3,14 @@
     color: black;
     text-align:center;
     margin:auto;
-    padding-top: 0.5em;
 }
 
 .statTextOver{
     font-size: larger;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align:center;
     margin-top:-1em;
+    text-shadow: 0.05rem 0.05rem 0.1rem #000000;
 }
 
 @media only screen and (max-width: 1240px) {
@@ -24,7 +24,7 @@
     }
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1080px) {
     .statText{
         font-size: large;
     }

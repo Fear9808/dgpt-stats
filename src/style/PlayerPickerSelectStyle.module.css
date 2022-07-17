@@ -60,7 +60,7 @@
     border: 1px solid var(--baseFg);
     line-height: var(--line-height);
     outline: 0;
-    padding: 0.2em 2em 0.2em 0.2em;
+    padding: 0.05em 2em 0.05em 0.2em;
     border-radius: var(--radius);
     background-color: var(--baseBg);
     background-image: linear-gradient(var(--baseFg), var(--baseFg)),
@@ -87,7 +87,7 @@
     border-color: var(--accentFg);
   }
 
-  @media only screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1080px) {
     .themePlayerPicker {
       --fontSize: 150%;
     }

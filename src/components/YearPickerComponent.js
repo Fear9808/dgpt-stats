@@ -1,4 +1,3 @@
-import React, {useEffect, useState} from 'react';
 
 const YearPickerComponent = props => {
     //const [maleFemale, setMaleFemale] = useState('');
@@ -20,7 +19,7 @@ const YearPickerComponent = props => {
 
     return (
         <div style={content}>
-            <h2 style={{paddingRight: '5px', textShadow: 'none'}}>Year:</h2>
+            <h2 style={{paddingRight: '5px', textShadow: 'none', color: 'white'}}>Year:</h2>
             <select id="picker" name="yearPicker" onChange={e => onSelectYear(e.target.value)}>
                 {pickerOptions}
             </select>

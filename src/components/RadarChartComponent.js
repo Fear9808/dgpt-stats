@@ -2,7 +2,6 @@ import React, {useEffect, useState} from 'react';
 
 import styles from '../style/StatComponentStyle.module.css';
 import * as Default from '../style/DefaultValues';
-import layoutStyle from '../style/LayoutStyle.module.css';
 import {
     Chart as ChartJS,
     RadialLinearScale,
@@ -109,7 +108,7 @@ const RadarChartComponent = props => {
     return (
         <div className={styles.background}>
             
-            <div style={{display: 'block', padding: '5%',paddingBottom: '10%', maxWidth: '500px', margin: 'auto'}}>
+            <div className={styles.header} style={{display: 'block', padding: '1%', paddingBottom: '10%', maxWidth: '420px', margin: 'auto'}}>
                 <h2 style={{color: Default.DEFAULT_CARD_NAME_COLOR, marginTop:  '-5px'}}>{'Player Map'}</h2>
                 <Radar data={playerData.score? radarData : {}} options={radarOptions}/> 
             </div>

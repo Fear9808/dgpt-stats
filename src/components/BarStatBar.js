@@ -19,7 +19,7 @@ const BarStatBar = props => {
 
     return (
             <div style={barStyle}>
-                <p className={dataValue < 18? styles.statTextOver : styles.statText}>{dataValue}</p>
+                <p className={dataValue < 15? styles.statTextOver : styles.statText}>{dataValue}</p>
             </div>
     );
 };

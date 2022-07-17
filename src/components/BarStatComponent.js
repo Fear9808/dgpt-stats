@@ -41,7 +41,7 @@ const BarStatComponent = props => {
             <div className={styles.background}>
                 <div className={styles.contentBox}>
                     <div>
-                        <h2 style={{color: nameColor}}>{props.statName}</h2>
+                        <h2 className={styles.header} style={{color: nameColor}}>{props.statName}</h2>
                     </div>
                     <div>
                         <div className={styles.fourColumns}>

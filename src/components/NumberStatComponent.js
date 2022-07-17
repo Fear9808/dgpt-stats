@@ -47,7 +47,7 @@ const NumberStatComponent = props => {
             <div className={styles.background}>
                 <div className={styles.contentBoxNumbers}>
                     <div>
-                        <h2 style={{color: nameColor}}>{props.statName}</h2>
+                        <h2 className={styles.header} style={{color: nameColor}}>{props.statName}</h2>
                     </div>
                     <div className={styles.numberStatThreeRows}>
                         <p className={styles.numberStatText} style={{color: Default.PLAYER_COLOR}}>{playerData}</p>

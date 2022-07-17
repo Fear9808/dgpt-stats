@@ -1,4 +1,3 @@
-import React, {useEffect, useState} from 'react';
 
 const MaleFemalePickerComponent = props => {
     //const [maleFemale, setMaleFemale] = useState('');
@@ -20,7 +19,7 @@ const MaleFemalePickerComponent = props => {
 
     return (
         <div style={content}>
-            <h2 style={{paddingRight: '5px', textShadow: 'none'}}>MPO/FPO: </h2>
+            <h2 style={{paddingRight: '5px', textShadow: 'none', color: 'white'}}>MPO/FPO: </h2>
             <select id="picker" name="maleFemalePicker" onChange={e => onSelectMaleFemale(e.target.value)}>
                 {pickerOptions}
             </select>
