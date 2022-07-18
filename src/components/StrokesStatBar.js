@@ -13,7 +13,6 @@ const StrokesStatBar = props => {
     useEffect(() => {
         if(props.dataValue){
             setStrokesValue(props.dataValue);
-            setBarColor(props.barColor);
         }
     },[props]);
 
