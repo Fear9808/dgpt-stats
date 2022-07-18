@@ -28,11 +28,6 @@ const RadarChartComponent = props => {
             setAverageData(props.averageData? props.averageData : {});
             setPlayerName(props.playerData.playerName.split(' ')[0]);
         }
-        
-        
-        if(props.nameColor){
-            setNameColor(props.nameColor);
-        }
     },[props]);
 
     ChartJS.register(
