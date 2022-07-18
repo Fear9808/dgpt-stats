@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react';
-import DisplayAllPlayerData from '../components/DisplayAllPlayerData';
 import MaleFemalePickerComponent from '../components/MaleFemalePickerComponent';
 import PlayerPickerComponent from '../components/PlayerPickerComponent';
 import YearPickerComponent from '../components/YearPickerComponent';
@@ -11,6 +10,7 @@ import styles from '../style/HomePageStyle.module.css';
 import * as Default from '../style/DefaultValues';
 import layoutStyle from '../style/LayoutStyle.module.css';
 import StrokesComponent from '../components/StrokesComponent';
+import utils from '../utils';
 
 const Home = () => {
     const [tourData, setData] = useState({});
@@ -177,7 +177,7 @@ const Home = () => {
                 
             </div>
             <footer>
-                <p>{`Updated: ${tourData.updatedDate?.split(' ')[0]}`}</p>
+                <p>{`Updated: ${tourData.updatedDate? utils.getFirstInString(tourData.updatedDate) : ''}`}</p>
                 <p>Contact: felix.arnestrand@gmail.com</p>
             </footer>
         </div>

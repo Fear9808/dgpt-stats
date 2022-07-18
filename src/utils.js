@@ -6,4 +6,8 @@ const getPlayerNamesFromCompetition = (data) => {
    return playerNames;
  }
 
- export default {getPlayerNamesFromCompetition};
+ const getFirstInString = (string) => {
+   return string.split(' ')[0]
+ }
+
+ export default {getPlayerNamesFromCompetition, getFirstInString};
