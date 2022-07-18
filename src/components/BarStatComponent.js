@@ -4,7 +4,6 @@ import * as Default from '../style/DefaultValues';
 import ScaleComponent from './ScaleComponent';
 import BarStatBar from './BarStatBar';
 
-import utils from '../utils.js'
 import NameColorComponent from './NameColorComponent';
 
 const BarStatComponent = props => {

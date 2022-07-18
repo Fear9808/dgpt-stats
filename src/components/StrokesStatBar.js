@@ -1,12 +1,10 @@
 import React, {useEffect, useState} from 'react';
-import styles from '../style/BarStatBarStyle.module.css'
 import * as Default from '../style/DefaultValues';
 import StrokesBarPartComponent from './StrokesBarPartComponent';
 
 
 const StrokesStatBar = props => {
     const [strokes, setStrokesValue] = useState({});
-    const [barColor, setBarColor] = useState('white')
 
     const barStyle = {  display: 'flex', transition: 'width 1s', width: '100%', height: '70%', zIndex: '0', alignSelf: 'center' ,boxShadow: '.1rem .1rem .2rem black'};
 

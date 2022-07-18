@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react';
-import styles from '../style/StrokesComponentStyle.module.css';
 import * as Default from '../style/DefaultValues';
 
 

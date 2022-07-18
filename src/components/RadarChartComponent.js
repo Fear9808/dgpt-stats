@@ -20,7 +20,6 @@ const RadarChartComponent = props => {
     const averageName = 'Average';
     const [playerData, setPlayerData] = useState(Default.DEFAULT_PLAYER_OBJECT);
     const [averageData, setAverageData] = useState(Default.DEFAULT_PLAYER_OBJECT);
-    const [nameColor, setNameColor] = useState(Default.DEFAULT_CARD_NAME_COLOR);
 
 
     useEffect(() => {

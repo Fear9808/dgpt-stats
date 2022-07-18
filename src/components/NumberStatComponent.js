@@ -1,10 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import styles from '../style/StatComponentStyle.module.css'
 import * as Default from '../style/DefaultValues';
-//import ScaleComponent from './ScaleComponent';
-import BarStatBar from './BarStatBar';
-
-import utils from '../utils.js'
 
 const NumberStatComponent = props => {
     const [playerName, setPlayerName] = useState('Name');

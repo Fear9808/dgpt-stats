@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from 'react';
 import styles from '../style/PlayerPickerSelectStyle.module.css';
-import * as Default from '../style/DefaultValues';
 
 import utils from '../utils.js'
 

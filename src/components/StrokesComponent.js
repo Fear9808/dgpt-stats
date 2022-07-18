@@ -2,9 +2,6 @@ import React, {useEffect, useState} from 'react';
 import styles from '../style/StrokesComponentStyle.module.css'
 import * as Default from '../style/DefaultValues';
 import VerticalScaleComponent from './VerticalScaleComponent';
-import BarStatBar from './BarStatBar';
-
-import utils from '../utils.js'
 import StrokesStatBar from './StrokesStatBar';
 import NameColorComponent from './NameColorComponent';
 

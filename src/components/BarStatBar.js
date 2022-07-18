@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import styles from '../style/BarStatBarStyle.module.css'
-import keyframes from '../style/keyframes.css';
+import styles from '../style/BarStatBarStyle.module.css';
 
 
 const BarStatBar = props => {

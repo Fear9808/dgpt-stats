@@ -6,7 +6,6 @@ import BarStatComponent from '../components/BarStatComponent';
 import NumberStatComponent from '../components/NumberStatComponent';
 import RadarChartComponent from '../components/RadarChartComponent';
 
-import styles from '../style/HomePageStyle.module.css';
 import * as Default from '../style/DefaultValues';
 import layoutStyle from '../style/LayoutStyle.module.css';
 import StrokesComponent from '../components/StrokesComponent';
