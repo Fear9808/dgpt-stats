@@ -235,7 +235,7 @@ footer{
     }
 }
 
-@media only screen and (max-width: 1080px), screen and (max-height: 950px) {
+@media only screen and (max-width: 1080px), screen and (max-height: 900px) {
     .homePageContent{
         display: flex;
         margin-top: 10px;

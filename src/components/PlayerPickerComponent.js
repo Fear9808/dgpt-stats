@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import styles from '../style/PlayerPickerSelectStyle.module.css';
 
-import utils from '../utils.js'
+import utils from '../utils.js';
 
 const PlayerPickerComponent = props => {
     const [players, setPlayers] = useState([]);

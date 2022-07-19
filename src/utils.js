@@ -7,7 +7,11 @@ const getPlayerNamesFromCompetition = (data) => {
  }
 
  const getFirstInString = (string) => {
-   return string.split(' ')[0]
+  return string.split(' ')[0]
  }
 
- export default {getPlayerNamesFromCompetition, getFirstInString};
+ const roundToWholeNumber = (number) => {
+  return Math.round(number)
+ }
+
+ export default {getPlayerNamesFromCompetition, getFirstInString, roundToWholeNumber};

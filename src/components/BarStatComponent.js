@@ -3,6 +3,7 @@ import styles from '../style/StatComponentStyle.module.css'
 import * as Default from '../style/DefaultValues';
 import ScaleComponent from './ScaleComponent';
 import BarStatBar from './BarStatBar';
+import utils from '../utils.js';
 
 import NameColorComponent from './NameColorComponent';
 
@@ -15,8 +16,8 @@ const BarStatComponent = props => {
 
     useEffect(() => {
         if(props.playerData.stats){
-            setPlayerData(props.score? props.playerData.score[props.stat] : props.playerData.stats[props.stat]);
-            setAverageData(props.score? props.averageData.score[props.stat] : props.averageData.stats[props.stat]);
+            setPlayerData(props.score? props.playerData.score[props.stat] : utils.roundToWholeNumber(props.playerData.stats[props.stat]));
+            setAverageData(props.score? props.averageData.score[props.stat] : utils.roundToWholeNumber(props.averageData.stats[props.stat]));
             setPlayerName(props.playerData.playerName.split(' ')[0]);
             //setAverageData(props.averageData);
         }
