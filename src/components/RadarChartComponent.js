@@ -79,6 +79,12 @@ const RadarChartComponent = props => {
                 },
                 ticks: {
                     showLabelBackdrop: false,
+                    color: Default.PAR_COLOR
+                  },
+                angleLines: {
+                    color: Default.MAIN_SECTION_BG_COLOR
+                  },
+                grid: {
                     color: Default.MAIN_SECTION_BG_COLOR
                   },
                 min: 0,
