@@ -113,7 +113,10 @@ const Home = () => {
                         </div>
                         <div className={layoutStyle.nameGrid}>
                             <PlayerPickerComponent data={players} player={player} handlePlayerSelect={handlePlayerSelect}/>
-                            <h2 className={layoutStyle.positionDisplay} style={{color: Default.PLAYER_COLOR}}>{'# ' + playerData.playerPosition}</h2>
+                            <div className={layoutStyle.positionDisplay}>
+                                <img src='/prize_cup_orange_60x60.png' alt='image'/>
+                                <h2 className={layoutStyle.positionDisplayNumber} style={{color: Default.PLAYER_COLOR}}>{playerData.playerPosition}</h2>
+                            </div>
                         </div>
                         
                     </div>

@@ -139,11 +139,18 @@
 }
 
 .positionDisplay{
-    font-size: 250%;
+    display: grid;
+    grid-template-columns: 60% 35%;
+    column-gap: var(--default-column-gap);
+    width: 100px;
     margin: auto;
     margin-left: 3%;
-    margin-right: 0;
-    text-align: start;
+    margin-top: -5px;
+}
+
+.positionDisplayNumber{
+    font-size: 300%;
+    margin: auto;
 }
 
 .infoGrid{
@@ -301,8 +308,8 @@ footer{
     }
 
     .positionDisplay{
-        width: 25%;
         margin-left: 2%;
+        margin-top: 0;
     }
 
     .statPickers{
