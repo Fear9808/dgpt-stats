@@ -5,6 +5,7 @@ import YearPickerComponent from '../components/YearPickerComponent';
 import BarStatComponent from '../components/BarStatComponent';
 import NumberStatComponent from '../components/NumberStatComponent';
 import RadarChartComponent from '../components/RadarChartComponent';
+import throphy from '../images/prize_cup_orange_60x60.png';
 
 import * as Default from '../style/DefaultValues';
 import layoutStyle from '../style/LayoutStyle.module.css';
@@ -114,7 +115,7 @@ const Home = () => {
                         <div className={layoutStyle.nameGrid}>
                             <PlayerPickerComponent data={players} player={player} handlePlayerSelect={handlePlayerSelect}/>
                             <div className={layoutStyle.positionDisplay}>
-                                <img src='/prize_cup_orange_60x60.png' alt='placement'/>
+                                <img src={throphy} alt='placement'/>
                                 <h2 className={layoutStyle.positionDisplayNumber} style={{color: Default.PLAYER_COLOR}}>{playerData.playerPosition}</h2>
                             </div>
                         </div>
