@@ -2,55 +2,55 @@
     "tourName": "2022 DGPT Stats",
     "tourYear": 2022,
     "MPO/FPO": "FPO",
-    "numberOfPlayers": 89,
-    "updatedDate": "2022-07-15 20:38",
+    "numberOfPlayers": 63,
+    "updatedDate": "2022-09-18 19:19",
     "averagePlayer": {
         "playerName": "player_average",
         "playerPosition": 0,
         "score": {
-            "ace": 0.013,
-            "eagle": 0.157,
-            "birdie": 16.973,
-            "par": 53.2,
-            "bogey": 21.834,
-            "doubleBogey": 6.026,
-            "tripleBogey": 1.798
+            "ace": 0.006,
+            "eagle": 0.184,
+            "birdie": 19.335,
+            "par": 53.671,
+            "bogey": 20.236,
+            "doubleBogey": 5.186,
+            "tripleBogey": 1.38
         },
         "stats": {
-            "fairwayHits": 63.865,
-            "parked": 5.742,
-            "circle1Reg": 22.315,
-            "circle2Reg": 41.573,
-            "scramble": 31.764,
-            "circle1Putting": 64.831,
-            "circle2Putting": 10.921,
-            "throwIn": 0.248,
-            "ob": 11.371
+            "fairwayHits": 66.746,
+            "parked": 6.111,
+            "circle1Reg": 24.476,
+            "circle2Reg": 44.873,
+            "scramble": 33.127,
+            "circle1Putting": 67.937,
+            "circle2Putting": 12.286,
+            "throwIn": 0.251,
+            "ob": 11.706
         }
     },
     "players": [
         {
-            "playerName": "Catrina Allen",
+            "playerName": "Kristin Tattar",
             "playerPosition": 1,
             "score": {
                 "ace": 0,
-                "eagle": 0.709,
-                "birdie": 31.324,
-                "par": 53.073,
-                "bogey": 11.702,
-                "doubleBogey": 2.6,
-                "tripleBogey": 0.591
+                "eagle": 1.034,
+                "birdie": 36.563,
+                "par": 48.837,
+                "bogey": 11.628,
+                "doubleBogey": 1.938,
+                "tripleBogey": 0
             },
             "stats": {
-                "fairwayHits": 72,
-                "parked": 11,
-                "circle1Reg": 38,
-                "circle2Reg": 60,
-                "scramble": 56,
-                "circle1Putting": 68,
-                "circle2Putting": 21,
-                "throwIn": 0.2,
-                "ob": 8.3
+                "fairwayHits": 77,
+                "parked": 13,
+                "circle1Reg": 42,
+                "circle2Reg": 65,
+                "scramble": 45,
+                "circle1Putting": 74,
+                "circle2Putting": 20,
+                "throwIn": 0.3,
+                "ob": 8.0
             }
         },
         {
@@ -58,540 +58,540 @@
             "playerPosition": 2,
             "score": {
                 "ace": 0,
-                "eagle": 1.023,
-                "birdie": 34.503,
-                "par": 46.93,
-                "bogey": 12.866,
-                "doubleBogey": 3.947,
-                "tripleBogey": 0.731
+                "eagle": 0.877,
+                "birdie": 34.211,
+                "par": 46.296,
+                "bogey": 13.84,
+                "doubleBogey": 4.094,
+                "tripleBogey": 0.682
             },
             "stats": {
-                "fairwayHits": 73,
+                "fairwayHits": 72,
                 "parked": 13,
-                "circle1Reg": 38,
+                "circle1Reg": 37,
                 "circle2Reg": 62,
+                "scramble": 45,
+                "circle1Putting": 74,
+                "circle2Putting": 18,
+                "throwIn": 0.5,
+                "ob": 13.2
+            }
+        },
+        {
+            "playerName": "Catrina Allen",
+            "playerPosition": 3,
+            "score": {
+                "ace": 0,
+                "eagle": 0.644,
+                "birdie": 29.066,
+                "par": 53.06,
+                "bogey": 13.446,
+                "doubleBogey": 3.382,
+                "tripleBogey": 0.403
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 10,
+                "circle1Reg": 34,
+                "circle2Reg": 56,
                 "scramble": 47,
-                "circle1Putting": 75,
-                "circle2Putting": 17,
-                "throwIn": 0.6,
-                "ob": 13.5
+                "circle1Putting": 70,
+                "circle2Putting": 21,
+                "throwIn": 0.2,
+                "ob": 9.5
+            }
+        },
+        {
+            "playerName": "Ohn Scoggins",
+            "playerPosition": 4,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 27.778,
+                "par": 57.738,
+                "bogey": 11.905,
+                "doubleBogey": 2.083,
+                "tripleBogey": 0.496
+            },
+            "stats": {
+                "fairwayHits": 66,
+                "parked": 6,
+                "circle1Reg": 26,
+                "circle2Reg": 46,
+                "scramble": 52,
+                "circle1Putting": 84,
+                "circle2Putting": 32,
+                "throwIn": 0.1,
+                "ob": 7.9
             }
         },
         {
             "playerName": "Valerie Mandujano",
-            "playerPosition": 3,
+            "playerPosition": 5,
             "score": {
                 "ace": 0,
-                "eagle": 0.258,
-                "birdie": 29.974,
-                "par": 52.972,
-                "bogey": 13.566,
-                "doubleBogey": 2.455,
-                "tripleBogey": 0.775
+                "eagle": 0.179,
+                "birdie": 28.495,
+                "par": 54.928,
+                "bogey": 13.441,
+                "doubleBogey": 2.419,
+                "tripleBogey": 0.538
             },
             "stats": {
-                "fairwayHits": 72,
-                "parked": 9,
-                "circle1Reg": 33,
-                "circle2Reg": 55,
-                "scramble": 52,
-                "circle1Putting": 77,
-                "circle2Putting": 18,
-                "throwIn": 0.3,
-                "ob": 8.5
+                "fairwayHits": 71,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 53,
+                "scramble": 50,
+                "circle1Putting": 79,
+                "circle2Putting": 19,
+                "throwIn": 0.4,
+                "ob": 9.5
             }
         },
         {
             "playerName": "Missy Gannon",
-            "playerPosition": 4,
+            "playerPosition": 6,
             "score": {
                 "ace": 0,
-                "eagle": 0.136,
-                "birdie": 24.932,
-                "par": 59.35,
-                "bogey": 13.144,
-                "doubleBogey": 2.439,
-                "tripleBogey": 0
+                "eagle": 0.093,
+                "birdie": 26.852,
+                "par": 57.315,
+                "bogey": 13.241,
+                "doubleBogey": 2.407,
+                "tripleBogey": 0.093
             },
             "stats": {
                 "fairwayHits": 73,
                 "parked": 7,
                 "circle1Reg": 29,
-                "circle2Reg": 52,
-                "scramble": 49,
-                "circle1Putting": 75,
-                "circle2Putting": 17,
+                "circle2Reg": 55,
+                "scramble": 48,
+                "circle1Putting": 76,
+                "circle2Putting": 19,
                 "throwIn": 0,
-                "ob": 7.5
-            }
-        },
-        {
-            "playerName": "Ohn Scoggins",
-            "playerPosition": 5,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 25.556,
-                "par": 59.306,
-                "bogey": 12.5,
-                "doubleBogey": 2.222,
-                "tripleBogey": 0.417
-            },
-            "stats": {
-                "fairwayHits": 65,
-                "parked": 6,
-                "circle1Reg": 25,
-                "circle2Reg": 43,
-                "scramble": 54,
-                "circle1Putting": 82,
-                "circle2Putting": 30,
-                "throwIn": 0.1,
-                "ob": 7.4
-            }
-        },
-        {
-            "playerName": "Ella Hansen",
-            "playerPosition": 6,
-            "score": {
-                "ace": 0,
-                "eagle": 1,
-                "birdie": 26.111,
-                "par": 49.667,
-                "bogey": 19,
-                "doubleBogey": 3.222,
-                "tripleBogey": 1
-            },
-            "stats": {
-                "fairwayHits": 69,
-                "parked": 10,
-                "circle1Reg": 34,
-                "circle2Reg": 56,
-                "scramble": 41,
-                "circle1Putting": 68,
-                "circle2Putting": 12,
-                "throwIn": 0.1,
-                "ob": 12.2
-            }
-        },
-        {
-            "playerName": "Kristin Tattar",
-            "playerPosition": 7,
-            "score": {
-                "ace": 0,
-                "eagle": 1.852,
-                "birdie": 34.028,
-                "par": 49.306,
-                "bogey": 12.268,
-                "doubleBogey": 2.546,
-                "tripleBogey": 0
-            },
-            "stats": {
-                "fairwayHits": 74,
-                "parked": 15,
-                "circle1Reg": 42,
-                "circle2Reg": 64,
-                "scramble": 47,
-                "circle1Putting": 71,
-                "circle2Putting": 17,
-                "throwIn": 0.2,
-                "ob": 9.3
+                "ob": 8.1
             }
         },
         {
             "playerName": "Kat Mertsch",
-            "playerPosition": 8,
+            "playerPosition": 7,
             "score": {
                 "ace": 0,
-                "eagle": 0.709,
-                "birdie": 25.414,
-                "par": 51.891,
-                "bogey": 17.021,
-                "doubleBogey": 3.664,
-                "tripleBogey": 1.3
+                "eagle": 0.457,
+                "birdie": 25.647,
+                "par": 51.142,
+                "bogey": 17.96,
+                "doubleBogey": 3.805,
+                "tripleBogey": 0.989
             },
             "stats": {
                 "fairwayHits": 68,
                 "parked": 9,
-                "circle1Reg": 33,
-                "circle2Reg": 53,
-                "scramble": 38,
-                "circle1Putting": 71,
-                "circle2Putting": 9,
-                "throwIn": 0.6,
-                "ob": 11.8
+                "circle1Reg": 31,
+                "circle2Reg": 52,
+                "scramble": 35,
+                "circle1Putting": 72,
+                "circle2Putting": 11,
+                "throwIn": 0.5,
+                "ob": 12.2
             }
         },
         {
-            "playerName": "Maria Oliva",
-            "playerPosition": 9,
+            "playerName": "Ella Hansen",
+            "playerPosition": 8,
             "score": {
                 "ace": 0,
-                "eagle": 0.314,
-                "birdie": 26.206,
-                "par": 49.581,
-                "bogey": 17.82,
-                "doubleBogey": 4.822,
-                "tripleBogey": 1.258
+                "eagle": 0.758,
+                "birdie": 26.515,
+                "par": 49.748,
+                "bogey": 19.108,
+                "doubleBogey": 3.03,
+                "tripleBogey": 0.842
             },
             "stats": {
                 "fairwayHits": 68,
                 "parked": 10,
-                "circle1Reg": 32,
-                "circle2Reg": 53,
-                "scramble": 40,
-                "circle1Putting": 66,
-                "circle2Putting": 16,
-                "throwIn": 0.2,
-                "ob": 13.5
-            }
-        },
-        {
-            "playerName": "Alexis Mandujano",
-            "playerPosition": 10,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 19.709,
-                "par": 60.185,
-                "bogey": 16.799,
-                "doubleBogey": 2.646,
-                "tripleBogey": 0.661
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 5,
-                "circle1Reg": 23,
-                "circle2Reg": 43,
+                "circle1Reg": 34,
+                "circle2Reg": 55,
                 "scramble": 41,
-                "circle1Putting": 78,
-                "circle2Putting": 13,
-                "throwIn": 0.3,
-                "ob": 8.2
+                "circle1Putting": 69,
+                "circle2Putting": 12,
+                "throwIn": 0.1,
+                "ob": 12.7
             }
         },
         {
             "playerName": "Sarah Hokom",
-            "playerPosition": 11,
+            "playerPosition": 9,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 21.667,
-                "par": 60.278,
-                "bogey": 16.528,
-                "doubleBogey": 1.25,
-                "tripleBogey": 0.278
+                "birdie": 21.925,
+                "par": 59.921,
+                "bogey": 16.171,
+                "doubleBogey": 1.786,
+                "tripleBogey": 0.198
             },
             "stats": {
-                "fairwayHits": 66,
+                "fairwayHits": 67,
                 "parked": 8,
-                "circle1Reg": 27,
-                "circle2Reg": 49,
-                "scramble": 43,
-                "circle1Putting": 69,
-                "circle2Putting": 12,
+                "circle1Reg": 26,
+                "circle2Reg": 48,
+                "scramble": 45,
+                "circle1Putting": 70,
+                "circle2Putting": 14,
                 "throwIn": 0.1,
-                "ob": 7.7
+                "ob": 8.2
+            }
+        },
+        {
+            "playerName": "Natalie Ryan",
+            "playerPosition": 10,
+            "score": {
+                "ace": 0,
+                "eagle": 0.605,
+                "birdie": 28.557,
+                "par": 46.115,
+                "bogey": 18.063,
+                "doubleBogey": 4.944,
+                "tripleBogey": 1.715
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 9,
+                "circle1Reg": 38,
+                "circle2Reg": 59,
+                "scramble": 34,
+                "circle1Putting": 64,
+                "circle2Putting": 12,
+                "throwIn": 0.2,
+                "ob": 14.7
+            }
+        },
+        {
+            "playerName": "Maria Oliva",
+            "playerPosition": 11,
+            "score": {
+                "ace": 0,
+                "eagle": 0.457,
+                "birdie": 25.419,
+                "par": 49.011,
+                "bogey": 18.721,
+                "doubleBogey": 5.175,
+                "tripleBogey": 1.218
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 8,
+                "circle1Reg": 30,
+                "circle2Reg": 53,
+                "scramble": 37,
+                "circle1Putting": 69,
+                "circle2Putting": 16,
+                "throwIn": 0.4,
+                "ob": 13.3
+            }
+        },
+        {
+            "playerName": "Eveliina Salonen",
+            "playerPosition": 12,
+            "score": {
+                "ace": 0,
+                "eagle": 0.154,
+                "birdie": 28.858,
+                "par": 54.321,
+                "bogey": 12.963,
+                "doubleBogey": 2.623,
+                "tripleBogey": 1.08
+            },
+            "stats": {
+                "fairwayHits": 79,
+                "parked": 13,
+                "circle1Reg": 46,
+                "circle2Reg": 70,
+                "scramble": 49,
+                "circle1Putting": 49,
+                "circle2Putting": 9,
+                "throwIn": 0,
+                "ob": 6.5
+            }
+        },
+        {
+            "playerName": "Alexis Mandujano",
+            "playerPosition": 13,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 19.259,
+                "par": 60.278,
+                "bogey": 16.667,
+                "doubleBogey": 2.963,
+                "tripleBogey": 0.833
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 4,
+                "circle1Reg": 22,
+                "circle2Reg": 43,
+                "scramble": 39,
+                "circle1Putting": 78,
+                "circle2Putting": 12,
+                "throwIn": 0.5,
+                "ob": 8.8
             }
         },
         {
             "playerName": "Emily Beach",
-            "playerPosition": 12,
+            "playerPosition": 14,
             "score": {
-                "ace": 0.139,
-                "eagle": 0.139,
-                "birdie": 23.472,
-                "par": 53.472,
-                "bogey": 17.5,
-                "doubleBogey": 3.889,
-                "tripleBogey": 1.389
+                "ace": 0.091,
+                "eagle": 0.182,
+                "birdie": 23.315,
+                "par": 53.916,
+                "bogey": 17.031,
+                "doubleBogey": 4.007,
+                "tripleBogey": 1.457
             },
             "stats": {
-                "fairwayHits": 67,
-                "parked": 9,
-                "circle1Reg": 29,
+                "fairwayHits": 68,
+                "parked": 8,
+                "circle1Reg": 28,
                 "circle2Reg": 47,
-                "scramble": 42,
-                "circle1Putting": 71,
+                "scramble": 44,
+                "circle1Putting": 74,
                 "circle2Putting": 17,
                 "throwIn": 0.3,
-                "ob": 12.9
+                "ob": 11.9
             }
         },
         {
             "playerName": "Hailey King",
-            "playerPosition": 13,
+            "playerPosition": 15,
             "score": {
                 "ace": 0,
-                "eagle": 0.875,
-                "birdie": 27.79,
-                "par": 49.672,
-                "bogey": 17.724,
-                "doubleBogey": 3.282,
-                "tripleBogey": 0.656
+                "eagle": 0.564,
+                "birdie": 28.209,
+                "par": 49.647,
+                "bogey": 17.771,
+                "doubleBogey": 3.103,
+                "tripleBogey": 0.705
             },
             "stats": {
                 "fairwayHits": 73,
                 "parked": 8,
                 "circle1Reg": 33,
                 "circle2Reg": 59,
-                "scramble": 38,
+                "scramble": 37,
                 "circle1Putting": 74,
-                "circle2Putting": 13,
-                "throwIn": 0.2,
-                "ob": 12.7
-            }
-        },
-        {
-            "playerName": "Natalie Ryan",
-            "playerPosition": 14,
-            "score": {
-                "ace": 0,
-                "eagle": 0.446,
-                "birdie": 28.529,
-                "par": 45.468,
-                "bogey": 17.979,
-                "doubleBogey": 4.903,
-                "tripleBogey": 2.675
-            },
-            "stats": {
-                "fairwayHits": 74,
-                "parked": 10,
-                "circle1Reg": 39,
-                "circle2Reg": 60,
-                "scramble": 30,
-                "circle1Putting": 57,
-                "circle2Putting": 13,
+                "circle2Putting": 14,
                 "throwIn": 0.1,
-                "ob": 15.2
+                "ob": 13.2
             }
         },
         {
-            "playerName": "Rebecca Cox",
-            "playerPosition": 15,
+            "playerName": "Henna Blomroos",
+            "playerPosition": 16,
             "score": {
                 "ace": 0,
-                "eagle": 0,
-                "birdie": 21.97,
-                "par": 56.313,
-                "bogey": 17.298,
-                "doubleBogey": 3.535,
-                "tripleBogey": 0.884
+                "eagle": 0.694,
+                "birdie": 30.729,
+                "par": 51.042,
+                "bogey": 13.194,
+                "doubleBogey": 3.299,
+                "tripleBogey": 1.042
             },
             "stats": {
-                "fairwayHits": 72,
-                "parked": 9,
-                "circle1Reg": 32,
-                "circle2Reg": 56,
-                "scramble": 39,
+                "fairwayHits": 75,
+                "parked": 15,
+                "circle1Reg": 43,
+                "circle2Reg": 63,
+                "scramble": 44,
                 "circle1Putting": 56,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 8.5
+                "circle2Putting": 9,
+                "throwIn": 0.2,
+                "ob": 9.4
+            }
+        },
+        {
+            "playerName": "Holyn Handley",
+            "playerPosition": 17,
+            "score": {
+                "ace": 0,
+                "eagle": 0.253,
+                "birdie": 30.05,
+                "par": 47.349,
+                "bogey": 17.046,
+                "doubleBogey": 4.545,
+                "tripleBogey": 0.631
+            },
+            "stats": {
+                "fairwayHits": 73,
+                "parked": 10,
+                "circle1Reg": 35,
+                "circle2Reg": 57,
+                "scramble": 33,
+                "circle1Putting": 73,
+                "circle2Putting": 19,
+                "throwIn": 0.1,
+                "ob": 13.4
             }
         },
         {
             "playerName": "Jessica Weese",
-            "playerPosition": 16,
+            "playerPosition": 18,
             "score": {
                 "ace": 0,
-                "eagle": 0.236,
-                "birdie": 20.686,
-                "par": 55.674,
-                "bogey": 19.149,
-                "doubleBogey": 3.428,
-                "tripleBogey": 0.827
+                "eagle": 0.156,
+                "birdie": 21.909,
+                "par": 55.243,
+                "bogey": 18.075,
+                "doubleBogey": 4.069,
+                "tripleBogey": 0.548
             },
             "stats": {
-                "fairwayHits": 65,
+                "fairwayHits": 67,
                 "parked": 8,
-                "circle1Reg": 29,
-                "circle2Reg": 49,
-                "scramble": 39,
+                "circle1Reg": 31,
+                "circle2Reg": 51,
+                "scramble": 42,
                 "circle1Putting": 66,
-                "circle2Putting": 6,
+                "circle2Putting": 7,
                 "throwIn": 0.2,
-                "ob": 11.0
+                "ob": 11.4
             }
         },
         {
             "playerName": "Lisa Fajkus",
-            "playerPosition": 17,
+            "playerPosition": 19,
             "score": {
                 "ace": 0,
-                "eagle": 0.142,
-                "birdie": 18.661,
-                "par": 61.538,
-                "bogey": 16.809,
-                "doubleBogey": 2.564,
-                "tripleBogey": 0.285
+                "eagle": 0.091,
+                "birdie": 19.763,
+                "par": 59.927,
+                "bogey": 17.395,
+                "doubleBogey": 2.459,
+                "tripleBogey": 0.364
             },
             "stats": {
-                "fairwayHits": 66,
-                "parked": 6,
-                "circle1Reg": 22,
+                "fairwayHits": 67,
+                "parked": 5,
+                "circle1Reg": 21,
                 "circle2Reg": 44,
-                "scramble": 50,
-                "circle1Putting": 75,
-                "circle2Putting": 11,
+                "scramble": 44,
+                "circle1Putting": 77,
+                "circle2Putting": 15,
                 "throwIn": 0.7,
-                "ob": 6.9
+                "ob": 7.9
             }
         },
         {
             "playerName": "Jennifer Allen",
-            "playerPosition": 18,
+            "playerPosition": 20,
             "score": {
                 "ace": 0,
-                "eagle": 0.717,
-                "birdie": 22.043,
-                "par": 55.735,
-                "bogey": 17.384,
-                "doubleBogey": 3.405,
-                "tripleBogey": 0.717
+                "eagle": 0.631,
+                "birdie": 22.727,
+                "par": 54.293,
+                "bogey": 18.434,
+                "doubleBogey": 3.283,
+                "tripleBogey": 0.631
             },
             "stats": {
                 "fairwayHits": 69,
                 "parked": 10,
                 "circle1Reg": 34,
-                "circle2Reg": 54,
-                "scramble": 42,
-                "circle1Putting": 56,
+                "circle2Reg": 55,
+                "scramble": 39,
+                "circle1Putting": 58,
                 "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 12.3
-            }
-        },
-        {
-            "playerName": "Holyn Handley",
-            "playerPosition": 19,
-            "score": {
-                "ace": 0,
-                "eagle": 0.383,
-                "birdie": 28.544,
-                "par": 47.318,
-                "bogey": 17.433,
-                "doubleBogey": 5.364,
-                "tripleBogey": 0.958
-            },
-            "stats": {
-                "fairwayHits": 74,
-                "parked": 10,
-                "circle1Reg": 33,
-                "circle2Reg": 57,
-                "scramble": 26,
-                "circle1Putting": 69,
-                "circle2Putting": 19,
-                "throwIn": 0,
-                "ob": 14.4
-            }
-        },
-        {
-            "playerName": "Madison Walker",
-            "playerPosition": 20,
-            "score": {
-                "ace": 0,
-                "eagle": 0.139,
-                "birdie": 16.389,
-                "par": 58.056,
-                "bogey": 21.389,
-                "doubleBogey": 3.75,
-                "tripleBogey": 0.278
-            },
-            "stats": {
-                "fairwayHits": 61,
-                "parked": 5,
-                "circle1Reg": 22,
-                "circle2Reg": 41,
-                "scramble": 41,
-                "circle1Putting": 70,
-                "circle2Putting": 13,
-                "throwIn": 0.3,
-                "ob": 9.1
-            }
-        },
-        {
-            "playerName": "Eveliina Salonen",
-            "playerPosition": 21,
-            "score": {
-                "ace": 0,
-                "eagle": 0.231,
-                "birdie": 29.398,
-                "par": 52.778,
-                "bogey": 12.732,
-                "doubleBogey": 3.472,
-                "tripleBogey": 1.389
-            },
-            "stats": {
-                "fairwayHits": 79,
-                "parked": 16,
-                "circle1Reg": 48,
-                "circle2Reg": 71,
-                "scramble": 52,
-                "circle1Putting": 43,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 5.1
+                "throwIn": 0.1,
+                "ob": 13.6
             }
         },
         {
             "playerName": "Kona Star Panis",
+            "playerPosition": 21,
+            "score": {
+                "ace": 0,
+                "eagle": 0.278,
+                "birdie": 18.611,
+                "par": 56.389,
+                "bogey": 19.352,
+                "doubleBogey": 3.519,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 8,
+                "circle1Reg": 30,
+                "circle2Reg": 51,
+                "scramble": 31,
+                "circle1Putting": 56,
+                "circle2Putting": 4,
+                "throwIn": 0.1,
+                "ob": 9.4
+            }
+        },
+        {
+            "playerName": "Macie Velediaz",
             "playerPosition": 22,
             "score": {
                 "ace": 0,
-                "eagle": 0.379,
-                "birdie": 18.308,
-                "par": 56.313,
-                "bogey": 20.076,
-                "doubleBogey": 3.283,
-                "tripleBogey": 1.641
+                "eagle": 0.136,
+                "birdie": 22.222,
+                "par": 57.995,
+                "bogey": 16.938,
+                "doubleBogey": 2.71,
+                "tripleBogey": 0
             },
             "stats": {
                 "fairwayHits": 71,
                 "parked": 8,
                 "circle1Reg": 32,
-                "circle2Reg": 52,
-                "scramble": 30,
-                "circle1Putting": 56,
-                "circle2Putting": 3,
-                "throwIn": 0,
-                "ob": 8.4
+                "circle2Reg": 54,
+                "scramble": 44,
+                "circle1Putting": 67,
+                "circle2Putting": 10,
+                "throwIn": 0.1,
+                "ob": 8.6
             }
         },
         {
-            "playerName": "Vanessa Van Dyken",
+            "playerName": "Juliana Korver",
             "playerPosition": 23,
             "score": {
                 "ace": 0,
-                "eagle": 0.129,
-                "birdie": 16.15,
-                "par": 59.819,
-                "bogey": 18.992,
-                "doubleBogey": 4.134,
-                "tripleBogey": 0.775
+                "eagle": 0.247,
+                "birdie": 19.753,
+                "par": 59.383,
+                "bogey": 16.914,
+                "doubleBogey": 2.84,
+                "tripleBogey": 0.864
             },
             "stats": {
-                "fairwayHits": 68,
-                "parked": 5,
-                "circle1Reg": 24,
-                "circle2Reg": 43,
-                "scramble": 33,
-                "circle1Putting": 65,
-                "circle2Putting": 8,
-                "throwIn": 0.3,
-                "ob": 9.6
+                "fairwayHits": 73,
+                "parked": 8,
+                "circle1Reg": 31,
+                "circle2Reg": 56,
+                "scramble": 28,
+                "circle1Putting": 51,
+                "circle2Putting": 6,
+                "throwIn": 0.1,
+                "ob": 6.9
             }
         },
         {
-            "playerName": "Macie Velediaz",
+            "playerName": "Rebecca Cox",
             "playerPosition": 24,
             "score": {
                 "ace": 0,
-                "eagle": 0.206,
-                "birdie": 21.193,
-                "par": 57.407,
-                "bogey": 17.901,
-                "doubleBogey": 3.292,
-                "tripleBogey": 0
+                "eagle": 0.083,
+                "birdie": 21.144,
+                "par": 54.56,
+                "bogey": 18.905,
+                "doubleBogey": 4.146,
+                "tripleBogey": 1.161
             },
             "stats": {
                 "fairwayHits": 71,
@@ -599,82 +599,82 @@
                 "circle1Reg": 30,
                 "circle2Reg": 53,
                 "scramble": 38,
+                "circle1Putting": 57,
+                "circle2Putting": 10,
+                "throwIn": 0,
+                "ob": 9.8
+            }
+        },
+        {
+            "playerName": "Madison Walker",
+            "playerPosition": 25,
+            "score": {
+                "ace": 0,
+                "eagle": 0.096,
+                "birdie": 17.05,
+                "par": 58.525,
+                "bogey": 20.306,
+                "doubleBogey": 3.736,
+                "tripleBogey": 0.287
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 5,
+                "circle1Reg": 21,
+                "circle2Reg": 42,
+                "scramble": 40,
+                "circle1Putting": 71,
+                "circle2Putting": 15,
+                "throwIn": 0.3,
+                "ob": 9.1
+            }
+        },
+        {
+            "playerName": "Keiti Tätte",
+            "playerPosition": 26,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 21.333,
+                "par": 49.889,
+                "bogey": 21.222,
+                "doubleBogey": 6.667,
+                "tripleBogey": 0.889
+            },
+            "stats": {
+                "fairwayHits": 70,
+                "parked": 7,
+                "circle1Reg": 26,
+                "circle2Reg": 44,
+                "scramble": 25,
                 "circle1Putting": 66,
-                "circle2Putting": 9,
+                "circle2Putting": 10,
                 "throwIn": 0.2,
-                "ob": 7.6
+                "ob": 10.6
             }
         },
         {
             "playerName": "Deann Carey",
-            "playerPosition": 25,
-            "score": {
-                "ace": 0,
-                "eagle": 0.126,
-                "birdie": 17.677,
-                "par": 53.662,
-                "bogey": 21.717,
-                "doubleBogey": 5.808,
-                "tripleBogey": 1.01
-            },
-            "stats": {
-                "fairwayHits": 69,
-                "parked": 5,
-                "circle1Reg": 23,
-                "circle2Reg": 43,
-                "scramble": 26,
-                "circle1Putting": 70,
-                "circle2Putting": 11,
-                "throwIn": 0.3,
-                "ob": 11.5
-            }
-        },
-        {
-            "playerName": "Henna Blomroos",
-            "playerPosition": 26,
-            "score": {
-                "ace": 0,
-                "eagle": 0.833,
-                "birdie": 28.056,
-                "par": 52.5,
-                "bogey": 14.444,
-                "doubleBogey": 2.778,
-                "tripleBogey": 1.389
-            },
-            "stats": {
-                "fairwayHits": 74,
-                "parked": 14,
-                "circle1Reg": 41,
-                "circle2Reg": 59,
-                "scramble": 46,
-                "circle1Putting": 54,
-                "circle2Putting": 9,
-                "throwIn": 0.3,
-                "ob": 7.8
-            }
-        },
-        {
-            "playerName": "Juliana Korver",
             "playerPosition": 27,
             "score": {
                 "ace": 0,
-                "eagle": 0,
-                "birdie": 21.015,
-                "par": 60.628,
-                "bogey": 15.459,
-                "doubleBogey": 1.932,
-                "tripleBogey": 0.966
+                "eagle": 0.081,
+                "birdie": 18.76,
+                "par": 53.301,
+                "bogey": 20.37,
+                "doubleBogey": 6.28,
+                "tripleBogey": 1.208
             },
             "stats": {
-                "fairwayHits": 72,
-                "parked": 10,
-                "circle1Reg": 32,
-                "circle2Reg": 57,
-                "scramble": 35,
-                "circle1Putting": 53,
-                "circle2Putting": 4,
-                "throwIn": 0,
-                "ob": 5.8
+                "fairwayHits": 68,
+                "parked": 5,
+                "circle1Reg": 22,
+                "circle2Reg": 42,
+                "scramble": 26,
+                "circle1Putting": 74,
+                "circle2Putting": 11,
+                "throwIn": 0.2,
+                "ob": 11.9
             }
         },
         {
@@ -683,142 +683,142 @@
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 19.95,
-                "par": 52.904,
-                "bogey": 20.581,
-                "doubleBogey": 4.672,
-                "tripleBogey": 1.894
+                "birdie": 19.726,
+                "par": 53.382,
+                "bogey": 21.337,
+                "doubleBogey": 4.187,
+                "tripleBogey": 1.369
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 6,
+                "circle1Reg": 22,
+                "circle2Reg": 42,
+                "scramble": 34,
+                "circle1Putting": 69,
+                "circle2Putting": 16,
+                "throwIn": 0.2,
+                "ob": 10.0
+            }
+        },
+        {
+            "playerName": "Vanessa Van Dyken",
+            "playerPosition": 29,
+            "score": {
+                "ace": 0,
+                "eagle": 0.101,
+                "birdie": 16.97,
+                "par": 59.596,
+                "bogey": 18.081,
+                "doubleBogey": 4.343,
+                "tripleBogey": 0.909
             },
             "stats": {
                 "fairwayHits": 68,
-                "parked": 7,
+                "parked": 4,
                 "circle1Reg": 24,
-                "circle2Reg": 44,
-                "scramble": 37,
-                "circle1Putting": 65,
-                "circle2Putting": 14,
-                "throwIn": 0,
+                "circle2Reg": 43,
+                "scramble": 32,
+                "circle1Putting": 67,
+                "circle2Putting": 7,
+                "throwIn": 0.2,
                 "ob": 9.9
             }
         },
         {
             "playerName": "Cynthia Ricciotti",
-            "playerPosition": 29,
-            "score": {
-                "ace": 0,
-                "eagle": 0.253,
-                "birdie": 17.089,
-                "par": 53.671,
-                "bogey": 20.633,
-                "doubleBogey": 6.456,
-                "tripleBogey": 1.899
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 5,
-                "circle1Reg": 22,
-                "circle2Reg": 40,
-                "scramble": 26,
-                "circle1Putting": 69,
-                "circle2Putting": 12,
-                "throwIn": 0.7,
-                "ob": 9.4
-            }
-        },
-        {
-            "playerName": "Keiti Tätte",
             "playerPosition": 30,
             "score": {
                 "ace": 0,
-                "eagle": 0,
-                "birdie": 22.988,
-                "par": 49.042,
-                "bogey": 20.69,
-                "doubleBogey": 6.13,
-                "tripleBogey": 1.149
+                "eagle": 0.171,
+                "birdie": 16.353,
+                "par": 56.593,
+                "bogey": 19.606,
+                "doubleBogey": 5.736,
+                "tripleBogey": 1.541
             },
             "stats": {
-                "fairwayHits": 70,
-                "parked": 7,
-                "circle1Reg": 27,
-                "circle2Reg": 47,
-                "scramble": 31,
-                "circle1Putting": 64,
-                "circle2Putting": 14,
-                "throwIn": 0.2,
-                "ob": 8.8
-            }
-        },
-        {
-            "playerName": "Aria Castruita",
-            "playerPosition": 31,
-            "score": {
-                "ace": 0,
-                "eagle": 0.198,
-                "birdie": 23.913,
-                "par": 49.407,
-                "bogey": 17.787,
-                "doubleBogey": 6.522,
-                "tripleBogey": 2.174
-            },
-            "stats": {
-                "fairwayHits": 67,
-                "parked": 9,
-                "circle1Reg": 29,
-                "circle2Reg": 49,
-                "scramble": 32,
-                "circle1Putting": 65,
-                "circle2Putting": 10,
-                "throwIn": 0,
-                "ob": 12.8
-            }
-        },
-        {
-            "playerName": "Stacie Hass",
-            "playerPosition": 32,
-            "score": {
-                "ace": 0,
-                "eagle": 0.159,
-                "birdie": 20,
-                "par": 55.556,
-                "bogey": 15.556,
-                "doubleBogey": 6.984,
-                "tripleBogey": 1.746
-            },
-            "stats": {
-                "fairwayHits": 67,
-                "parked": 6,
-                "circle1Reg": 26,
-                "circle2Reg": 49,
-                "scramble": 36,
-                "circle1Putting": 69,
-                "circle2Putting": 12,
-                "throwIn": 0.2,
-                "ob": 10.2
+                "fairwayHits": 69,
+                "parked": 4,
+                "circle1Reg": 21,
+                "circle2Reg": 40,
+                "scramble": 29,
+                "circle1Putting": 71,
+                "circle2Putting": 11,
+                "throwIn": 0.6,
+                "ob": 8.7
             }
         },
         {
             "playerName": "Alex Benson",
-            "playerPosition": 33,
+            "playerPosition": 31,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 14.074,
-                "par": 57.037,
-                "bogey": 23.704,
-                "doubleBogey": 4.63,
-                "tripleBogey": 0.556
+                "birdie": 15.904,
+                "par": 57.516,
+                "bogey": 21.787,
+                "doubleBogey": 4.248,
+                "tripleBogey": 0.545
             },
             "stats": {
                 "fairwayHits": 63,
-                "parked": 3,
-                "circle1Reg": 16,
-                "circle2Reg": 34,
-                "scramble": 30,
-                "circle1Putting": 72,
+                "parked": 4,
+                "circle1Reg": 18,
+                "circle2Reg": 37,
+                "scramble": 35,
+                "circle1Putting": 75,
                 "circle2Putting": 16,
-                "throwIn": 0.4,
-                "ob": 10.2
+                "throwIn": 0.2,
+                "ob": 9.7
+            }
+        },
+        {
+            "playerName": "Stacie Rawnsley",
+            "playerPosition": 32,
+            "score": {
+                "ace": 0,
+                "eagle": 0.233,
+                "birdie": 21.445,
+                "par": 50.583,
+                "bogey": 19.814,
+                "doubleBogey": 6.061,
+                "tripleBogey": 1.865
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 6,
+                "circle1Reg": 25,
+                "circle2Reg": 45,
+                "scramble": 38,
+                "circle1Putting": 70,
+                "circle2Putting": 14,
+                "throwIn": 0.2,
+                "ob": 12.7
+            }
+        },
+        {
+            "playerName": "Stacie Hass",
+            "playerPosition": 33,
+            "score": {
+                "ace": 0,
+                "eagle": 0.101,
+                "birdie": 19.495,
+                "par": 55.151,
+                "bogey": 17.273,
+                "doubleBogey": 6.566,
+                "tripleBogey": 1.414
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 6,
+                "circle1Reg": 25,
+                "circle2Reg": 47,
+                "scramble": 35,
+                "circle1Putting": 71,
+                "circle2Putting": 12,
+                "throwIn": 0.1,
+                "ob": 10.5
             }
         },
         {
@@ -827,363 +827,435 @@
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 15.972,
-                "par": 60.88,
-                "bogey": 18.287,
-                "doubleBogey": 3.241,
-                "tripleBogey": 1.62
+                "birdie": 15.766,
+                "par": 58.709,
+                "bogey": 19.52,
+                "doubleBogey": 4.204,
+                "tripleBogey": 1.802
             },
             "stats": {
                 "fairwayHits": 65,
-                "parked": 5,
-                "circle1Reg": 20,
-                "circle2Reg": 42,
-                "scramble": 35,
-                "circle1Putting": 73,
-                "circle2Putting": 11,
-                "throwIn": 0.5,
-                "ob": 12.9
-            }
-        },
-        {
-            "playerName": "Stacie Rawnsley",
-            "playerPosition": 35,
-            "score": {
-                "ace": 0,
-                "eagle": 0.192,
-                "birdie": 20.385,
-                "par": 50.385,
-                "bogey": 19.808,
-                "doubleBogey": 6.731,
-                "tripleBogey": 2.5
-            },
-            "stats": {
-                "fairwayHits": 67,
-                "parked": 6,
-                "circle1Reg": 26,
-                "circle2Reg": 45,
-                "scramble": 34,
-                "circle1Putting": 70,
-                "circle2Putting": 13,
-                "throwIn": 0.2,
-                "ob": 14.0
-            }
-        },
-        {
-            "playerName": "Ellen Widboom",
-            "playerPosition": 36,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 15.104,
-                "par": 57.118,
-                "bogey": 21.701,
-                "doubleBogey": 4.861,
-                "tripleBogey": 1.215
-            },
-            "stats": {
-                "fairwayHits": 58,
                 "parked": 4,
                 "circle1Reg": 19,
-                "circle2Reg": 36,
-                "scramble": 36,
+                "circle2Reg": 39,
+                "scramble": 30,
                 "circle1Putting": 74,
-                "circle2Putting": 12,
-                "throwIn": 0.2,
-                "ob": 8.8
+                "circle2Putting": 11,
+                "throwIn": 0.8,
+                "ob": 13.6
             }
         },
         {
             "playerName": "Erika Stinchcomb",
-            "playerPosition": 37,
+            "playerPosition": 35,
             "score": {
-                "ace": 0,
+                "ace": 0.094,
                 "eagle": 0,
-                "birdie": 9.524,
-                "par": 59.127,
-                "bogey": 23.148,
-                "doubleBogey": 6.746,
-                "tripleBogey": 1.455
-            },
-            "stats": {
-                "fairwayHits": 64,
-                "parked": 2,
-                "circle1Reg": 14,
-                "circle2Reg": 35,
-                "scramble": 32,
-                "circle1Putting": 71,
-                "circle2Putting": 10,
-                "throwIn": 0.1,
-                "ob": 12.2
-            }
-        },
-        {
-            "playerName": "Chloe Alice",
-            "playerPosition": 38,
-            "score": {
-                "ace": 0.206,
-                "eagle": 0.412,
-                "birdie": 18.724,
-                "par": 51.852,
-                "bogey": 20.37,
-                "doubleBogey": 6.996,
-                "tripleBogey": 1.44
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 7,
-                "circle1Reg": 26,
-                "circle2Reg": 48,
-                "scramble": 30,
-                "circle1Putting": 61,
-                "circle2Putting": 8,
-                "throwIn": 0.6,
-                "ob": 13.2
-            }
-        },
-        {
-            "playerName": "Callie McMorran",
-            "playerPosition": 39,
-            "score": {
-                "ace": 0,
-                "eagle": 0.214,
-                "birdie": 11.752,
-                "par": 58.761,
-                "bogey": 20.727,
-                "doubleBogey": 6.197,
-                "tripleBogey": 2.35
+                "birdie": 10.075,
+                "par": 60.169,
+                "bogey": 22.41,
+                "doubleBogey": 6.026,
+                "tripleBogey": 1.224
             },
             "stats": {
                 "fairwayHits": 63,
-                "parked": 3,
-                "circle1Reg": 17,
+                "parked": 2,
+                "circle1Reg": 14,
                 "circle2Reg": 34,
-                "scramble": 15,
-                "circle1Putting": 71,
-                "circle2Putting": 10,
+                "scramble": 32,
+                "circle1Putting": 74,
+                "circle2Putting": 11,
                 "throwIn": 0.2,
-                "ob": 15.8
+                "ob": 11.3
             }
         },
         {
             "playerName": "Hanna Huynh",
-            "playerPosition": 40,
+            "playerPosition": 36,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 12.963,
-                "par": 52.564,
-                "bogey": 25.071,
-                "doubleBogey": 6.553,
-                "tripleBogey": 2.849
-            },
-            "stats": {
-                "fairwayHits": 62,
-                "parked": 3,
-                "circle1Reg": 17,
-                "circle2Reg": 38,
-                "scramble": 24,
-                "circle1Putting": 60,
-                "circle2Putting": 8,
-                "throwIn": 0.3,
-                "ob": 14.5
-            }
-        },
-        {
-            "playerName": "Kaidi Allsalu",
-            "playerPosition": 41,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 28.889,
-                "par": 53.333,
-                "bogey": 12.778,
-                "doubleBogey": 4.444,
-                "tripleBogey": 0.556
-            },
-            "stats": {
-                "fairwayHits": 73,
-                "parked": 11,
-                "circle1Reg": 33,
-                "circle2Reg": 58,
-                "scramble": 48,
-                "circle1Putting": 73,
-                "circle2Putting": 8,
-                "throwIn": 0,
-                "ob": 3.3
-            }
-        },
-        {
-            "playerName": "Leah Tsinajinnie",
-            "playerPosition": 42,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 9.456,
-                "par": 54.373,
-                "bogey": 25.532,
-                "doubleBogey": 8.392,
-                "tripleBogey": 2.246
-            },
-            "stats": {
-                "fairwayHits": 66,
-                "parked": 3,
-                "circle1Reg": 13,
-                "circle2Reg": 30,
-                "scramble": 23,
-                "circle1Putting": 68,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 11.8
-            }
-        },
-        {
-            "playerName": "Raven Klein",
-            "playerPosition": 43,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 16.049,
-                "par": 51.235,
-                "bogey": 22.634,
-                "doubleBogey": 7.613,
-                "tripleBogey": 2.469
+                "birdie": 13.988,
+                "par": 52.778,
+                "bogey": 24.603,
+                "doubleBogey": 6.448,
+                "tripleBogey": 2.183
             },
             "stats": {
                 "fairwayHits": 63,
-                "parked": 6,
-                "circle1Reg": 23,
+                "parked": 3,
+                "circle1Reg": 18,
                 "circle2Reg": 39,
+                "scramble": 26,
+                "circle1Putting": 64,
+                "circle2Putting": 9,
+                "throwIn": 0.3,
+                "ob": 13.9
+            }
+        },
+        {
+            "playerName": "Ellen Widboom",
+            "playerPosition": 37,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 15.803,
+                "par": 57.531,
+                "bogey": 20.864,
+                "doubleBogey": 4.691,
+                "tripleBogey": 1.111
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 4,
+                "circle1Reg": 18,
+                "circle2Reg": 36,
+                "scramble": 38,
+                "circle1Putting": 76,
+                "circle2Putting": 15,
+                "throwIn": 0.5,
+                "ob": 9.4
+            }
+        },
+        {
+            "playerName": "Aria Castruita",
+            "playerPosition": 38,
+            "score": {
+                "ace": 0,
+                "eagle": 0.168,
+                "birdie": 23.826,
+                "par": 49.497,
+                "bogey": 18.792,
+                "doubleBogey": 5.705,
+                "tripleBogey": 2.013
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 8,
+                "circle1Reg": 29,
+                "circle2Reg": 49,
                 "scramble": 30,
-                "circle1Putting": 60,
-                "circle2Putting": 13,
-                "throwIn": 0.8,
-                "ob": 15.2
+                "circle1Putting": 70,
+                "circle2Putting": 11,
+                "throwIn": 0,
+                "ob": 14.8
             }
         },
         {
             "playerName": "Sarah Gilpin",
-            "playerPosition": 44,
+            "playerPosition": 39,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 15.686,
-                "par": 55.229,
-                "bogey": 25.49,
-                "doubleBogey": 2.614,
-                "tripleBogey": 0.98
-            },
-            "stats": {
-                "fairwayHits": 63,
-                "parked": 4,
-                "circle1Reg": 17,
-                "circle2Reg": 34,
-                "scramble": 24,
-                "circle1Putting": 77,
-                "circle2Putting": 10,
-                "throwIn": 0,
-                "ob": 10.6
-            }
-        },
-        {
-            "playerName": "Casey Pennington",
-            "playerPosition": 45,
-            "score": {
-                "ace": 0,
-                "eagle": 0.278,
-                "birdie": 19.722,
-                "par": 50.833,
-                "bogey": 23.056,
-                "doubleBogey": 5.278,
-                "tripleBogey": 0.833
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 6,
-                "circle1Reg": 28,
-                "circle2Reg": 53,
-                "scramble": 34,
-                "circle1Putting": 60,
-                "circle2Putting": 9,
-                "throwIn": 0.3,
-                "ob": 9.6
-            }
-        },
-        {
-            "playerName": "Lydia Lyons",
-            "playerPosition": 46,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 19.697,
-                "par": 48.737,
-                "bogey": 21.212,
-                "doubleBogey": 7.828,
-                "tripleBogey": 2.525
-            },
-            "stats": {
-                "fairwayHits": 65,
-                "parked": 7,
-                "circle1Reg": 26,
-                "circle2Reg": 45,
-                "scramble": 29,
-                "circle1Putting": 58,
-                "circle2Putting": 15,
-                "throwIn": 0.3,
-                "ob": 15.2
-            }
-        },
-        {
-            "playerName": "Christine Jennings",
-            "playerPosition": 47,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 13.726,
-                "par": 54.575,
-                "bogey": 22.222,
-                "doubleBogey": 7.19,
-                "tripleBogey": 2.288
+                "birdie": 16.092,
+                "par": 59.387,
+                "bogey": 20.881,
+                "doubleBogey": 3.065,
+                "tripleBogey": 0.575
             },
             "stats": {
                 "fairwayHits": 64,
                 "parked": 5,
-                "circle1Reg": 19,
-                "circle2Reg": 32,
-                "scramble": 28,
-                "circle1Putting": 67,
-                "circle2Putting": 12,
-                "throwIn": 0.3,
-                "ob": 18.7
+                "circle1Reg": 17,
+                "circle2Reg": 35,
+                "scramble": 25,
+                "circle1Putting": 77,
+                "circle2Putting": 10,
+                "throwIn": 0,
+                "ob": 9.4
             }
         },
         {
-            "playerName": "Danielle Kleidon",
+            "playerName": "Raven Klein",
+            "playerPosition": 40,
+            "score": {
+                "ace": 0,
+                "eagle": 0.126,
+                "birdie": 15.657,
+                "par": 52.273,
+                "bogey": 22.349,
+                "doubleBogey": 7.323,
+                "tripleBogey": 2.273
+            },
+            "stats": {
+                "fairwayHits": 61,
+                "parked": 5,
+                "circle1Reg": 21,
+                "circle2Reg": 39,
+                "scramble": 34,
+                "circle1Putting": 62,
+                "circle2Putting": 13,
+                "throwIn": 0.9,
+                "ob": 15.7
+            }
+        },
+        {
+            "playerName": "Callie McMorran",
+            "playerPosition": 41,
+            "score": {
+                "ace": 0,
+                "eagle": 0.154,
+                "birdie": 10.339,
+                "par": 58.951,
+                "bogey": 22.068,
+                "doubleBogey": 6.481,
+                "tripleBogey": 2.006
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 2,
+                "circle1Reg": 15,
+                "circle2Reg": 30,
+                "scramble": 23,
+                "circle1Putting": 73,
+                "circle2Putting": 10,
+                "throwIn": 0.2,
+                "ob": 16.4
+            }
+        },
+        {
+            "playerName": "Chloe Alice",
+            "playerPosition": 43,
+            "score": {
+                "ace": 0.163,
+                "eagle": 0.327,
+                "birdie": 17.974,
+                "par": 52.614,
+                "bogey": 20.915,
+                "doubleBogey": 6.699,
+                "tripleBogey": 1.307
+            },
+            "stats": {
+                "fairwayHits": 68,
+                "parked": 6,
+                "circle1Reg": 27,
+                "circle2Reg": 49,
+                "scramble": 27,
+                "circle1Putting": 60,
+                "circle2Putting": 9,
+                "throwIn": 0.7,
+                "ob": 15.7
+            }
+        },
+        {
+            "playerName": "Casey Pennington",
+            "playerPosition": 44,
+            "score": {
+                "ace": 0,
+                "eagle": 0.337,
+                "birdie": 18.855,
+                "par": 49.663,
+                "bogey": 23.569,
+                "doubleBogey": 5.556,
+                "tripleBogey": 2.02
+            },
+            "stats": {
+                "fairwayHits": 69,
+                "parked": 6,
+                "circle1Reg": 26,
+                "circle2Reg": 51,
+                "scramble": 29,
+                "circle1Putting": 59,
+                "circle2Putting": 9,
+                "throwIn": 0.3,
+                "ob": 14.2
+            }
+        },
+        {
+            "playerName": "Leah Tsinajinnie",
+            "playerPosition": 45,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 9.282,
+                "par": 54.466,
+                "bogey": 25.919,
+                "doubleBogey": 8.056,
+                "tripleBogey": 2.277
+            },
+            "stats": {
+                "fairwayHits": 65,
+                "parked": 3,
+                "circle1Reg": 12,
+                "circle2Reg": 30,
+                "scramble": 23,
+                "circle1Putting": 69,
+                "circle2Putting": 6,
+                "throwIn": 0,
+                "ob": 12.2
+            }
+        },
+        {
+            "playerName": "Christine Jennings",
+            "playerPosition": 46,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 14.815,
+                "par": 56.584,
+                "bogey": 20.988,
+                "doubleBogey": 5.967,
+                "tripleBogey": 1.646
+            },
+            "stats": {
+                "fairwayHits": 64,
+                "parked": 4,
+                "circle1Reg": 19,
+                "circle2Reg": 34,
+                "scramble": 33,
+                "circle1Putting": 73,
+                "circle2Putting": 11,
+                "throwIn": 0.2,
+                "ob": 16.3
+            }
+        },
+        {
+            "playerName": "Stephanie Vincent",
             "playerPosition": 48,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 12.889,
-                "par": 53.556,
-                "bogey": 25.333,
-                "doubleBogey": 6.889,
-                "tripleBogey": 1.333
+                "birdie": 17.901,
+                "par": 57.613,
+                "bogey": 19.959,
+                "doubleBogey": 3.292,
+                "tripleBogey": 1.235
             },
             "stats": {
-                "fairwayHits": 59,
-                "parked": 3,
-                "circle1Reg": 18,
-                "circle2Reg": 38,
+                "fairwayHits": 69,
+                "parked": 4,
+                "circle1Reg": 22,
+                "circle2Reg": 46,
+                "scramble": 31,
+                "circle1Putting": 73,
+                "circle2Putting": 10,
+                "throwIn": 0.2,
+                "ob": 9.3
+            }
+        },
+        {
+            "playerName": "Lydia Lyons",
+            "playerPosition": 49,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 18.75,
+                "par": 49.132,
+                "bogey": 20.486,
+                "doubleBogey": 8.333,
+                "tripleBogey": 3.299
+            },
+            "stats": {
+                "fairwayHits": 67,
+                "parked": 6,
+                "circle1Reg": 25,
+                "circle2Reg": 45,
+                "scramble": 25,
+                "circle1Putting": 61,
+                "circle2Putting": 13,
+                "throwIn": 0.2,
+                "ob": 16.5
+            }
+        },
+        {
+            "playerName": "Danielle Kleidon",
+            "playerPosition": 51,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 14.41,
+                "par": 52.431,
+                "bogey": 25.521,
+                "doubleBogey": 6.424,
+                "tripleBogey": 1.215
+            },
+            "stats": {
+                "fairwayHits": 60,
+                "parked": 4,
+                "circle1Reg": 20,
+                "circle2Reg": 40,
                 "scramble": 24,
-                "circle1Putting": 68,
-                "circle2Putting": 8,
+                "circle1Putting": 69,
+                "circle2Putting": 7,
                 "throwIn": 0,
-                "ob": 14.7
+                "ob": 14.2
+            }
+        },
+        {
+            "playerName": "Tiger Borth",
+            "playerPosition": 52,
+            "score": {
+                "ace": 0,
+                "eagle": 0.118,
+                "birdie": 11.82,
+                "par": 51.655,
+                "bogey": 25.059,
+                "doubleBogey": 9.22,
+                "tripleBogey": 2.128
+            },
+            "stats": {
+                "fairwayHits": 62,
+                "parked": 4,
+                "circle1Reg": 17,
+                "circle2Reg": 37,
+                "scramble": 31,
+                "circle1Putting": 64,
+                "circle2Putting": 12,
+                "throwIn": 0.2,
+                "ob": 16.9
+            }
+        },
+        {
+            "playerName": "Sandra Richardson",
+            "playerPosition": 53,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 10.434,
+                "par": 50.407,
+                "bogey": 27.507,
+                "doubleBogey": 8.943,
+                "tripleBogey": 2.71
+            },
+            "stats": {
+                "fairwayHits": 58,
+                "parked": 3,
+                "circle1Reg": 12,
+                "circle2Reg": 27,
+                "scramble": 26,
+                "circle1Putting": 68,
+                "circle2Putting": 14,
+                "throwIn": 0,
+                "ob": 14.4
+            }
+        },
+        {
+            "playerName": "Lindsay Fish",
+            "playerPosition": 55,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 13.518,
+                "par": 55.185,
+                "bogey": 21.852,
+                "doubleBogey": 7.593,
+                "tripleBogey": 1.852
+            },
+            "stats": {
+                "fairwayHits": 71,
+                "parked": 4,
+                "circle1Reg": 19,
+                "circle2Reg": 42,
+                "scramble": 21,
+                "circle1Putting": 61,
+                "circle2Putting": 8,
+                "throwIn": 0.2,
+                "ob": 12.6
             }
         },
         {
             "playerName": "Heather Young",
-            "playerPosition": 49,
+            "playerPosition": 56,
             "score": {
                 "ace": 0,
                 "eagle": 0.427,
@@ -1206,80 +1278,56 @@
             }
         },
         {
-            "playerName": "Sai Ananda",
-            "playerPosition": 50,
+            "playerName": "Ali Smith",
+            "playerPosition": 56,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 29.365,
-                "par": 57.937,
-                "bogey": 10.318,
-                "doubleBogey": 2.381,
-                "tripleBogey": 0
+                "birdie": 13.072,
+                "par": 57.843,
+                "bogey": 22.549,
+                "doubleBogey": 6.209,
+                "tripleBogey": 0.327
             },
             "stats": {
                 "fairwayHits": 65,
-                "parked": 8,
-                "circle1Reg": 33,
-                "circle2Reg": 57,
-                "scramble": 50,
-                "circle1Putting": 83,
-                "circle2Putting": 8,
-                "throwIn": 0,
-                "ob": 3.2
-            }
-        },
-        {
-            "playerName": "Lindsay Fish",
-            "playerPosition": 51,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 14.251,
-                "par": 52.416,
-                "bogey": 23.188,
-                "doubleBogey": 8.213,
-                "tripleBogey": 1.932
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 4,
-                "circle1Reg": 20,
-                "circle2Reg": 41,
-                "scramble": 18,
-                "circle1Putting": 56,
-                "circle2Putting": 9,
-                "throwIn": 0.2,
-                "ob": 12.6
-            }
-        },
-        {
-            "playerName": "Sandra Richardson",
-            "playerPosition": 52,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 10.913,
-                "par": 49.206,
-                "bogey": 28.175,
-                "doubleBogey": 9.127,
-                "tripleBogey": 2.579
-            },
-            "stats": {
-                "fairwayHits": 60,
                 "parked": 3,
-                "circle1Reg": 13,
-                "circle2Reg": 27,
-                "scramble": 23,
+                "circle1Reg": 16,
+                "circle2Reg": 34,
+                "scramble": 27,
+                "circle1Putting": 65,
+                "circle2Putting": 18,
+                "throwIn": 0.7,
+                "ob": 9.6
+            }
+        },
+        {
+            "playerName": "Alyssa Pierson",
+            "playerPosition": 58,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 11.285,
+                "par": 47.743,
+                "bogey": 26.736,
+                "doubleBogey": 10.59,
+                "tripleBogey": 3.646
+            },
+            "stats": {
+                "fairwayHits": 63,
+                "parked": 2,
+                "circle1Reg": 16,
+                "circle2Reg": 36,
+                "scramble": 24,
                 "circle1Putting": 66,
-                "circle2Putting": 16,
+                "circle2Putting": 10,
                 "throwIn": 0,
-                "ob": 15.2
+                "ob": 18.6
             }
         },
         {
             "playerName": "Madison Tomaino",
-            "playerPosition": 53,
+            "playerPosition": 59,
             "score": {
                 "ace": 0,
                 "eagle": 0.347,
@@ -1302,867 +1350,195 @@
             }
         },
         {
-            "playerName": "Stephanie Vincent",
-            "playerPosition": 54,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 18.376,
-                "par": 59.829,
-                "bogey": 17.949,
-                "doubleBogey": 2.991,
-                "tripleBogey": 0.855
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 5,
-                "circle1Reg": 24,
-                "circle2Reg": 51,
-                "scramble": 33,
-                "circle1Putting": 69,
-                "circle2Putting": 5,
-                "throwIn": 0,
-                "ob": 7.4
-            }
-        },
-        {
-            "playerName": "Tiger Borth",
-            "playerPosition": 55,
-            "score": {
-                "ace": 0,
-                "eagle": 0.179,
-                "birdie": 10.573,
-                "par": 51.255,
-                "bogey": 25.627,
-                "doubleBogey": 10.036,
-                "tripleBogey": 2.33
-            },
-            "stats": {
-                "fairwayHits": 62,
-                "parked": 3,
-                "circle1Reg": 17,
-                "circle2Reg": 39,
-                "scramble": 28,
-                "circle1Putting": 58,
-                "circle2Putting": 10,
-                "throwIn": 0.2,
-                "ob": 17.0
-            }
-        },
-        {
             "playerName": "Zoe Andyke",
-            "playerPosition": 56,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 12.5,
-                "par": 53.472,
-                "bogey": 28.819,
-                "doubleBogey": 4.514,
-                "tripleBogey": 0.694
-            },
-            "stats": {
-                "fairwayHits": 61,
-                "parked": 2,
-                "circle1Reg": 20,
-                "circle2Reg": 34,
-                "scramble": 31,
-                "circle1Putting": 69,
-                "circle2Putting": 5,
-                "throwIn": 0.3,
-                "ob": 8.0
-            }
-        },
-        {
-            "playerName": "Elaine King",
-            "playerPosition": 57,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 14.197,
-                "par": 58.642,
-                "bogey": 22.84,
-                "doubleBogey": 3.704,
-                "tripleBogey": 0.617
-            },
-            "stats": {
-                "fairwayHits": 65,
-                "parked": 4,
-                "circle1Reg": 19,
-                "circle2Reg": 35,
-                "scramble": 28,
-                "circle1Putting": 65,
-                "circle2Putting": 6,
-                "throwIn": 0,
-                "ob": 6.9
-            }
-        },
-        {
-            "playerName": "Des Reading",
-            "playerPosition": 58,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 12.871,
-                "par": 48.515,
-                "bogey": 29.703,
-                "doubleBogey": 5.941,
-                "tripleBogey": 2.97
-            },
-            "stats": {
-                "fairwayHits": 58,
-                "parked": 4,
-                "circle1Reg": 15,
-                "circle2Reg": 27,
-                "scramble": 14,
-                "circle1Putting": 64,
-                "circle2Putting": 8,
-                "throwIn": 0,
-                "ob": 12.1
-            }
-        },
-        {
-            "playerName": "Julie Moens",
-            "playerPosition": 59,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 25.397,
-                "par": 50,
-                "bogey": 18.254,
-                "doubleBogey": 5.556,
-                "tripleBogey": 0.794
-            },
-            "stats": {
-                "fairwayHits": 52,
-                "parked": 12,
-                "circle1Reg": 28,
-                "circle2Reg": 43,
-                "scramble": 46,
-                "circle1Putting": 75,
-                "circle2Putting": 23,
-                "throwIn": 0,
-                "ob": 14.2
-            }
-        },
-        {
-            "playerName": "Chelsea Howells",
-            "playerPosition": 60,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 11.806,
-                "par": 49.306,
-                "bogey": 27.431,
-                "doubleBogey": 9.028,
-                "tripleBogey": 2.431
-            },
-            "stats": {
-                "fairwayHits": 57,
-                "parked": 3,
-                "circle1Reg": 17,
-                "circle2Reg": 39,
-                "scramble": 16,
-                "circle1Putting": 63,
-                "circle2Putting": 3,
-                "throwIn": 0.3,
-                "ob": 16.7
-            }
-        },
-        {
-            "playerName": "Sami Keddington",
-            "playerPosition": 61,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 13.426,
-                "par": 50.463,
-                "bogey": 28.704,
-                "doubleBogey": 6.481,
-                "tripleBogey": 0.926
-            },
-            "stats": {
-                "fairwayHits": 63,
-                "parked": 5,
-                "circle1Reg": 24,
-                "circle2Reg": 41,
-                "scramble": 22,
-                "circle1Putting": 56,
-                "circle2Putting": 3,
-                "throwIn": 0,
-                "ob": 11.1
-            }
-        },
-        {
-            "playerName": "Ali Smith",
-            "playerPosition": 62,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 9.524,
-                "par": 60.318,
-                "bogey": 21.429,
-                "doubleBogey": 8.73,
-                "tripleBogey": 0
-            },
-            "stats": {
-                "fairwayHits": 65,
-                "parked": 2,
-                "circle1Reg": 14,
-                "circle2Reg": 29,
-                "scramble": 29,
-                "circle1Putting": 62,
-                "circle2Putting": 19,
-                "throwIn": 0.8,
-                "ob": 4.8
-            }
-        },
-        {
-            "playerName": "Lori Merriman",
             "playerPosition": 63,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 8.333,
-                "par": 55.556,
-                "bogey": 27.431,
-                "doubleBogey": 6.597,
-                "tripleBogey": 2.083
+                "birdie": 13.611,
+                "par": 53.333,
+                "bogey": 27.5,
+                "doubleBogey": 4.722,
+                "tripleBogey": 0.833
             },
             "stats": {
-                "fairwayHits": 65,
+                "fairwayHits": 62,
                 "parked": 3,
-                "circle1Reg": 15,
-                "circle2Reg": 36,
-                "scramble": 26,
-                "circle1Putting": 60,
-                "circle2Putting": 8,
-                "throwIn": 0,
+                "circle1Reg": 20,
+                "circle2Reg": 34,
+                "scramble": 30,
+                "circle1Putting": 73,
+                "circle2Putting": 6,
+                "throwIn": 0.3,
                 "ob": 9.4
             }
         },
         {
-            "playerName": "Paige Shue",
-            "playerPosition": 64,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 11.111,
-                "par": 41.667,
-                "bogey": 34.259,
-                "doubleBogey": 9.259,
-                "tripleBogey": 3.704
-            },
-            "stats": {
-                "fairwayHits": 64,
-                "parked": 6,
-                "circle1Reg": 16,
-                "circle2Reg": 28,
-                "scramble": 17,
-                "circle1Putting": 56,
-                "circle2Putting": 9,
-                "throwIn": 0,
-                "ob": 24.1
-            }
-        },
-        {
-            "playerName": "Melody Castruita",
+            "playerName": "Lori Merriman",
             "playerPosition": 65,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 13.527,
-                "par": 43.961,
-                "bogey": 25.121,
-                "doubleBogey": 12.319,
-                "tripleBogey": 5.072
+                "birdie": 10.354,
+                "par": 55.303,
+                "bogey": 26.263,
+                "doubleBogey": 6.313,
+                "tripleBogey": 1.768
             },
             "stats": {
-                "fairwayHits": 57,
-                "parked": 3,
-                "circle1Reg": 17,
-                "circle2Reg": 35,
-                "scramble": 21,
-                "circle1Putting": 58,
-                "circle2Putting": 15,
-                "throwIn": 0.3,
-                "ob": 16.1
+                "fairwayHits": 65,
+                "parked": 4,
+                "circle1Reg": 15,
+                "circle2Reg": 38,
+                "scramble": 34,
+                "circle1Putting": 62,
+                "circle2Putting": 10,
+                "throwIn": 0,
+                "ob": 7.6
             }
         },
         {
-            "playerName": "Alyssa Pierson",
+            "playerName": "Des Reading",
             "playerPosition": 66,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 12.5,
-                "par": 44.097,
-                "bogey": 28.819,
-                "doubleBogey": 11.111,
-                "tripleBogey": 3.472
+                "birdie": 12.214,
+                "par": 49.364,
+                "bogey": 29.262,
+                "doubleBogey": 6.361,
+                "tripleBogey": 2.799
             },
             "stats": {
-                "fairwayHits": 65,
+                "fairwayHits": 59,
+                "parked": 3,
+                "circle1Reg": 14,
+                "circle2Reg": 27,
+                "scramble": 13,
+                "circle1Putting": 67,
+                "circle2Putting": 8,
+                "throwIn": 0,
+                "ob": 10.8
+            }
+        },
+        {
+            "playerName": "Chelsea Howells",
+            "playerPosition": 73,
+            "score": {
+                "ace": 0,
+                "eagle": 0,
+                "birdie": 11.944,
+                "par": 50.278,
+                "bogey": 27.222,
+                "doubleBogey": 8.611,
+                "tripleBogey": 1.944
+            },
+            "stats": {
+                "fairwayHits": 59,
                 "parked": 3,
                 "circle1Reg": 17,
-                "circle2Reg": 38,
-                "scramble": 24,
-                "circle1Putting": 65,
-                "circle2Putting": 10,
-                "throwIn": 0,
-                "ob": 18.1
-            }
-        },
-        {
-            "playerName": "Elyse Reveles",
-            "playerPosition": 67,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 14.815,
-                "par": 55.556,
-                "bogey": 20.37,
-                "doubleBogey": 8.333,
-                "tripleBogey": 0.926
-            },
-            "stats": {
-                "fairwayHits": 65,
-                "parked": 6,
-                "circle1Reg": 19,
-                "circle2Reg": 42,
-                "scramble": 19,
-                "circle1Putting": 62,
-                "circle2Putting": 6,
-                "throwIn": 0,
-                "ob": 26.9
-            }
-        },
-        {
-            "playerName": "Anniken Steen",
-            "playerPosition": 68,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 11.905,
-                "par": 57.937,
-                "bogey": 23.809,
-                "doubleBogey": 5.556,
-                "tripleBogey": 0.794
-            },
-            "stats": {
-                "fairwayHits": 53,
-                "parked": 4,
-                "circle1Reg": 18,
-                "circle2Reg": 30,
-                "scramble": 52,
-                "circle1Putting": 72,
-                "circle2Putting": 10,
-                "throwIn": 0,
-                "ob": 7.9
-            }
-        },
-        {
-            "playerName": "Carolina “Reaper” Halstead",
-            "playerPosition": 69,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 3.086,
-                "par": 46.914,
-                "bogey": 34.568,
-                "doubleBogey": 10.494,
-                "tripleBogey": 4.938
-            },
-            "stats": {
-                "fairwayHits": 49,
-                "parked": 1,
-                "circle1Reg": 4,
-                "circle2Reg": 15,
-                "scramble": 8,
-                "circle1Putting": 55,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 22.2
-            }
-        },
-        {
-            "playerName": "Hannah Manis",
-            "playerPosition": 70,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 9.877,
-                "par": 56.79,
-                "bogey": 23.457,
-                "doubleBogey": 6.79,
-                "tripleBogey": 3.086
-            },
-            "stats": {
-                "fairwayHits": 72,
-                "parked": 1,
-                "circle1Reg": 15,
                 "circle2Reg": 41,
-                "scramble": 21,
-                "circle1Putting": 70,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 13.0
+                "scramble": 18,
+                "circle1Putting": 63,
+                "circle2Putting": 3,
+                "throwIn": 0.3,
+                "ob": 16.3
             }
         },
         {
             "playerName": "Katelyn Belty",
-            "playerPosition": 71,
+            "playerPosition": 80,
             "score": {
                 "ace": 0,
-                "eagle": 0.347,
-                "birdie": 17.014,
-                "par": 46.528,
-                "bogey": 25,
-                "doubleBogey": 8.333,
-                "tripleBogey": 2.778
-            },
-            "stats": {
-                "fairwayHits": 62,
-                "parked": 6,
-                "circle1Reg": 27,
-                "circle2Reg": 49,
-                "scramble": 23,
-                "circle1Putting": 52,
-                "circle2Putting": 8,
-                "throwIn": 0.4,
-                "ob": 13.5
-            }
-        },
-        {
-            "playerName": "Danielle Keen",
-            "playerPosition": 75,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 12.037,
-                "par": 54.63,
-                "bogey": 19.444,
-                "doubleBogey": 10.185,
-                "tripleBogey": 3.704
-            },
-            "stats": {
-                "fairwayHits": 55,
-                "parked": 4,
-                "circle1Reg": 14,
-                "circle2Reg": 30,
-                "scramble": 31,
-                "circle1Putting": 63,
-                "circle2Putting": 10,
-                "throwIn": 0,
-                "ob": 17.6
-            }
-        },
-        {
-            "playerName": "Shelbi Dutton",
-            "playerPosition": 76,
-            "score": {
-                "ace": 0.794,
-                "eagle": 0,
-                "birdie": 13.492,
-                "par": 61.905,
-                "bogey": 22.222,
-                "doubleBogey": 1.587,
-                "tripleBogey": 0
-            },
-            "stats": {
-                "fairwayHits": 62,
-                "parked": 6,
-                "circle1Reg": 17,
-                "circle2Reg": 39,
-                "scramble": 38,
-                "circle1Putting": 73,
-                "circle2Putting": 7,
-                "throwIn": 0.8,
-                "ob": 2.4
-            }
-        },
-        {
-            "playerName": "Ellie Bryant",
-            "playerPosition": 77,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 19.048,
-                "par": 58.73,
-                "bogey": 16.667,
-                "doubleBogey": 2.381,
-                "tripleBogey": 3.175
-            },
-            "stats": {
-                "fairwayHits": 68,
-                "parked": 4,
-                "circle1Reg": 22,
-                "circle2Reg": 46,
-                "scramble": 39,
-                "circle1Putting": 70,
-                "circle2Putting": 18,
-                "throwIn": 0.8,
-                "ob": 4.8
-            }
-        },
-        {
-            "playerName": "Ashlyn Tahlier",
-            "playerPosition": 77,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 13.889,
-                "par": 49.444,
-                "bogey": 28.333,
-                "doubleBogey": 6.667,
-                "tripleBogey": 1.667
-            },
-            "stats": {
-                "fairwayHits": 51,
-                "parked": 1,
-                "circle1Reg": 18,
-                "circle2Reg": 37,
-                "scramble": 23,
-                "circle1Putting": 61,
-                "circle2Putting": 9,
-                "throwIn": 0.6,
-                "ob": 12.8
-            }
-        },
-        {
-            "playerName": "Lauren Butler",
-            "playerPosition": 77,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 10.318,
-                "par": 56.349,
-                "bogey": 26.191,
-                "doubleBogey": 5.556,
-                "tripleBogey": 1.587
-            },
-            "stats": {
-                "fairwayHits": 64,
-                "parked": 4,
-                "circle1Reg": 23,
-                "circle2Reg": 46,
-                "scramble": 27,
-                "circle1Putting": 26,
-                "circle2Putting": 10,
-                "throwIn": 1.6,
-                "ob": 6.3
-            }
-        },
-        {
-            "playerName": "Kristine King",
-            "playerPosition": 82,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 8.333,
-                "par": 64.444,
-                "bogey": 23.889,
-                "doubleBogey": 2.778,
-                "tripleBogey": 0.556
-            },
-            "stats": {
-                "fairwayHits": 40,
-                "parked": 3,
-                "circle1Reg": 11,
-                "circle2Reg": 30,
-                "scramble": 50,
-                "circle1Putting": 59,
-                "circle2Putting": 13,
-                "throwIn": 0.6,
-                "ob": 1.3
-            }
-        },
-        {
-            "playerName": "Anna Pinter",
-            "playerPosition": 89,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 2.469,
-                "par": 33.333,
-                "bogey": 35.185,
-                "doubleBogey": 19.136,
-                "tripleBogey": 9.877
-            },
-            "stats": {
-                "fairwayHits": 65,
-                "parked": 0,
-                "circle1Reg": 3,
-                "circle2Reg": 7,
-                "scramble": 2,
-                "circle1Putting": 57,
-                "circle2Putting": 12,
-                "throwIn": 0,
-                "ob": 24.1
-            }
-        },
-        {
-            "playerName": "Chantel Budinsky",
-            "playerPosition": 94,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 15,
-                "par": 49.444,
-                "bogey": 25.556,
-                "doubleBogey": 7.778,
-                "tripleBogey": 2.222
+                "eagle": 0.242,
+                "birdie": 15.7,
+                "par": 46.86,
+                "bogey": 25.604,
+                "doubleBogey": 8.696,
+                "tripleBogey": 2.899
             },
             "stats": {
                 "fairwayHits": 63,
                 "parked": 5,
-                "circle1Reg": 17,
-                "circle2Reg": 36,
-                "scramble": 23,
-                "circle1Putting": 69,
-                "circle2Putting": 10,
-                "throwIn": 0.6,
-                "ob": 13.3
+                "circle1Reg": 25,
+                "circle2Reg": 46,
+                "scramble": 20,
+                "circle1Putting": 58,
+                "circle2Putting": 7,
+                "throwIn": 0.3,
+                "ob": 15.2
             }
         },
         {
-            "playerName": "Nathalie Ortiz",
-            "playerPosition": 94,
+            "playerName": "Melody Castruita",
+            "playerPosition": 82,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 2.778,
-                "par": 49.074,
-                "bogey": 26.852,
-                "doubleBogey": 14.815,
-                "tripleBogey": 6.481
+                "birdie": 13.58,
+                "par": 44.239,
+                "bogey": 25.514,
+                "doubleBogey": 11.934,
+                "tripleBogey": 4.733
             },
             "stats": {
-                "fairwayHits": 45,
-                "parked": 0,
-                "circle1Reg": 2,
-                "circle2Reg": 8,
-                "scramble": 8,
-                "circle1Putting": 65,
-                "circle2Putting": 16,
-                "throwIn": 0,
-                "ob": 17.6
-            }
-        },
-        {
-            "playerName": "Liz Torok",
-            "playerPosition": 96,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 6.481,
-                "par": 35.185,
-                "bogey": 30.556,
-                "doubleBogey": 19.444,
-                "tripleBogey": 8.333
-            },
-            "stats": {
-                "fairwayHits": 58,
+                "fairwayHits": 59,
                 "parked": 3,
-                "circle1Reg": 6,
-                "circle2Reg": 17,
-                "scramble": 5,
-                "circle1Putting": 65,
-                "circle2Putting": 10,
-                "throwIn": 0,
-                "ob": 27.8
+                "circle1Reg": 17,
+                "circle2Reg": 34,
+                "scramble": 19,
+                "circle1Putting": 59,
+                "circle2Putting": 13,
+                "throwIn": 0.2,
+                "ob": 17.3
             }
         },
         {
-            "playerName": "Violet Main",
-            "playerPosition": 103,
+            "playerName": "Ellie Bryant",
+            "playerPosition": 84,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 17.46,
-                "par": 50.794,
-                "bogey": 24.603,
-                "doubleBogey": 5.556,
-                "tripleBogey": 1.587
+                "birdie": 13.248,
+                "par": 50.855,
+                "bogey": 25.214,
+                "doubleBogey": 8.12,
+                "tripleBogey": 2.564
             },
             "stats": {
-                "fairwayHits": 40,
-                "parked": 4,
-                "circle1Reg": 20,
-                "circle2Reg": 39,
-                "scramble": 35,
-                "circle1Putting": 60,
-                "circle2Putting": 11,
-                "throwIn": 2.4,
-                "ob": 3.2
+                "fairwayHits": 65,
+                "parked": 3,
+                "circle1Reg": 15,
+                "circle2Reg": 34,
+                "scramble": 30,
+                "circle1Putting": 69,
+                "circle2Putting": 23,
+                "throwIn": 0.9,
+                "ob": 9.0
             }
         },
         {
-            "playerName": "Erica Shepich",
-            "playerPosition": 103,
+            "playerName": "Chantel Budinsky",
+            "playerPosition": 86,
             "score": {
                 "ace": 0,
                 "eagle": 0,
-                "birdie": 3.175,
-                "par": 55.556,
-                "bogey": 30.159,
-                "doubleBogey": 7.143,
-                "tripleBogey": 3.968
-            },
-            "stats": {
-                "fairwayHits": 51,
-                "parked": 0,
-                "circle1Reg": 4,
-                "circle2Reg": 17,
-                "scramble": 34,
-                "circle1Putting": 66,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 4.0
-            }
-        },
-        {
-            "playerName": "Sami Osterberg",
-            "playerPosition": 103,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 5.556,
-                "par": 42.222,
-                "bogey": 38.333,
-                "doubleBogey": 9.444,
-                "tripleBogey": 4.444
-            },
-            "stats": {
-                "fairwayHits": 53,
-                "parked": 2,
-                "circle1Reg": 7,
-                "circle2Reg": 22,
-                "scramble": 17,
-                "circle1Putting": 55,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 16.1
-            }
-        },
-        {
-            "playerName": "Hannah McBeth",
-            "playerPosition": 108,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 9.444,
-                "par": 57.222,
-                "bogey": 25.556,
-                "doubleBogey": 7.222,
-                "tripleBogey": 0.556
+                "birdie": 14.722,
+                "par": 50.833,
+                "bogey": 26.111,
+                "doubleBogey": 6.667,
+                "tripleBogey": 1.667
             },
             "stats": {
                 "fairwayHits": 61,
-                "parked": 5,
-                "circle1Reg": 16,
-                "circle2Reg": 39,
-                "scramble": 28,
-                "circle1Putting": 64,
-                "circle2Putting": 3,
-                "throwIn": 0,
-                "ob": 5.4
-            }
-        },
-        {
-            "playerName": "Rebekah Kersey",
-            "playerPosition": 109,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 8.73,
-                "par": 65.873,
-                "bogey": 19.048,
-                "doubleBogey": 5.556,
-                "tripleBogey": 0.794
-            },
-            "stats": {
-                "fairwayHits": 55,
-                "parked": 1,
-                "circle1Reg": 13,
-                "circle2Reg": 37,
-                "scramble": 40,
-                "circle1Putting": 71,
-                "circle2Putting": 9,
-                "throwIn": 0,
-                "ob": 4.0
-            }
-        },
-        {
-            "playerName": "Danielle Weigandt",
-            "playerPosition": 122,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 12.037,
-                "par": 39.815,
-                "bogey": 31.482,
-                "doubleBogey": 14.815,
-                "tripleBogey": 1.852
-            },
-            "stats": {
-                "fairwayHits": 54,
-                "parked": 7,
-                "circle1Reg": 18,
-                "circle2Reg": 27,
-                "scramble": 26,
-                "circle1Putting": 50,
-                "circle2Putting": 16,
-                "throwIn": 0.9,
-                "ob": 22.2
-            }
-        },
-        {
-            "playerName": "Sheng Chang",
-            "playerPosition": 137,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 3.968,
-                "par": 57.937,
-                "bogey": 27.778,
-                "doubleBogey": 7.937,
-                "tripleBogey": 2.381
-            },
-            "stats": {
-                "fairwayHits": 57,
-                "parked": 0,
-                "circle1Reg": 7,
-                "circle2Reg": 30,
-                "scramble": 35,
-                "circle1Putting": 59,
-                "circle2Putting": 7,
-                "throwIn": 0,
-                "ob": 5.7
-            }
-        },
-        {
-            "playerName": "Kayla Singer",
-            "playerPosition": 137,
-            "score": {
-                "ace": 0,
-                "eagle": 0,
-                "birdie": 8.73,
-                "par": 50.794,
-                "bogey": 30.952,
-                "doubleBogey": 7.143,
-                "tripleBogey": 2.381
-            },
-            "stats": {
-                "fairwayHits": 57,
                 "parked": 3,
                 "circle1Reg": 16,
-                "circle2Reg": 34,
-                "scramble": 13,
-                "circle1Putting": 55,
-                "circle2Putting": 2,
-                "throwIn": 0,
-                "ob": 3.2
+                "circle2Reg": 35,
+                "scramble": 28,
+                "circle1Putting": 70,
+                "circle2Putting": 13,
+                "throwIn": 0.3,
+                "ob": 14.4
             }
         }
     ]
